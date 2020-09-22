@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+<channel>
+<title>Brainstorms and Raves</title>
+<link>http://brainstormsandraves.com/</link>
+<description>An almost daily weblog about the web, design, development, standards, typography, music, and anything else. By Shirley Kaiser, SKDesigns and WebsiteTips.com.</description>
+<language>en-us</language>
+<dc:subject>Web design, standards</dc:subject>
+<copyright>Copyright 2000-2004 Shirley Kaiser, SKDesigns. All rights reserved.</copyright>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-10-05T09:37:05</dc:date>
+<ttl>120</ttl>
+
+<sy:updatePeriod>hourly</sy:updatePeriod> 
+<sy:updateFrequency>2</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<docs>http://backend.userland.com/rss</docs>
+<image>
+ <title>Brainstorms and Raves</title> 
+ <url>http://brainstormsandraves.com/images1/icons/brainstorms88.gif</url>
+<width>88</width>
+<height>31</height>
+<link>http://brainstormsandraves.com/</link>
+<description>An almost daily weblog about the web, design, development, standards, typography, music, and anything else. By Shirley Kaiser, SKDesigns and WebsiteTips.com.</description>
+</image>
+<item><title>Testing Websites for Accessibility with Lynx</title>
+<description>Need to test your Website for accessibility? Testing with Lynx, the text-only browser, can give you helpful insight. As the result of a recent discussion via the Wise-Women discussion list, I wrote up a few tips about using Lynx, including links to downloads, online testing, and more: A few Tips for Using Lynx. (56 words, 3 links)</description>
+<link>http://brainstormsandraves.com/archives/2004/10/05/lynx/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/10/05/lynx/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-10-05T09:37:05</dc:date></item><item><title>New Web Design Usability Article</title>
+<description>Mastery, Mystery, and Misery: The Ideologies of Web Design is the latest website usability article by Jakob Nielsen. Whether or not you agree with everything he&apos;s written in the past, in this new article Nielsen covers some terrific points about what works and what doesn&apos;t work with sites. I think we&apos;ve all visited far too many sites that don&apos;t seem to consider users or perhaps they don&apos;t understand much about how to create a user-friendly website. Below are some snippets from Nielsen&apos;s new article. (411 words, 1 link)</description>
+<link>http://brainstormsandraves.com/archives/2004/08/30/usability/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/08/30/usability/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-08-30T10:24:24</dc:date></item><item><title>More Insightful Photoshop CS Tutorials and Books</title>
+<description>There&apos;s so much to explore and inspire you just by playing around within Photoshop. Here are a couple of recent Photoshop CS tutorials and books that I discovered as I looked around for new and improved features with Photoshop&apos;s Dynamic Brushes. (399 words, 8 links, 3 images)</description>
+<link>http://brainstormsandraves.com/archives/2004/08/23/photoshop/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/08/23/photoshop/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-08-23T12:29:13</dc:date></item><item><title>Tips for Traveling with a Digital Camera</title>
+<description>Meandering through the Naturescapes.net website mentioned in my previous post, Amazing New Shadow/Highlight Tool in Photoshop CS, I came across Lessons from the Field: Avoiding Some of the Perils of Digital Photography, by Ellen Anon, an insightful article about venturing out or traveling with a digital camera. You&apos;ll find five invaluable tips to help you avoid problems with downloading images to your laptop, compact flash card readers, external hard drives, batteries and external power sources, and more. Her helpful tips can help you eliminate potential problems, especially when you&apos;re away from your computer traveling. (359 words, 9 links, 2 images)</description>
+<link>http://brainstormsandraves.com/archives/2004/08/10/camera/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/08/10/camera/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-08-10T20:19:37</dc:date></item><item><title>Amazing New Shadow/Highlight Tool in Photoshop CS</title>
+<description>Have you ever taken a photo that ends up too dark or the highlight is too strong while the shadows are too dark? Haven&apos;t we all?!  The new Shadow/Highlight tool that made its debut in Photoshop CS is truly amazing and incredibly helpful with adjusting shadows and highlights. Today I explored this new tool further with a variety of my photos and was astonished with its powerful capabilities. Used in combination with other helpful tools in Photoshop CS, you can more easily transform your photos to be better balanced and even spectacular. Below are a few helpful resources to help you gain some insight into using this new Photoshop tool, with a few thoughts tossed in along the way. (470 words, 8 links, 1 image)</description>
+<link>http://brainstormsandraves.com/archives/2004/08/09/photoshop/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/08/09/photoshop/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-08-09T17:32:32</dc:date></item><item><title>Comment Spammers Persevere, Including Adding New Tricks</title>
+<description>An automated spam-bomber attacked my weblog last week and again in a much bigger way over the weekend, with comment denials every 6-11 seconds, as reported in my Movable Type Activity Log. Thankfully ALL 93 attempts were futile, however, thanks to Jay Allen&apos;s MTBlacklist. A new tactic, &quot;spam piggybacking,&quot; is also on the rise. (830 words, 10 links)</description>
+<link>http://brainstormsandraves.com/archives/2004/08/02/spammers/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/08/02/spammers/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-08-02T07:00:40</dc:date></item><item><title>Exciting New Photoshop Plugin for ESA, NASA Space Images</title>
+<description>Imaging scientists at the European Space Agency (ESA) have created and generously provided a free Photoshop plugin, the ESA/ESO/NASA Photoshop FITS Liberator v1.01, to allow all of us to work with FITS images1 from the European Southern Observatory and NASA. Although optimized for 16-bit support in Photoshop CS, this free plugin for Windows PCs and Macs will also work in Photoshop 7 and Photoshop Elements 2. As I meandered around, I also found alternatives to opening their FITS images for those who don&apos;t have Photoshop. (866 words, 14 links, 1 image)</description>
+<link>http://brainstormsandraves.com/archives/2004/08/01/photoshop/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/08/01/photoshop/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-08-01T13:01:42</dc:date></item><item><title>TopStyle Pro 3.11 Beta 1 Available</title>
+<description>Bradsoft TopStyle, the fabulous CSS / XHTML / HTML Editor, has a new Beta release available for current TopStyle 3.x users, TopStyle Pro 3.11 Beta 1. There are quite a few changes and fixes, as you&apos;ll see at TopStyle Pro 3.11: Changes in 3.11 Beta 1. Feedback, bug reports, and other comments are invited at Bradbury TopStyle Pro 3.11 BETA Support Forums. (91 words, 5 links)</description>
+<link>http://brainstormsandraves.com/archives/2004/07/31/topstyle/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/07/31/topstyle/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-07-31T16:04:51</dc:date></item><item><title>CSS, Standards, Semantic Markup, and the Bottom Line: Money</title>
+<description>One of the challenges in creating, maintaining, or redesigning a website, especially with larger companies, is that all too often the people making the major decisions are clueless about what matters the most with websites behind the scenes. Content is what truly matters the most, but the way it&apos;s delivered can unnecessarily cost a whole lot more with bandwidth, page load times, visitor satisfaction, and ultimately with lost revenue.
+
+ (1198 words, 16 links, 3 images)</description>
+<link>http://brainstormsandraves.com/archives/2004/07/30/money/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/07/30/money/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-07-30T18:08:05</dc:date></item><item><title>CSS, Site Makeovers, Bowman, Zeldman, More</title>
+<description>I&apos;ve got a major deadline today with my publisher, so this post is short, but the Wired news article and weblog posts I list below are so, so important to check out regarding Website design and development and the use of CSS. Jeffrey Zeldman&apos;s post today, Only defenestrate, put me over the edge, stopping me in my tracks to write this post here with the links below. (209 words, 8 links, 1 image)</description>
+<link>http://brainstormsandraves.com/archives/2004/07/28/css/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/07/28/css/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-07-28T12:04:37</dc:date></item><item><title>Weblogs, Politics, and Technorati</title>
+<description>You may have noticed that weblogs are catching on in major political arenas here in the U.S., especially with the upcoming presidential election. CNN&apos;s Convention Blog lists quite a few weblogs from all political viewpoints, thanks to Technorati. Technorati&apos;s David Sifry is working with CNN on blog coverage of the Democratic National Convention, as he wrote in his July 21 post, Technorati and CNN. That is indeed exciting news for David Sifry and Technorati. (216 words, 4 links)</description>
+<link>http://brainstormsandraves.com/archives/2004/07/26/technorati/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/07/26/technorati/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-07-26T22:48:40</dc:date></item><item><title>Weekend Silliness: The Ridiculous Adventures of Buying a Car</title>
+<description>There must be plenty of car salesmen out there who don&apos;t play ridiculous games, but our recent experience buying a car unfortunately reinforced the stories we&apos;d read and heard. Nonetheless, buying a car was quite an adventure, and we ended up getting a good deal in the end. How we got to that point, though, is something my family and I won&apos;t forget. (1383 words, 6 links)</description>
+<link>http://brainstormsandraves.com/archives/2004/07/25/volvo/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/07/25/volvo/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-07-25T22:35:37</dc:date></item><item><title>IE Development Team has a Blog</title>
+<description>Microsoft Internet Explorer&apos;s development team started a weblog: IEBlog. See Wednesday&apos;s Useful Resources post, too, for some good links to check out. (36 words, 3 links)</description>
+<link>http://brainstormsandraves.com/archives/2004/07/22/ieblog/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/07/22/ieblog/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-07-22T16:55:02</dc:date></item><item><title>Information Design, Interconnectedness, and Assault Weapons?!</title>
+<description>Earlier today I was looking for information design tips, so naturally I went to visit Beth Mazur&apos;s IDBlog. While there I got sidetracked with one of her recent posts, Blogs, Power Laws, and Assault Weapons, about Tom Mauser&apos;s Petition to Renew the Assault Weapons Ban. The animated map of Tom Mauser&apos;s Petition showing relationships of people who&apos;ve signed the petition is fascinating to see. (175 words, 9 links, 1 image)</description>
+<link>http://brainstormsandraves.com/archives/2004/07/21/infodesign/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/07/21/infodesign/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-07-21T19:00:07</dc:date></item><item><title>Website Accessibility Fares Poorly</title>
+<description>Unfortunately, I&apos;m not surprised by the unsatisfactory results found testing websites for accessibility as published in the July, 2004 issue of First Monday. A multitude of websites from Ireland, the United Kingdom, France, and Germany were tested, and fifty US government websites were tested for accessibility and standards compliance. The results were quite disappointing, as detailed in their two new articles. Read on for the details.
+
+ (336 words, 4 links)</description>
+<link>http://brainstormsandraves.com/archives/2004/07/19/accessibility/</link>
+<guid isPermaLink="true">http://brainstormsandraves.com/archives/2004/07/19/accessibility/</guid>
+<dc:subject></dc:subject>
+<dc:creator>Shirley Kaiser</dc:creator>
+<dc:date>2004-07-19T09:38:29</dc:date></item>
+</channel>
+</rss>

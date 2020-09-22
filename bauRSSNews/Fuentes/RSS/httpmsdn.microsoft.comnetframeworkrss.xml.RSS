@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: .NET Framework and CLR</title>
+    <link>http://msdn.microsoft.com/netframework/</link>
+    <description>The latest information for developers on the Microsoft .NET Framework and Common Language Runtime (CLR).</description>
+    <language>en-us</language>
+    <pubDate>Tue, 23 Nov 2004 14:00:11 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Nov 2004 14:00:11 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>.NET Rocks! - Mark Pollack, Ted Neward, and Don Box</title>
+      <description>This show was originally intended to be a discussion about Java and Spring.NET with Mark Pollack. Then Ted was invited and he invited Don. The result is an almost two hour discussion of Java and .NET.</description>
+      <link>http://msdn.microsoft.com/dotnetrocks/</link>
+      <dc:creator>Carl Franklin</dc:creator>
+      <category domain="msdndomain:ContentType">Multimedia</category>
+      <category domain="msdndomain:DevLangVers">Java</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>Java</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <guid isPermaLink="false">Iliad_7239</guid>
+      <pubDate>Mon, 22 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial: Creating an Ad Hoc Report Application with Reporting Services</title>
+      <description>New to .NET programming or Reporting Services? Get step-by-step instruction on creating a .NET application to create and publish reports using the Reporting Services API.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql2k/html/AdHocRepSr.asp</link>
+      <dc:creator>Kathrine Lord</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">HTML</category>
+      <category domain="msdndomain:DevLangVers">SQL</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2000</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Enterprise development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>HTML</msdn:developmentLanguage>
+      <msdn:developmentLanguage>SQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>SQL Server 2000</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7207</guid>
+      <pubDate>Fri, 19 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vrooooom: How .NET and C# Drove an Entry in the DARPA Grand Challenge</title>
+      <description>How .NET and C# Drove an Entry in the DARPA Grand Challenge</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/DARPAChallenge/default.aspx</link>
+      <dc:creator>John Hind</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:ProductVers">Windows XP</category>
+      <category domain="msdndomain:TechnologyVers">.NET Compact Framework</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:technology>.NET Compact Framework</msdn:technology>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>Windows XP</msdn:product>
+      <guid isPermaLink="false">Iliad_7212</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET Internals: Tailor Your Application by Building a Custom Forms Designer with .NET</title>
+      <description>Tailor Your Application by Building a Custom Forms Designer with .NET</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/CustomFormsDesigner/default.aspx</link>
+      <dc:creator>Sayed Y. Hashimi</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <guid isPermaLink="false">Iliad_7213</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET Code Tuning: Make Your Apps Fly with the New Enterprise Performance Tool</title>
+      <description>Make Your Apps Fly with the New Enterprise Performance Tool</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/EnterprisePerformance/default.aspx</link>
+      <dc:creator>John Robbins</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:ProductVers">Visual Studio</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>Visual Studio</msdn:product>
+      <guid isPermaLink="false">Iliad_7214</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web Q&amp;A: Windowed and Windowless Elements, Cookie Characters, and More</title>
+      <description>Windowed and Windowless Elements, Cookie Characters, and More</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/WebQA/default.aspx</link>
+      <dc:creator>Edited by Nancy Michell</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">JScript</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+      <category domain="msdndomain:TechnologyVers">IIS (Internet Information Svc)</category>
+      <msdn:developmentLanguage>JScript</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>ASP.NET 2.0</msdn:technology>
+      <msdn:technology>IIS (Internet Information Svc)</msdn:technology>
+      <guid isPermaLink="false">Iliad_7218</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Advanced Basics: Calling All Operators</title>
+      <description>Calling All Operators</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/AdvancedBasics/default.aspx</link>
+      <dc:creator>Ken Getz</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:ProductVers">Visual Basic</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>Visual Basic</msdn:product>
+      <guid isPermaLink="false">Iliad_7219</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data Points: Efficient Coding With Strongly Typed DataSets</title>
+      <description>Efficient Coding With Strongly Typed DataSets</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/DataPoints/default.aspx</link>
+      <dc:creator>John Papa</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">ADO</category>
+      <category domain="msdndomain:TechnologyVers">ADO.NET</category>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>ADO</msdn:technology>
+      <msdn:technology>ADO.NET</msdn:technology>
+      <guid isPermaLink="false">Iliad_7220</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Service Station: Run ASMX Without IIS</title>
+      <description> Run ASMX Without IIS</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/ServiceStation/default.aspx</link>
+      <dc:creator>Aaron Skonnard</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <guid isPermaLink="false">Iliad_7222</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET Matters: Asynchronous HttpWebRequests, Interface Implementation, and More</title>
+      <description>Asynchronous HttpWebRequests, Interface Implementation, and More</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/NETMatters/default.aspx</link>
+      <dc:creator>Stephen Toub</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">COM</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>COM</msdn:technology>
+      <guid isPermaLink="false">Iliad_7223</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

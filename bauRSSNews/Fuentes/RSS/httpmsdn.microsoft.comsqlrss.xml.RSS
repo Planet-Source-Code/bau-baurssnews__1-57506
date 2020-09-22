@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: SQL Server</title>
+    <link>http://msdn.microsoft.com/sql/</link>
+    <description>The latest information from the Microsoft SQL Server Developer Center.</description>
+    <language>en-us</language>
+    <pubDate>Sat, 20 Nov 2004 14:00:43 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Nov 2004 14:00:43 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Tutorial: Creating an Ad Hoc Report Application with Reporting Services</title>
+      <description>New to .NET programming or Reporting Services? Get step-by-step instruction on creating a .NET application to create and publish reports using the Reporting Services API.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql2k/html/AdHocRepSr.asp</link>
+      <dc:creator>Kathrine Lord</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">HTML</category>
+      <category domain="msdndomain:DevLangVers">SQL</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2000</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Enterprise development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>HTML</msdn:developmentLanguage>
+      <msdn:developmentLanguage>SQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>SQL Server 2000</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7207</guid>
+      <pubDate>Fri, 19 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using CLR Integration in SQL Server 2005</title>
+      <description>Compare CLR-based programming models with SQL Server models such as Transact SQL and extended stored procedures. Get tips on how to choose a model, code samples, and more.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql90/html/sqlclrguidance.asp</link>
+      <dc:creator>Balaji Rathakrishnan et al</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">TSQL</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005</category>
+      <category domain="msdndomain:ProductVers">Visual Basic .NET</category>
+      <category domain="msdndomain:ProductVers">Visual C# 2005</category>
+      <category domain="msdndomain:ProductVers">Visual C++ .NET</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+      <msdn:developmentLanguage>TSQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework 2.0</msdn:technology>
+      <msdn:product>SQL Server 2005</msdn:product>
+      <msdn:product>Visual Basic .NET</msdn:product>
+      <msdn:product>Visual C# 2005</msdn:product>
+      <msdn:product>Visual C++ .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7169</guid>
+      <pubDate>Fri, 12 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: Writing Managed Code for SQL Server 2005 Using Visual Studio 2005</title>
+      <description>SQL Server 2005 allows users to write managed code that runs on the server. Visual Studio 2005 makes it easy to build stored procedures, functions, triggers, data types and aggregates in managed code. Milind Lele shows how to create, deploy, and debug a user defined data type (UDT) in Visual Basic.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20041104SQLServerML/manifest.xml</link>
+      <dc:creator>Milind Lele</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:TechnologyVers">Common Language Runtime (CLR)</category>
+      <msdn:technology>Common Language Runtime (CLR)</msdn:technology>
+      <msdn:product>SQL Server 2005</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <guid isPermaLink="false">Iliad_7185</guid>
+      <pubDate>Thu, 04 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL Server Professional: Testing, 1, 2, 3... Testing... Check?</title>
+      <description>SQL Server Professional magazine writer S. A. Miller shows how unit tests can help make testing easier and better, along with an open source testing framework called TSQLUnit.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsqlpro04/html/sp04i1.asp</link>
+      <dc:creator>S. A. Miller</dc:creator>
+      <category domain="msdndomain:ContentType">Periodicals</category>
+      <category domain="msdndomain:DevLangVers">TSQL</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2000</category>
+      <category domain="msdndomain:TechnologyVers">SQL Server</category>
+      <category domain="msdndomain:TechnologyVers">SQL Server Development Tools</category>
+      <msdn:developmentLanguage>TSQL</msdn:developmentLanguage>
+      <msdn:technology>SQL Server</msdn:technology>
+      <msdn:technology>SQL Server Development Tools</msdn:technology>
+      <msdn:product>SQL Server 2000</msdn:product>
+      <guid isPermaLink="false">Iliad_7159</guid>
+      <pubDate>Mon, 01 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Support Tools Available For Stress Testing &amp; Performance Analysis</title>
+      <description>This download provides two main tools used by the Microsoft SQL Server Product Support teams, Read80Trace and OSTRESS.</description>
+      <link>http://www.microsoft.com/downloads/details.aspx?familyid=5691ab53-893a-4aaf-b4a6-9a8bb9669a8b&amp;displaylang=en</link>
+      <dc:creator>Microsoft</dc:creator>
+      <category domain="msdndomain:ContentType">Download</category>
+      <category domain="msdndomain:ProductVers">SQL Server</category>
+      <category domain="msdndomain:Subject">Performance</category>
+      <msdn:product>SQL Server</msdn:product>
+      <guid isPermaLink="false">Iliad_7232</guid>
+      <pubDate>Fri, 29 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Editing Transact-SQL Code in SQL Server 2005 Beta 2</title>
+      <description>Get an overview of the T-SQL development tools available in Microsoft SQL Server 2005 Management Studio.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql90/html/TSQLQueries.asp</link>
+      <dc:creator>Ron Talmage</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">TSQL</category>
+      <category domain="msdndomain:ProductVers">SQL Server</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005</category>
+      <category domain="msdndomain:Subject">Enterprise development</category>
+      <category domain="msdndomain:TechnologyVers">SQL Server</category>
+      <category domain="msdndomain:TechnologyVers">SQL Server Management Tools</category>
+      <msdn:developmentLanguage>TSQL</msdn:developmentLanguage>
+      <msdn:technology>SQL Server</msdn:technology>
+      <msdn:technology>SQL Server Management Tools</msdn:technology>
+      <msdn:product>SQL Server</msdn:product>
+      <msdn:product>SQL Server 2005</msdn:product>
+      <guid isPermaLink="false">Iliad_7136</guid>
+      <pubDate>Wed, 27 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>XML Data Type Support in ADO.NET 2.0: Handling XML from SQL Server 2005</title>
+      <description>See how improvements to XML support in ADO.NET 2.0 and SQL Server 2005 work together to make handling XML data in your applications easier.</description>
+      <link>http://msdn.microsoft.com/data/default.aspx?pull=/library/en-us/dnadonet/html/SqlXml_ADO.asp</link>
+      <dc:creator>Bob Beauchemin</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">SQL</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">SQL Server</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Data Access</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">ADO</category>
+      <category domain="msdndomain:TechnologyVers">ADO.NET</category>
+      <category domain="msdndomain:TechnologyVers">ADO.NET 2.0</category>
+      <category domain="msdndomain:TechnologyVers">SQL Server</category>
+      <category domain="msdndomain:TechnologyVers">SQLXML</category>
+      <msdn:developmentLanguage>SQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>ADO</msdn:technology>
+      <msdn:technology>ADO.NET</msdn:technology>
+      <msdn:technology>ADO.NET 2.0</msdn:technology>
+      <msdn:technology>SQL Server</msdn:technology>
+      <msdn:technology>SQLXML</msdn:technology>
+      <msdn:product>SQL Server</msdn:product>
+      <msdn:product>SQL Server 2005</msdn:product>
+      <guid isPermaLink="false">Iliad_7156</guid>
+      <pubDate>Wed, 27 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQLXML 3.0 Service Pack 3 (SP3)</title>
+      <description>SQLXML enables XML support for your SQL Server Database. It allows developers to bridge the gap between XML and relational data. You can create XML View of your existing relational data and work with it as if it was an XML file.</description>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyId=51D4A154-8E23-47D2-A033-764259CFB53B&amp;displaylang=en</link>
+      <dc:creator>Microsoft</dc:creator>
+      <category domain="msdndomain:ContentType">Download</category>
+      <category domain="msdndomain:ProductVers">SQL Server</category>
+      <category domain="msdndomain:Subject">XML</category>
+      <category domain="msdndomain:TechnologyVers">SQLXML</category>
+      <msdn:technology>SQLXML</msdn:technology>
+      <msdn:product>SQL Server</msdn:product>
+      <guid isPermaLink="false">Iliad_7229</guid>
+      <pubDate>Tue, 26 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL Server for Developers: Writing Secure Transact-SQL</title>
+      <description>Guest columnist Bart Duncan reviews the best practices to make your T-SQL code more bulletproof.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsqldev/html/sqldev_10182004.asp</link>
+      <dc:creator>Bart Duncan</dc:creator>
+      <category domain="msdndomain:ContentType">Column</category>
+      <category domain="msdndomain:DevLangVers">TSQL</category>
+      <category domain="msdndomain:ProductVers">SQL Server</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2000</category>
+      <category domain="msdndomain:TechnologyVers">Security</category>
+      <msdn:developmentLanguage>TSQL</msdn:developmentLanguage>
+      <msdn:technology>Security</msdn:technology>
+      <msdn:product>SQL Server</msdn:product>
+      <msdn:product>SQL Server 2000</msdn:product>
+      <guid isPermaLink="false">Iliad_7116</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data Points: Updating Data in Linked Servers, Information Schema Views, and More</title>
+      <description>Updating Data in Linked Servers, Information Schema Views, and More</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/11/DataPoints/default.aspx</link>
+      <dc:creator>John Papa</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">SQL</category>
+      <category domain="msdndomain:DevLangVers">TSQL</category>
+      <category domain="msdndomain:ProductVers">SQL Server</category>
+      <category domain="msdndomain:Subject">Data Access</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>SQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>TSQL</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>SQL Server</msdn:product>
+      <guid isPermaLink="false">Iliad_7143</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

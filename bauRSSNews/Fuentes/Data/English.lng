@@ -1,0 +1,85 @@
+[bauRSSNews]
+Version = 1.0.0
+
+[frmMain]
+Title1 = E&xit
+Title2 = &New
+Title3 = &Update ...
+Title4 = &Remove ...
+Title5 = New
+Title6 = Update
+Title7 = Remove
+Title8 = Ready ...
+Title9 = Error when load definition file
+Title10 = Can't find data from this new
+Title11 = Error when loading the new %1
+Title12 = You must select a new
+Title13 = The channel not exist
+Title14 = The new not exist
+Title15 = Error when write the file HTML
+Title16 = Error when save definition file
+Title17 = You must select a channel
+Title18 = Can't find data from this channel
+Title19 = Do you really want drop this channel?
+Title20 = Loading the last data from '%1'
+Title21 = I've download news from '%1'
+Title22 = Title
+Title23 = Category
+Title24 = You must select a new
+Title25 = Can't find this new
+Title26 = Do yo really want drop this new?
+Title27 = Select the channel
+Title28 = Error when load category file
+Title29 = Can't find data from this channel
+Title30 = Error when loading the channel %1
+Title31 = Can't find data from this item
+Title32 = Can't add a folder in a RSS file
+Title33 = You must select an item
+Title34 = Can't add a RSS file to a RSS file
+Title35 = Folder ...
+Title36 = Rss ...
+Title37 = Web page ...
+Title38 = Only can add pages to folders
+Title39 = You must select a page web
+
+[frmUpdateRSS]
+Title1 = RSS Channel
+Title2 = Properties
+Title3 = &Name:
+Title4 = &URL:
+Title5 = U&ser:
+Title6 = &Password:
+Title7 = &Ok
+Title8 = &Cancel
+Title9 = You must write the channel name
+Title10 = You must write the channel URL
+
+[frmUpdatePageWeb]
+Title1 = Page Web
+Title2 = Properties
+Title3 = &Name:
+Title4 = &URL:
+Title5 = U&ser:
+Title6 = &Password:
+Title7 = &Ok
+Title8 = &Cancel
+Title9 = You must write the page name
+Title10 = You must write the page URL
+
+[colRSSItems]
+Title1 = Category:
+Title2 = Subject:
+Title3 = Author:
+Title4 = Publication date:
+
+[colRSSChannels]
+Title1 = Last update:
+Title2 = Copyright:
+
+[frmUpdateFolder]
+Title1 = Folder properties
+Title2 = Properties
+Title3 = Name:
+Title4 = &Ok
+Title5 = &Cancel
+Title6 = You must write the folder name

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: Visual J#</title>
+    <link>http://msdn.microsoft.com/vjsharp/</link>
+    <description>The latest technical information on Visual J# for developers.</description>
+    <language>en-us</language>
+    <pubDate>Sat, 09 Oct 2004 13:00:42 GMT</pubDate>
+    <lastBuildDate>Sat, 09 Oct 2004 13:00:42 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1742.22984</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Microsoft Reporting Services in Action: Extending Microsoft SQL Server 2000 Reporting Services with Custom Code</title>
+      <description>Use this excerpt from the book, "Microsoft Reporting Services in Action" to learn how to implement advanced report functionality using custom code.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql2k/html/ERSCstCode.asp</link>
+      <dc:creator>Teodor Lachev</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:DevLangVers">Java</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:DevLangVers">VJ#</category>
+      <category domain="msdndomain:ProductVers">SQL Server</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2000</category>
+      <category domain="msdndomain:ProductVers">Visual Basic.NET</category>
+      <category domain="msdndomain:ProductVers">Visual Studio</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Enterprise development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <category domain="msdndomain:TechnologyVers">SQL Server</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Java</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:developmentLanguage>VJ#</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:technology>SQL Server</msdn:technology>
+      <msdn:product>SQL Server</msdn:product>
+      <msdn:product>SQL Server 2000</msdn:product>
+      <msdn:product>Visual Basic.NET</msdn:product>
+      <msdn:product>Visual Studio</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql2k/html/ERSCstCode.asp</guid>
+      <pubDate>Wed, 08 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual J# 2005 Express Edition Beta 1 Manual Download Instructions</title>
+      <description>Visual J# 2005 Express Edition Beta 1 Manual Download Instructions</description>
+      <link>http://lab.msdn.microsoft.com/express/vjsharp/vjsharpmaninstall/default.aspx</link>
+      <dc:creator>Microsoft</dc:creator>
+      <category domain="msdndomain:ContentType">Download</category>
+      <category domain="msdndomain:DevLangVers">VJ#</category>
+      <category domain="msdndomain:ProductVers">Visual J#</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+      <msdn:developmentLanguage>VJ#</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework 2.0</msdn:technology>
+      <msdn:product>Visual J#</msdn:product>
+      <guid>http://lab.msdn.microsoft.com/express/vjsharp/vjsharpmaninstall/default.aspx</guid>
+      <pubDate>Fri, 09 Jul 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Properties in J#</title>
+      <description>Choose whether to use a property or a method for a particular need in your J# applications.</description>
+      <link>http://msdn.microsoft.com/vstudio/default.aspx?pull=/library/en-us/dv_vstechart/html/grfPropertiesInJ.asp</link>
+      <dc:creator>Microsoft Corporation</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:DevLangVers">VJ#</category>
+      <category domain="msdndomain:ProductVers">Visual J#</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">Development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:developmentLanguage>VJ#</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:product>Visual J#</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid>http://msdn.microsoft.com/vstudio/default.aspx?pull=/library/en-us/dv_vstechart/html/grfPropertiesInJ.asp</guid>
+      <pubDate>Fri, 14 May 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Delegate Type in J#</title>
+      <description>Use the Delegate Type in Microsoft Visual J# .NET to treat methods as data.</description>
+      <link>http://msdn.microsoft.com/vjsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/bjthedel.asp</link>
+      <dc:creator>Pratap Lakshman</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">VJ#</category>
+      <category domain="msdndomain:ProductVers">Visual J#</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <msdn:developmentLanguage>VJ#</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:product>Visual J#</msdn:product>
+      <guid>http://msdn.microsoft.com/vjsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/bjthedel.asp</guid>
+      <pubDate>Wed, 28 Apr 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exception Handling in J#</title>
+      <description>Pratap Lakshman of the Microsoft Visual J# Team guides you through exception handling (EH) in J#, how the common language runtime supports EH models, and what you need to consider as a J# programmer.</description>
+      <link>http://msdn.microsoft.com/vjsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/exceptions2.asp</link>
+      <dc:creator>Pratap Lakshman</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Visual J#</category>
+      <msdn:product>Visual J#</msdn:product>
+      <guid>http://msdn.microsoft.com/vjsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/exceptions2.asp</guid>
+      <pubDate>Mon, 19 Jan 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: J# Browser Controls</title>
+      <description>Learn how J# Browser Controls provide developers with a way to migrate their existing Java applet source code to run within the context of the Microsoft .NET Framework.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031114JSHARPBK/manifest.xml</link>
+      <dc:creator>Brian Keller</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">Visual J#</category>
+      <msdn:product>Visual J#</msdn:product>
+      <guid>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031114JSHARPBK/manifest.xml</guid>
+      <pubDate>Fri, 14 Nov 2003 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>J# Browser Controls version 1.1 RTM</title>
+      <description>Migrate your existing applets to the .NET Framework using J# Browser Controls version 1.1. End users who use applications built with the J# Browser Controls should also download the official release.</description>
+      <link>http://msdn.microsoft.com/vjsharp/downloads/browsercontrols/</link>
+      <dc:creator>Brian Keller</dc:creator>
+      <category domain="msdndomain:ContentType">Download</category>
+      <category domain="msdndomain:DevLangVers">VJ#</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <msdn:developmentLanguage>VJ#</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid>http://msdn.microsoft.com/vjsharp/downloads/browsercontrols/</guid>
+      <pubDate>Tue, 07 Oct 2003 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>New Server Controls Provided by the ASP.NET Web Matrix</title>
+      <description>Quickly and easily build your ASP.NET Web applications with ASP.NET Web Matrix. Learn about this free development tool and new server controls that you can use in Web Matrix or Visual Studio .NET.</description>
+      <link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/ASPNet-NewSrvrCntrls-WebMatrix.asp</link>
+      <dc:creator>Bill Evjen</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">ASP</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:DevLangVers">VJ#</category>
+      <category domain="msdndomain:ProductVers">Visual Basic.NET</category>
+      <category domain="msdndomain:ProductVers">Visual C# 8.0</category>
+      <category domain="msdndomain:ProductVers">Visual J#</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET</category>
+      <msdn:developmentLanguage>ASP</msdn:developmentLanguage>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:developmentLanguage>VJ#</msdn:developmentLanguage>
+      <msdn:technology>ASP.NET</msdn:technology>
+      <msdn:product>Visual Basic.NET</msdn:product>
+      <msdn:product>Visual C# 8.0</msdn:product>
+      <msdn:product>Visual J#</msdn:product>
+      <guid>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/ASPNet-NewSrvrCntrls-WebMatrix.asp</guid>
+      <pubDate>Fri, 19 Sep 2003 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASP.NET Developer Center launch</title>
+      <description>Whether you're an experienced ASP.NET developer or you're just starting out, the ASP.NET Developer Center is the place to go.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/nhp/default.asp?contentid=28000440&amp;frame=true</link>
+      <dc:creator>n/a</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:ProductVers">Visual Basic.NET</category>
+      <category domain="msdndomain:ProductVers">Visual J# 8.0</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET</category>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:technology>ASP.NET</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <msdn:product>Visual Basic.NET</msdn:product>
+      <msdn:product>Visual J# 8.0</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid>http://msdn.microsoft.com/library/default.asp?url=/nhp/default.asp?contentid=28000440&amp;frame=true</guid>
+      <pubDate>Thu, 12 Jun 2003 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moving from WFC to the .NET Framework</title>
+      <description>Compare the Windows Foundation Classes and the .NET Framework Class Library, and learn how to migrate your old J++ apps to the .NET Framework using Visual J# .NET.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vjtchMovingFromWFCToNETFramework.asp</link>
+      <dc:creator>Dr. Bruce E. Krell</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">Java</category>
+      <category domain="msdndomain:ProductVers">Visual J#</category>
+      <category domain="msdndomain:ProductVers">Visual J# 8.0</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <msdn:developmentLanguage>Java</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:product>Visual J#</msdn:product>
+      <msdn:product>Visual J# 8.0</msdn:product>
+      <guid>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vjtchMovingFromWFCToNETFramework.asp</guid>
+      <pubDate>Tue, 03 Jun 2003 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

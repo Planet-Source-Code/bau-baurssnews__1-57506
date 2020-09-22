@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: The .NET Show</title>
+    <link>http://msdn.microsoft.com/theshow/</link>
+    <description>The latest .NET Show episodes for developers.</description>
+    <language>en-us</language>
+    <pubDate>Wed, 13 Oct 2004 13:00:32 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Oct 2004 13:00:32 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1742.22984</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>The .NET Show: Connected Systems</title>
+      <description>In this episode, we talk with Don Box and Doug Purdy about how today's networking infrastructure can be utilized in order to create a Connected System environment, and why this is important. Later, Eric Schmidt and Richard Turner walk us through several coding demonstrations which illustrate how this can be implemented and utilized.</description>
+      <link>http://msdn.microsoft.com/theshow/episode046/default.asp</link>
+      <dc:creator>Robert Hess</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:Subject">Networking</category>
+      <category domain="msdndomain:Subject">XML</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET</category>
+      <category domain="msdndomain:TechnologyVers">Smart Client</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:technology>ASP.NET</msdn:technology>
+      <msdn:technology>Smart Client</msdn:technology>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid>http://msdn.microsoft.com/theshow/episode046/default.asp</guid>
+      <pubDate>Tue, 12 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The .NET Show: Smart Clients</title>
+      <description>Microsofties Keith Yedlin, David Hill, and KD Hallman explain what Smart Client applications are and how to deploy them.</description>
+      <link>http://msdn.microsoft.com/theshow/episode045/default.asp</link>
+      <dc:creator>Robert Hess</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:ProductVers">Visual Studio Tools for Office</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Architecture</category>
+      <category domain="msdndomain:TechnologyVers">Smart Client</category>
+      <category domain="msdndomain:TechnologyVers">Windows Forms</category>
+      <msdn:technology>Smart Client</msdn:technology>
+      <msdn:technology>Windows Forms</msdn:technology>
+      <msdn:product>Visual Studio Tools for Office</msdn:product>
+      <guid>http://msdn.microsoft.com/theshow/episode045/default.asp</guid>
+      <pubDate>Fri, 03 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The .NET Show: Introduction to Visual Studio 2005</title>
+      <description>Watch Jason Zander and Amnon Horowitz talk about the important improvements that have been added not only to Visual Studio 2005, but also to ASP.NET and the .NET Framework (v2.0) as well.</description>
+      <link>http://msdn.microsoft.com/theshow/episode044/default.asp</link>
+      <dc:creator>Robert Hess</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+      <category domain="msdndomain:TechnologyVers">Common Language Runtime (CLR)</category>
+      <msdn:technology>.NET Framework 2.0</msdn:technology>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:technology>ASP.NET</msdn:technology>
+      <msdn:technology>ASP.NET 2.0</msdn:technology>
+      <msdn:technology>Common Language Runtime (CLR)</msdn:technology>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <guid>http://msdn.microsoft.com/theshow/episode044/default.asp</guid>
+      <pubDate>Fri, 30 Jul 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The .NET Show: Longhorn Fundamentals</title>
+      <description>See Sanjay Shenoy and Glenn Pittaway cover some of the core architectural concepts associated with several of the Fundamentals of Longhorn while Jeffrey Snover and Jim Truher provide an exciting demo of "Monad".</description>
+      <link>http://msdn.microsoft.com/theshow/episode043/default.asp</link>
+      <dc:creator>Robert Hess</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:ProductVers">Windows Longhorn</category>
+      <category domain="msdndomain:Subject">Deployment</category>
+      <msdn:product>Windows Longhorn</msdn:product>
+      <guid>http://msdn.microsoft.com/theshow/episode043/default.asp</guid>
+      <pubDate>Thu, 17 Jun 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The .NET Show: Longhorn Avalon</title>
+      <description>Hear about the purpose and benefits of the new graphical model for Longhorn and walk through some source code that shows how the use of XAML in writing user interfaces for applications can create a better collaboration between designers and programmers.</description>
+      <link>http://msdn.microsoft.com/theshow/episode042/default.asp</link>
+      <dc:creator>Robert Hess</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:ProductVers">Windows Longhorn</category>
+      <category domain="msdndomain:Subject">Graphics</category>
+      <category domain="msdndomain:Subject">Imaging</category>
+      <msdn:product>Windows Longhorn</msdn:product>
+      <guid>http://msdn.microsoft.com/theshow/episode042/default.asp</guid>
+      <pubDate>Mon, 10 May 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The .NET Show: Longhorn and WinFS</title>
+      <description>Learn some of the architectural concepts of WinFS, how programmers and users will interact with information on their systems, and how to code against this new file system in order to easily work with information.</description>
+      <link>http://msdn.microsoft.com/theshow/episode041/default.asp</link>
+      <dc:creator>Roberth Hess</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:ProductVers">Windows Longhorn</category>
+      <msdn:product>Windows Longhorn</msdn:product>
+      <guid>http://msdn.microsoft.com/theshow/episode041/default.asp</guid>
+      <pubDate>Thu, 01 Apr 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The .NET Show: Longhorn Indigo</title>
+      <description>How does "Indigo" apply to the applications you are designing now? How will it become a core component of the applications you will develop for Longhorn? Don't miss this episode!</description>
+      <link>http://msdn.microsoft.com/theshow/episode040/default.asp</link>
+      <dc:creator>roberth</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">Windows Longhorn</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>Web Services</msdn:technology>
+      <msdn:product>Windows Longhorn</msdn:product>
+      <guid>http://msdn.microsoft.com/theshow/episode040/default.asp</guid>
+      <pubDate>Fri, 27 Feb 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The .NET Show: Longhorn Overview</title>
+      <description>Explore the architecture of Longhorn with Michael Wallent, Anil Nori, and Darryn Dieken. Then join Don Box and Chris Anderson as they dig into Longhorn's programming model.</description>
+      <link>http://msdn.microsoft.com/theshow/episode039/default.asp</link>
+      <dc:creator>Robert Hess</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:ProductVers">Windows Longhorn</category>
+      <msdn:product>Windows Longhorn</msdn:product>
+      <guid>http://msdn.microsoft.com/theshow/episode039/default.asp</guid>
+      <pubDate>Wed, 28 Jan 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The .NET Show: Longhorn at the PDC</title>
+      <description>Watch this episode of the .NET Show focusing on how "Longhorn" was presented, and received, at the PDC. We talk with key Microsoft Longhorn players, as well as a diverse set of PDC attendees.</description>
+      <link>http://msdn.microsoft.com/theshow/episode038/default.asp</link>
+      <dc:creator>Robert Hess</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:ProductVers">Windows Longhorn</category>
+      <msdn:product>Windows Longhorn</msdn:product>
+      <guid>http://msdn.microsoft.com/theshow/episode038/default.asp</guid>
+      <pubDate>Thu, 11 Dec 2003 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The .NET Show: Managed DirectX</title>
+      <description>DirectX 9.0 brings the first release of the Managed API for developing DirectX-based programs and games. Watch Tom Miller and Brian Benincasa talk about what Managed DirectX brings to the graphics programming arena.</description>
+      <link>http://msdn.microsoft.com/theshow/episode037/default.asp</link>
+      <dc:creator>Robert Hess</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:TechnologyVers">DirectX</category>
+      <category domain="msdndomain:TechnologyVers">DirectX 9.0</category>
+      <msdn:technology>DirectX</msdn:technology>
+      <msdn:technology>DirectX 9.0</msdn:technology>
+      <guid>http://msdn.microsoft.com/theshow/episode037/default.asp</guid>
+      <pubDate>Fri, 24 Oct 2003 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

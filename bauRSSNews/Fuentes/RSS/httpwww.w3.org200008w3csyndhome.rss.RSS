@@ -1,0 +1,130 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[World Wide Web Consortium]]></title>
+  <link><![CDATA[http://www.w3.org/]]></link>
+  <description><![CDATA[Leading the Web to Its Full Potential...]]></description>
+  <language><![CDATA[]]></language>
+  <copyright><![CDATA[]]></copyright>
+  <lastBuildDate><![CDATA[]]></lastBuildDate>
+  <pubDate><![CDATA[]]></pubDate>
+  <generator><![CDATA[]]></generator>
+  <ttl><![CDATA[]]></ttl>
+  <image>
+    <title><![CDATA[]]></title>
+    <url><![CDATA[]]></url>
+    <link><![CDATA[]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Character Model for the World Wide Web Is a W3C Proposed Recommendation]]></title>
+    <link><![CDATA[http://www.w3.org/News/2004#item191]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[2004-11-22: W3C is pleased to announce the advancement of two parts of the Character Model for the World Wide Web 1.0. Fundamentals is a Proposed Recommendation and Resource Identifiers is a Candidate Recommendation. The documents provide authors of specifications, software developers, and content developers with a common reference for text manipulation and the use of internationalized resource identifiers on the Web. They build on the Universal Character Set defined by Unicode and ISO/IEC 10646. Comments are welcome through 20 December and 15 January respectively. Visit the Internationalization home page. (News archive)]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Last Call: Authoring Tool Accessibility Guidelines 2.0]]></title>
+    <link><![CDATA[http://www.w3.org/News/2004#item189]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[2004-11-22: The Authoring Tool Accessibility Guidelines Working Group has released a Last Call Working Draft of Authoring Tool Accessibility Guidelines 2.0 and a Working Draft of its companion Implementation Techniques. The guidelines are written to help developers create accessible authoring interfaces that produce accessible Web content. Resulting content can be read by a broader range of readers including those with disabilities. Comments are welcome through 7 January. Read about the Web Accessibility Initiative. (News archive)]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Last Call: QA Specification Guidelines]]></title>
+    <link><![CDATA[http://www.w3.org/News/2004#item190]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[2004-11-22: The Quality Assurance (QA) Working Group has released a Last Call Working Draft of the QA Framework: Specification Guidelines. The document is designed to help W3C editors write better specifications by making a specification easier to interpret without ambiguity, and clearer as to what is required in order to conform. Comments are welcome through 28 January. The QA Handbook is now a Working Group Note. Written for W3C Working Group Chairs and Team Contacts, the handbook provides techniques, tools, and templates for test suites and specifications, and is designed to facilitate and accelerate the work of W3C Working Groups. Learn more about quality assurance at W3C. (News archive)]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Last Call: Dynamic Properties Framework (DPF)]]></title>
+    <link><![CDATA[http://www.w3.org/News/2004#item188]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[2004-11-22: The Multimodal Interaction Working Group has released a Last Call Working Draft of the Dynamic Properties Framework (DPF). Written for the W3C Multimodal Interaction Framework, the draft describes interfaces for dynamic access to properties that represent device capabilities, device configuration, user preferences and environmental conditions. The previous Working Draft was named "System and Environment Framework." Comments are welcome through 10 January. Read about Multimodal Interaction. (News archive)]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Working Draft: SVG's XML Binding Language (sXBL)]]></title>
+    <link><![CDATA[http://www.w3.org/News/2004#item187]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[2004-11-22: Through joint efforts, the Scalable Vector Graphics (SVG) Working Group and the CSS Working Group have released a second Working Draft of SVG's XML Binding Language (sXBL). The sXBL language defines the presentation and interactive behavior of elements outside the SVG namespace. The XBL task force considers the sXBL specification to be nearly ready for Last Call. Visit the SVG and CSS home pages. (News archive)]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Working Draft: Web Content Accessibility Guidelines 2.0]]></title>
+    <link><![CDATA[http://www.w3.org/News/2004#item186]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[2004-11-19: The Web Content Accessibility Guidelines (WCAG) Working Group has released an updated Working Draft for Web Content Accessibility Guidelines 2.0. This draft focuses on guidelines, attempts to apply guidelines to a wider range of technologies, and uses wording that may be understood by a more varied audience. Following WCAG checkpoints makes Web content accessible to people with disabilities and to users of a variety of Web-enabled devices. Read about the Web Accessibility Initiative. (News archive)]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Working Drafts: Techniques for Web Content Accessibility Guidelines 2.0]]></title>
+    <link><![CDATA[http://www.w3.org/News/2004#item185]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[2004-11-19: The Web Content Accessibility Guidelines (WCAG) Working Group has released a First Public Working Draft of Client-side Scripting Techniques for WCAG 2.0 and three updated Working Drafts: HTML Techniques for WCAG 2.0, CSS Techniques for WCAG 2.0, and General Techniques for WCAG 2.0. The drafts give guidance on using HTML, XHTML, ECMAScript and Cascading Style Sheets (CSS) to create accessible content. Deprecated examples illustrate techniques that content developers should not use. Read about the Web Accessibility Initiative. (News archive)]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[W3C/Keio Presents at SFC Open Research Forum (ORF 2004) in Tokyo]]></title>
+    <link><![CDATA[http://www.w3.org/News/2004#item184]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[2004-11-18: SFC Open Research Forum (ORF) (in Japanese) is an annual open house event of the Keio Research Institute of Shonan Fujisawa Campus (SFC), Keio University, Japan. At ORF 2004, W3C/Keio will organize a talk session, "W3C Forum in ORF," on 24 November. Tatsuya Hagino chairs, and Masayasu Ishikawa, Martin Dürst, Yoshio Fukushige and Kazhiro Kitagawa will give talks on Web technologies such as Compound Document Formats, Internationalization, the Semantic Web and Social Information Filtering. The event is open to interested companies and the general public. (News archive)]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[W3C Celebrates Its Tenth Anniversary]]></title>
+    <link><![CDATA[http://www.w3.org/News/2004#item192]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[2004-11-30: This year, the World Wide Web Consortium celebrates its tenth anniversary—ten years of its mission to lead the Web to its full potential. On 1 December, W3C Members, Team, invited speakers, and international media will gather in Boston, USA to reflect on the progress of the Web, W3C's central role in its growth, and the risks and opportunities facing the Web during W3C's second decade. "This special anniversary brings the opportunity to acknowledge the impact of the Web and the W3C's stewardship role," said Tim Berners-Lee, W3C Director. "I hope it will also inspire ever more collaboration, creativity, and understanding across the globe." Sign the greeting card, read the press release and read more about the W3C Tenth Anniversary Celebration. (News archive)]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

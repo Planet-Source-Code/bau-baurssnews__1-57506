@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: Microsoft Office</title>
+    <link>http://msdn.microsoft.com/office/</link>
+    <description>The latest technical information on Microsoft Office for developers.</description>
+    <language>en-us</language>
+    <pubDate>Thu, 18 Nov 2004 14:01:31 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Nov 2004 14:01:31 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Building a Professional Stock Allocation System Using Visual Studio Tools for Office, Version 2003</title>
+      <description>Learn how to work more efficiently by merging the rich user experience provided by Office 2003 with the enterprise-level development tools provided by Visual Studio 2003 and the .NET Framework 1.1.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_vsto2003_ta/html/odc_VSTStockAllocation2003.asp</link>
+      <dc:creator>Jim Wilson</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">Visual Studio Tools for Office</category>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>Visual Studio Tools for Office</msdn:product>
+      <guid isPermaLink="false">Iliad_7051</guid>
+      <pubDate>Wed, 17 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Programming Publisher 2003 Made Easy: Lesson 5</title>
+      <description>In this last installment of the series, Andrew May discusses how to use the a method's return type, as well as how to use Visual Basic Help to get the information you need to write your macros.</description>
+      <link>http://www.msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_pb2003_ta/html/OfficePublisherMadeEasyFive.asp</link>
+      <dc:creator>Andrew May</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office Publisher 2003</category>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office Publisher 2003</msdn:product>
+      <guid isPermaLink="false">Iliad_7179</guid>
+      <pubDate>Wed, 17 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Creating an Estimate Solution Using Visual Studio Tools for Office, Version 2005</title>
+      <description>Learn about a basic order entry system that uses Excel 2003 for data entry, calculation, and charting capabilities, and Word 2003 for the generation of a report.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_vsto2005_ta/html/odc_vstoEstimateSampleSolution.asp</link>
+      <dc:creator>Kevin Schultz</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">Visual Studio Tools for Office</category>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>Visual Studio Tools for Office</msdn:product>
+      <guid isPermaLink="false">Iliad_7049</guid>
+      <pubDate>Wed, 10 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enhancing Office 2003 Research Services with Graphics and Fancy Fonts</title>
+      <description>Angela Wong demonstrates how to jazz up a Microsoft Office 2003 research service by displaying results using graphics and special fonts.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/dno2k3ta/html/odc_rsFancyFonts.asp</link>
+      <dc:creator>Angela Wong</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <guid isPermaLink="false">Iliad_7110</guid>
+      <pubDate>Wed, 10 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Critical Updates for Windows, Exchange, Office</title>
+      <description>Read the Microsoft security update for October 2004, which addresses newly discovered issues in Windows, Exchange, and Office.</description>
+      <link>http://www.microsoft.com/technet/security/bulletin/ms04-oct.mspx</link>
+      <dc:creator>Microsoft</dc:creator>
+      <category domain="msdndomain:ContentType">Download</category>
+      <category domain="msdndomain:ProductVers">Exchange</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office</category>
+      <category domain="msdndomain:ProductVers">Windows</category>
+      <msdn:product>Exchange</msdn:product>
+      <msdn:product>Microsoft Office</msdn:product>
+      <msdn:product>Windows</msdn:product>
+      <guid isPermaLink="false">Iliad_7187</guid>
+      <pubDate>Mon, 08 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office Outlook 2003 Inside Out: Companion CD Content: Using VBA in Outlook</title>
+      <description>Jim Boyce, author of the book Microsoft Office Outlook 2003 Inside Out, introduces you to the VBA environment and provides examples of simple ways to use VBA within Outlook 2003 to automate common tasks.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_ol2003_bk/html/odc_olArticleUsingVBAInOutlook.asp</link>
+      <dc:creator>Jim Boyce</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">VBA</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office Outlook 2003</category>
+      <category domain="msdndomain:ProductVers">VBA</category>
+      <msdn:developmentLanguage>VBA</msdn:developmentLanguage>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>Microsoft Office Outlook 2003</msdn:product>
+      <msdn:product>VBA</msdn:product>
+      <guid isPermaLink="false">Iliad_7111</guid>
+      <pubDate>Thu, 04 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Customizing Menus and Toolbars in InfoPath 2003</title>
+      <description>Learn to use the controls’ numerical IDs in your JScript and C# code to create a custom user experience and restrict the commands that your form users can access.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_ip2003_ta/html/OfficeInfoPathCustomizingInfoPathMenusandToolbars.asp</link>
+      <dc:creator>Michael Talley</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office InfoPath 2003</category>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>Microsoft Office InfoPath 2003</msdn:product>
+      <guid isPermaLink="false">Iliad_6707</guid>
+      <pubDate>Tue, 02 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Checklist for Testing SharePoint Web Parts</title>
+      <description>Use this checklist to assist with deployment and maintenance of your Microsoft SharePoint Products and Technologies Web Parts.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/odc_SP2003_ta/html/Office_SharePointWebPartsTestingChecklist.asp</link>
+      <dc:creator>Susan Harney</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">SharePoint Portal Server 2003</category>
+      <category domain="msdndomain:ProductVers">Windows SharePoint Services</category>
+      <category domain="msdndomain:TechnologyVers">Web Parts</category>
+      <msdn:technology>Web Parts</msdn:technology>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>SharePoint Portal Server 2003</msdn:product>
+      <msdn:product>Windows SharePoint Services</msdn:product>
+      <guid isPermaLink="false">Iliad_7117</guid>
+      <pubDate>Tue, 02 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smart Access: Sending E-mail with Access</title>
+      <description>Smart Access columnist Rick Dobson explores using the robust database management features of Access to develop e-mail solutions for managing business relationships.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/dnsmart04/html/sa04i6.asp</link>
+      <dc:creator>Rick Dobson</dc:creator>
+      <category domain="msdndomain:ContentType">Periodicals</category>
+      <category domain="msdndomain:ProductVers">Access</category>
+      <category domain="msdndomain:ProductVers">Microsoft Access 2003</category>
+      <msdn:product>Access</msdn:product>
+      <msdn:product>Microsoft Access 2003</msdn:product>
+      <guid isPermaLink="false">Iliad_7154</guid>
+      <pubDate>Mon, 01 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Programming Publisher 2003 Made Easy: Lesson 4</title>
+      <description>Andrew May builds on previous lessons and introduces several techniques to make your macros more flexible and powerful.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_pb2003_ta/html/OfficePublisherMadeEasyFour.asp</link>
+      <dc:creator>Andrew May</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office Publisher 2003</category>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office Publisher 2003</msdn:product>
+      <guid isPermaLink="false">Iliad_7020</guid>
+      <pubDate>Tue, 26 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

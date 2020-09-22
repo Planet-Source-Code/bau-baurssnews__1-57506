@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="iso-8859-1"?><rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+  <channel rdf:about="http://www.lessig.org/">
+    <title>Lessig News</title>
+    <link>http://www.lessig.org/</link>
+    <description>Columns, interviews, relevant articles, news on Lessig. </description>
+    <dc:language>en-us</dc:language>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-12-01T15:34:46-08:00</dc:date>
+    <admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.121" />
+    <admin:errorReportsTo rdf:resource="mailto:eadolfo@stanford.edu"/>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_12.shtml#002306" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_11.shtml#002293" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_11.shtml#002285" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_11.shtml#002252" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_11.shtml#002287" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_11.shtml#002286" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_10.shtml#002254" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_10.shtml#002253" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_10.shtml#002212" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_10.shtml#002213" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_10.shtml#002201" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_10.shtml#002199" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_09.shtml#002189" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_09.shtml#002177" />
+        <rdf:li rdf:resource="http://www.lessig.org/archives/2004_09.shtml#002170" />
+
+      </rdf:Seq>
+    </items>
+  </channel>
+
+  <item rdf:about="http://www.lessig.org/archives/2004_12.shtml#002306">
+    <title>&quot;Technology Over Ideology&quot;</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>In Prof. Lessig&apos;s latest column for Wired, he writes about FCC chair Michael Powell....</description>
+     <content:encoded><![CDATA[<p>In Prof. Lessig's latest column for Wired, he writes about <a href="http://www.wired.com/wired/archive/12.12/view.html?pg=5">FCC chair Michael Powell</a>.</p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_12.shtml#002306</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-12-01T15:34:46-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_11.shtml#002293">
+    <title>Law &amp; Blogging</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Professor Lessig spoke at Bloggercon about the law and blogging....</description>
+     <content:encoded><![CDATA[<p>Professor Lessig spoke at <a href="http://www.bloggercon.org/2004/10/28#a1837">Bloggercon</a> about the <a href="http://www.zmetro.com/archives/001017.php">law and blogging</a>.</p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_11.shtml#002293</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-11-06T12:52:48-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_11.shtml#002285">
+    <title>(Re)Creativity : How Creativity Lives</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Prof. Lessig gave a presentation to the Hans Christian Andersen Academy in November 2004....</description>
+     <content:encoded><![CDATA[<p>Prof. Lessig gave a presentation to the <a href="http://www.sdu.dk/Adm/HansChristianAndersenAcademy/HCAA2004.shtml">Hans Christian Andersen Academy</a> in November 2004. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_11.shtml#002285</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-11-04T11:15:34-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_11.shtml#002252">
+    <title>Sample the Future</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Wired Magazine writes about &quot;The Wired CD&quot; which includes songs produced under the Creative Commons License. They reference Professor Lessig...</description>
+     <content:encoded><![CDATA[<p>Wired Magazine writes about "<a href="http://www.wired.com/wired/archive/12.11/sample.html">The Wired CD</a>" which includes songs produced under the Creative Commons License. They reference Professor Lessig as the founder of Creative Commons. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_11.shtml#002252</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-11-01T13:06:51-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_11.shtml#002287">
+    <title>Hollywood Fights Video, Movie Piracy</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Prof. Lessig expresses his concern about the government&apos;s war on piracy in this NPR interview....</description>
+     <content:encoded><![CDATA[<p>Prof. Lessig expresses his concern about the <a href="http://www.npr.org/templates/story/story.php?storyId=4136643">government's war on piracy in this NPR interview</a>. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_11.shtml#002287</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-11-01T11:25:39-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_11.shtml#002286">
+    <title>How I Learned to Love Larry</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Hilary Rosen, ex-CEO of the RIAA, writes about how she&apos;s grown to love Creative Commons and Prof. Lessig. In this...</description>
+     <content:encoded><![CDATA[<p>Hilary Rosen, ex-CEO of the RIAA, writes about how she's grown to <a href="http://www.wired.com/wired/archive/12.11/larry.html">love Creative Commons and Prof. Lessig</a>. In this article, Prof. Lessig also writes how copyrights can <a href="http://www.wired.com/wired/archive/12.11/larry.html?pg=2&topic=larry&topic_set=">inspire the next digital revolution</a>.</p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_11.shtml#002286</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-11-01T11:20:12-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_10.shtml#002254">
+    <title>Web Publishers Fear &apos;A Little Sharing&apos;</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Professor Lessig is quoted in this article about the community use of passwords and registration information....</description>
+     <content:encoded><![CDATA[<p>Professor Lessig is quoted in this article about the <a href="http://www.ecommercetimes.com/story/Web-Publishers-Fear-A-Little-Sharing-37454.html">community use of passwords</a> and registration information. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_10.shtml#002254</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-10-27T09:14:14-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_10.shtml#002253">
+    <title>Tech Goes to the Polls</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Prof. Lessig backs the new P2P Politics Web site in a story written by CNET....</description>
+     <content:encoded><![CDATA[<p>Prof. Lessig backs the new <a href="http://news.com.com/Week+in+review+Tech+goes+to+the+polls/2009-1083_3-5421957.html">P2P Politics Web site</a> in a story written by CNET. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_10.shtml#002253</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-10-22T13:11:26-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_10.shtml#002212">
+    <title>&quot;Copyright and the Mouse&quot;</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Professor Lessig is quoted in this article about copyright law and MickeyMouse....</description>
+     <content:encoded><![CDATA[<p>Professor Lessig is quoted in this article about <a href="http://www.mickeynews.com/News/PrintStory.asp_Q_id_E_1084Copyright_A_cat_E_DC">copyright law and MickeyMouse</a>. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_10.shtml#002212</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-10-08T10:25:31-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_10.shtml#002213">
+    <title>&quot;Threats to Media Freedom&quot;</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>PC World writes about Professor Lessig&apos;s appearance at Web 2.0 in San Francisco. It is included in article about Chief...</description>
+     <content:encoded><![CDATA[<p>PC World writes about <a href="http://www.pcworld.com/news/article/0,aid,118120,00.asp">Professor Lessig's appearance at Web 2.0 in San Francisco</a>. It is included in article about Chief Yahoo Jerry Yang's reflection on the company's first ten years at Web 2.0.</p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_10.shtml#002213</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-10-08T08:00:00-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_10.shtml#002201">
+    <title>&quot;A sharing approach to copyright&quot;</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>The BBC interviewed Prof. Lessig in their &quot;Go Digital&quot; program about Creative Commons and the recent UK launch....</description>
+     <content:encoded><![CDATA[<p>The BBC interviewed Prof. Lessig in their <a href="http://news.bbc.co.uk/1/hi/technology/3716218.stm">"Go Digital" program</a> about Creative Commons and the recent UK launch. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_10.shtml#002201</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-10-05T09:03:13-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_10.shtml#002199">
+    <title>Creative Commons UK</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Prof. Lessig launches Creative Commons for the UK in this story....</description>
+     <content:encoded><![CDATA[<p>Prof. Lessig <a href="http://www.theregister.co.uk/2004/10/04/creative_commons/">launches Creative Commons for the UK</a> in this story. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_10.shtml#002199</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-10-04T08:13:40-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_09.shtml#002189">
+    <title>&quot;We Copy That&quot;</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Professor Lessig was mentioned in an article about the Canadian Creative Commons project....</description>
+     <content:encoded><![CDATA[<p>Professor Lessig was mentioned in an article about the <a href="http://www.canada.com/technology/story.html?id=1f8f73fd-3035-4ed0-9f2e-d7a147796f70">Canadian Creative Commons project</a>. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_09.shtml#002189</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-09-30T09:09:03-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_09.shtml#002177">
+    <title>&quot;Our Kids Are in Big Trouble&quot;</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>Professor Lessig&apos;s latest Wired column is now online. &quot;Our Kids Are in Big Trouble&quot; discusses how the government is using...</description>
+     <content:encoded><![CDATA[<p>Professor Lessig's latest Wired column is now online. "<a href="http://www.wired.com/wired/archive/12.10/view.html?pg=5">Our Kids Are in Big Trouble</a>" discusses how the government is using technology to burden their future. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_09.shtml#002177</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-09-29T09:15:40-08:00</dc:date>
+  </item>
+  <item rdf:about="http://www.lessig.org/archives/2004_09.shtml#002170">
+    <title>&quot;This Compilation CD is Meant to Be Copied and Shared&quot;</title>
+   <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.0" /> 
+   <description>The Wall Street Journal quotes Professor Lessig in this story about the Creative Commons compilation CD....</description>
+     <content:encoded><![CDATA[<p>The Wall Street Journal quotes Professor Lessig in this story about the <a href="http://online.wsj.com/public/article/0,,SB109563044896921709,00.html?mod=todays_free_feature">Creative Commons compilation CD</a>. </p>]]></content:encoded>
+    <link>http://www.lessig.org/archives/2004_09.shtml#002170</link>
+    <dc:subject></dc:subject>
+    <dc:creator>elaine</dc:creator>
+    <dc:date>2004-09-22T15:22:21-08:00</dc:date>
+  </item>
+
+
+<cc:License rdf:about="http://creativecommons.org/licenses/by/2.0">
+   <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <requires rdf:resource="http://web.resource.org/cc/Notice" />
+</cc:License>
+
+</rdf:RDF>

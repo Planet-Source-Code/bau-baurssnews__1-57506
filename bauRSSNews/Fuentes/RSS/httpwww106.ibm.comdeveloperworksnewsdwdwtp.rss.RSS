@@ -1,0 +1,203 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[IBM developerWorks]]></title>
+  <link><![CDATA[http://www.ibm.com/developerworks/index.html?ca=drs-tp4904]]></link>
+  <description><![CDATA[The latest content from IBM developerWorks]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[Copyright 2003 IBM Corporation.]]></copyright>
+  <lastBuildDate><![CDATA[]]></lastBuildDate>
+  <pubDate><![CDATA[Mon, 29 Nov 2004 09:30:13 -0500]]></pubDate>
+  <generator><![CDATA[]]></generator>
+  <ttl><![CDATA[]]></ttl>
+  <image>
+    <title><![CDATA[IBM developerWorks]]></title>
+    <url><![CDATA[http://www-106.ibm.com/developerworks/i/dwlogo-small.gif]]></url>
+    <link><![CDATA[http://www.ibm.com/developerworks/index.html?ca=drs-tp4904]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Meet the experts: Ric Telford on the state of autonomic computing today]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/ac-telford/index.html?ca=drs-tp4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This question and answer article features Ric Telford, Director for Autonomic Computing at IBM. developerWorks talked with Ric about the state of autonomic computing today, and the challenges of developing with, and for, next-generation autonomic systems.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Lightweight RFID framework]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/wi-rfid/index.html?ca=drs-tp4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[When administration and cost are an issue, lightweight RFID is an interim solution]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Enable backwards navigation through Web applications]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/wa-webflow/index.html?ca=drs-tp4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Web frameworks like Struts and JavaServer Faces focus only on forward navigation of Web applications. In this article, Maurizio Albari introduces a framework that improves the backwards navigation of Web applications by keeping a server-side navigation history of visited Web pages and visited named sequences of Web pages, also known as Webflows. With the framework, you can also use the server-side navigation history to automatically clean the HTTP session, thus improving application performance. And the best part is that you can still use your favorite Web framework for forward navigation.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Inside memory management]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/l-memory/index.html?ca=drs-tp4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This article gives an overview of memory management techniques available to Linux programmers, focusing on the C language but applicable to other languages as well.  It covers the details of how memory management works, then goes on to show how to manage memory manually, how to manage memory semi-manually using referencing counting or pooling, and how to manage memory automatically using garbage collection.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Integrate COM and Java components]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/j-intbridge/index.html?ca=drs-tp4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Interoperability issues have long made integration of COM and Java components a daunting task. Now, the Development Tool for Java-COM Bridge, available from IBM alphaWorks, eases that burden and also provides an evolutionary approach to migrating applications from COM to the Java platform. IBM Rational's Cheng-Yee Lin, Thomas Houser, and Peter Parapounsky, creators of the bridging technology, explain its basics and present a sample application that leverages its capabilities.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Introduction to XML Events]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/x-events/index.html?ca=drs-tp4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[A number of markup technologies involve attaching behaviors to specific parts of a document. XML Events is a W3C Recommendation that allows declarative attachment of a behavior -- which can be a predefined bundle of actions defined in XML or a more general call to a scripting language -- to a specific element. This article gives an overview of how XML Events came about, what it's useful for, and how it works.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Geographically dispersed grid, Part 1: Aligning computation and data]]></title>
+    <link><![CDATA[http://www-106.ibm.com/developerworks/library/gr-gdg1/index.html?ca=drs-tp4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[In any grid computing environment, you have data nodes and computing nodes. How do you balance them to gain the greatest productivity? Do you move data to the executables? Or move executables to the data? Or send both data and exectables to a third location to maximize the throughput of work in the grid? The author examines the challenges we all face in this four-part series of articles.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Wireless messaging with JXTA, Part 1]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/wi-jxta/index.html?ca=drs-tp4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Part one of this article explains the major requirements that must be fulfilled when integrating J2ME clients in JMS applications. Also discussed is the role of JXTA, with a tutorial provided  that demonstrates how to use JXTA for integrating J2ME clients with any server side Java application.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[FacesClient Components, Part 1: Portlet programming with FacesClient Components]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/web/library/wa-facescomp1/index.html?ca=drs-tp4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Web applications developed using the thin client computing model exhibit performance gaps and user interface limitations. As an alternative, the IBM FacesClient Components (formerly called the Odyssey Browser Framework) provides a more effective model for developing Web applications. FacesClient Components work inside a portlet programming environment to deliver exceptional value to users in the form of richer user interfaces and improved application performance. In this article, three software engineers explore the fundamentals of FacesClient Components and its uses for building portlet applications.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Secure a J2ME environment with JCE:  Resolving the problems encountered with the Java Cryptography Extension]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/wi-secure/index.html?ca=drs-tp4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Implementing a customized security library is expensive and unsuitable for medium and small applications. The Java Cryptography Extension, while the accepted standard for these apps, brings up a host of other problems. This article analyzes those problems and demonstrates how to solve them.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Linux-powered networking, Part 1: Build a DNS server with ISC BIND]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/l-dw-linux-lpndns-i.html?ca=drs-tp4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This tutorial is the first part in a three-part series. The tutorial demonstrates how to leverage Linux to get the most from your network. Specifically, it describes how to setup DNS with Internet Systems Consortium (ISC) BIND. Both sample code and configuration files are provided throughout to aid understanding.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Meet the experts: John McCalpin]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/pa-expert1.html?ca=drs-tp4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This question and answer article features IBM STSM John McCalpin on his work on the POWER5 and in high performance computing; on the Hypervisor and the size of POWER5 chips; on 128-bit computing -- and even on why he became an electrical engineer instead of an entomologist.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Using the Event Catalog in the CEI]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/ac-catalog/index.html?ca=drs-tp4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[In the article IBM Common Event Infrastructure, we discussed the importance of an event infrastructure shared by multiple applications in a distributed environment. The benefits of sharing a single infrastructure and adopting a single API ranged from reduced development costs to easier data exchange between applications written by different vendors. The IBM Common Event Infrastructure (CEI) uses the Common Base Event (CBE) specification as the format for the event information exchanged in the system, which lays a solid foundation for the agreement between the event sources and event consumer in the environment.This article focuses on the CEI Event Catalog, a component that builds on the foundation set by the CBE specification in order to offer a higher-level of agreement for the applications exchanging event data through CEI.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[RELAX NG with custom datatype libraries]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/xml/library/x-custyp/index.html?ca=drs-tp4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[RELAX NG can do almost everything the W3C XML Schema language can do, including verifying constraints on text content and attribute values specified with the W3C XML Schema simple types. However, some constraints still can't be stated in anything less than a Turing-complete language, and RELAX NG is not such a language. Fortunately, you can extend RELAX NG dynamically with custom validation code -- written in the Java programming language -- that checks constraints that RELAX NG itself can't specify. This requires implementing three interfaces: Datatype, DatatypeLibrary, and DatatypeFactory. This article demonstrates these interfaces by verifying that a number is prime.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Concurrency in JDK 5.0]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/j-dw-java-concur-i.html?ca=drs-tp4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[JDK 5.0 added major new support for developing concurrent applications, including JVM changes, new low-level synchronization utilities, and higher-level, thread-safe, high-performance concurrency classes such as thread pools, concurrent collections, semaphores, latches, and barriers.  Learn how these new classes can help make
+your code faster, more scalable, more reliable, and easier to maintain in this comprehensive tutorial by concurrency expert Brian Goetz.]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

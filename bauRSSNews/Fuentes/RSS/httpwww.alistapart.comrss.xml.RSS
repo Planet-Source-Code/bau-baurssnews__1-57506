@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>A List Apart: for people who make websites</title>
+		<link>http://www.alistapart.com/</link>
+		<description>Web design news, info, and insights since 1995. CSS layout, XHTML, usability, accessibility. Designing with web standards. ISSN: 1534-0295.</description>
+		<language>en-us</language>
+		<item>
+			<title>Invasion of the Body Switchers</title>
+			<link>http://www.alistapart.com/articles/bodyswitchers/</link>
+			<description>and James Edwards  Wouldn&apos;t it be great if we could update the classic ALA Style Switcher to accommodate multiple users and devices, including some that aren&apos;t even traditional browsers, all from a single JavaScript and CSS file? Well, now we can! Enter the Body Switcher.</description>
+			<dc:creator>Andy Clarke</dc:creator>
+			<dc:date>2004-11-19</dc:date>
+		</item>
+		<item>
+			<title>Pocket-Sized Design: Taking Your Website to the Small Screen</title>
+			<link>http://www.alistapart.com/articles/pocket/</link>
+			<description>and Jorunn D. Newth  Among the many websites that are out there, few are standards-compliant. Among those few, only a handful sport style sheets adjusted to the needs of handheld devices. Of those which do offer styling for handhelds, not all will fit the smallest, lowest-resolution screens  without presenting the user with the ultimate handheld horror: namely, horizontal scrolling. This article presents a set of general suggestions for creating a handheld-friendly style sheet that works well even on handheld screens no wider than 120px.</description>
+			<dc:creator>Elika Etemad</dc:creator>
+			<dc:date>2004-08-31</dc:date>
+		</item>
+		<item>
+			<title>A Better Image Rotator</title>
+			<link>http://www.alistapart.com/articles/betterrotator/</link>
+			<description>The first image rotator made it easy to generate a random image on a web page, even if you had never worked with PHP before. The new, more powerful (but still dead easy) version uses a simple configuration file to create custom links, alt tags, titles, and even CSS styles for each image. Plus it handles differently sized images without a hiccup. Enjoy!</description>
+			<dc:creator>Dan Benjamin</dc:creator>
+			<dc:date>2004-08-10</dc:date>
+		</item>
+		<item>
+			<title>Enhance Usability by Highlighting Search Terms</title>
+			<link>http://www.alistapart.com/articles/searchhighlight/</link>
+			<description>and Matt Riggott  Google&apos;s cache offers users a copy of your website with their search terms highlighted. You can do the same thing and make it easier for users to find what they&apos;re looking for -- whether they&apos;re coming from an external search engine or your own site search -- by making their search terms easy to spot.</description>
+			<dc:creator>Brian Suda</dc:creator>
+			<dc:date>2004-08-10</dc:date>
+		</item>
+		<item>
+			<title>Better Invoices for Better Business</title>
+			<link>http://www.alistapart.com/articles/invoices/</link>
+			<description>Invoices that obfuscate information, incorrectly state terms or arrive incomplete can be a massive headache for all parties.  Strategic timing and attractive presentation are also important, as they can help &quot;soften the blow&quot; by making your invoice seem less like a stale demand for money and more like a friendly letter.</description>
+			<dc:creator>Kevin Potts</dc:creator>
+			<dc:date>2004-08-10</dc:date>
+		</item>
+		<item>
+			<title>Smarter Image Hotlinking Prevention</title>
+			<link>http://www.alistapart.com/articles/hotlinking/</link>
+			<description>Most web professionals are all too aware of the problems caused by hotlinkers. Leechers. Bandwidth thieves. People who use images hosted on your web server on their own pages. With PHP and mod_rewrite, you can disallow embedding and allow linking while automatically creating gallery pages for those direct linkers.</description>
+			<dc:creator>Thomas Scott</dc:creator>
+			<dc:date>2004-07-13</dc:date>
+		</item>
+		<item>
+			<title>Drop-Down Menus, Horizontal Style</title>
+			<link>http://www.alistapart.com/articles/horizdropdowns/</link>
+			<description>Multi-tiered drop-down menus can be a hassle to build and maintain -- especially when they rely on big, honking chunks of JavaScript. Nick Rigby presents a way to handle this common navigation element with a cleanly structured XHTML list, straightforward CSS, and only a few concessions to browser quirks.</description>
+			<dc:creator>Nick Rigby</dc:creator>
+			<dc:date>2004-06-29</dc:date>
+		</item>
+		<item>
+			<title>Dynamic Text Replacement</title>
+			<link>http://www.alistapart.com/articles/dynatext/</link>
+			<description>Let your server do the walking! Whether you&apos;re replacing one headline or a thousand, Stewart Rosenberger&apos;s Dynamic Text Replacement automatically swaps XHTML text with an image of that text, consistently displayed in any font you own. The markup is clean, semantic, and accessible. No CSS hacks are required, and you needn&apos;t open Photoshop or any other image editor. Read about it today; use it on personal and commercial web projects tomorrow.</description>
+			<dc:creator>Stewart Rosenberger</dc:creator>
+			<dc:date>2004-06-15</dc:date>
+		</item>
+		<item>
+			<title>Dynamically Conjuring Drop-Down Navigation</title>
+			<link>http://www.alistapart.com/articles/dynanav/</link>
+			<description>Got content? Got pages and pages of content? Wouldn&apos;t it be nice if you could offer your readers a drop-down menu providing instant access to any page, without having to sit down and program the darned thing? By marrying a seemingly forgotten XHTML element to simple, drop-in JavaScript, Christian Heilmann shows how to do just that. There&apos;s even a PHP backup for those whose browsers lack access to JavaScript. Turn on, tune in, drop-down.</description>
+			<dc:creator>Christian Heilmann</dc:creator>
+			<dc:date>2004-06-15</dc:date>
+		</item>
+		<item>
+			<title>Creating Liquid Layouts with Negative Margins</title>
+			<link>http://www.alistapart.com/articles/negativemargins/</link>
+			<description>Two- and three-column, liquid page designs with header and footer are easy to dash off using old-school HTML table layout methods. Designing them in CSS is trickier, and can sometimes even require you to structure your page&apos;s content elements in a specific (and undesirable) order. Negative margins to the rescue! Ryan Brill whips up two quick CSS layouts to demonstrate the power of negative thinking.</description>
+			<dc:creator>Ryan Brill</dc:creator>
+			<dc:date>2004-06-15</dc:date>
+		</item>
+		<item>
+			<title>Onion Skinned Drop Shadows</title>
+			<link>http://www.alistapart.com/articles/onionskin/</link>
+			<description>Animators use onion skinning to render a snapshot of motion across time. Now, web designers can use this technique to create the truly extensible CSS-based drop shadow.</description>
+			<dc:creator>Brian Williams</dc:creator>
+			<dc:date>2004-05-21</dc:date>
+		</item>
+		<item>
+			<title>Print It Your Way</title>
+			<link>http://www.alistapart.com/articles/printyourway/</link>
+			<description>Because ALA&apos;s readers are web users as well as designers and developers, we offer this tidbit from Derek Featherstone on creating user stylesheets to print articles to your own specifications.</description>
+			<dc:creator>Derek Featherstone</dc:creator>
+			<dc:date>2004-05-21</dc:date>
+		</item>
+		<item>
+			<title>Separation: The Web Designer&apos;s Dilemma</title>
+			<link>http://www.alistapart.com/articles/separationdilemma/</link>
+			<description>Presentation separated from structure. Structure separated from content. The foot bone connected to the ... what were we talking about? Michael Cohen steps in to examine our assumptions and relieve our separation anxiety.</description>
+			<dc:creator>Michael Cohen</dc:creator>
+			<dc:date>2004-05-14</dc:date>
+		</item>
+		<item>
+			<title>Art Direction and the Web</title>
+			<link>http://www.alistapart.com/articles/artdirweb/</link>
+			<description>If design lives in the details, art direction&apos;s turf is the Big Idea. Stephen Hay introduces the principles and techniques of the art director, and shows how art directional concepts can shape memorable user experiences.</description>
+			<dc:creator>Stephen Hay</dc:creator>
+			<dc:date>2004-05-07</dc:date>
+		</item>
+		<item>
+			<title>Mountaintop Corners</title>
+			<link>http://www.alistapart.com/articles/mountaintop/</link>
+			<description>Most of us have experience creating &quot;rounded&quot; corners by erasing pixels. It&apos;s a rudimentary web design technique -- or so we always thought. But in the hands of Dan Cederholm, author of Web Standards Solutions, this seemingly simple technique paves the way for boxes and borders that can change sizes and colors at your whim.</description>
+			<dc:creator>Dan Cederholm</dc:creator>
+			<dc:date>2004-04-30</dc:date>
+		</item>
+		<item>
+			<title>What Is Web Accessibility?</title>
+			<link>http://www.alistapart.com/articles/wiwa/</link>
+			<description>While the methods we use to create accessible websites can be complex, the essential principles are simple: consider the obstacles your site presents to users who approach it differently than you do, then remove as many of those obstacles as you can. Trenton Moss provides a quick overview.</description>
+			<dc:creator>Trenton Moss</dc:creator>
+			<dc:date>2004-04-30</dc:date>
+		</item>
+		<item>
+			<title>CSS Drop Shadows II: Fuzzy Shadows</title>
+			<link>http://www.alistapart.com/articles/cssdrop2/</link>
+			<description>Picking up where Part I left off, in Part II designer Sergio Villarreal takes his standards-compliant drop-shadow to the next level by producing warm and fuzzy shadows.</description>
+			<dc:creator>Sergio Villarreal</dc:creator>
+			<dc:date>2004-04-23</dc:date>
+		</item>
+		<item>
+			<title>The Problem, the Balloon, and the Four Bedroom House</title>
+			<link>http://www.alistapart.com/articles/balloon/</link>
+			<description>Without a problem, there is no project. Where there is a problem, however, there is a stakeholder who is desperate for a solution and who has a delivery deadline -- which is normally sometime yesterday. Find out how a good process can tame even the most unruly project.</description>
+			<dc:creator>Joe Di Stefano</dc:creator>
+			<dc:date>2004-04-16</dc:date>
+		</item>
+		<item>
+			<title>Let Them Eat Cake</title>
+			<link>http://www.alistapart.com/articles/eatcake/</link>
+			<description>A growing debate pits accessibility against usability. From our point of view, it&apos;s like pitting peanut butter against jelly. This article helps you create a page that is both usable and accessible, saving readers the trouble of scrolling with a little help from JavaScript and the Document Object Model.</description>
+			<dc:creator>Aaron Gustafson</dc:creator>
+			<dc:date>2004-04-16</dc:date>
+		</item>
+		<item>
+			<title>Power To The People: Relative Font Sizes</title>
+			<link>http://www.alistapart.com/articles/relafont/</link>
+			<description>Relative font sizes may make websites more accessible -- but they&apos;re not much help unless the person using the site can find a way to actually change text size. Return control to your audience using this simple, drop-in solution.</description>
+			<dc:creator>Bojan Mihelac</dc:creator>
+			<dc:date>2004-04-09</dc:date>
+		</item>
+	</channel>
+</rss>

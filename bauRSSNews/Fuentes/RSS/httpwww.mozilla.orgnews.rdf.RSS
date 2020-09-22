@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="http://www.mozilla.org/">
+    <title>Mozilla Dot Org</title>
+    <description>the mozilla.org website</description>
+    <link>http://www.mozilla.org/news.html</link>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://ftp.mozilla.org/pub/mozilla.org/mozilla/releases/mozilla1.8a5/"/>
+        <rdf:li rdf:resource="http://www.mozilla.org/news.html"/>
+        <rdf:li rdf:resource="http://www.mozilla.org/news.html"/>
+        <rdf:li rdf:resource="http://www.mozilla.org/press/mozilla-2004-11-22.html"/>
+        <rdf:li rdf:resource="http://www.mozilla.org/press/mozilla-2004-11-09.html"/>
+        <rdf:li rdf:resource="http://www.mozilla.org/products/thunderbird/releases/"/>
+        <rdf:li rdf:resource="http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/1.0rc1/"/>
+        <rdf:li rdf:resource="http://www.prweb.com/releases/2004/10/prweb169813.php"/>
+        <rdf:li rdf:resource="http://www.spreadfirefox.com"/>
+        <rdf:li rdf:resource="http://weblogs.mozillazine.org/gerv/archives/006693.html"/>
+        <rdf:li rdf:resource="http://www.mozilla.org/press/mozilla-2004-10-01-02.html"/>
+        <rdf:li rdf:resource="http://www.mozilla.org/releases/#1.8a4"/>
+        <rdf:li rdf:resource="http://www.spreadfirefox.com/?q=node/view/875"/>
+        <rdf:li rdf:resource="http://www.mozilla.org/press/mozilla-2004-09-14-02.html"/>
+        <rdf:li rdf:resource="http://www.mozilla.org/press/mozilla-2004-09-14-01.html"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://ftp.mozilla.org/pub/mozilla.org/mozilla/releases/mozilla1.8a5/">
+    <title>Mozilla 1.8 Alpha 5 hits the streets</title>
+    <link>http://ftp.mozilla.org/pub/mozilla.org/mozilla/releases/mozilla1.8a5/</link>
+    <dc:date>2004-11-22</dc:date>
+  </item>
+  <item rdf:about="http://www.mozilla.org/news.html">
+    <title>Mozilla Firefox 1.0 builds momentum with record 5.6 million downloads in first two weeks; Wins c|Net's Editor's Choice Award</title>
+    <link>http://www.mozilla.org/news.html</link>
+    <dc:date>2004-11-22</dc:date>
+  </item>
+  <item rdf:about="http://www.mozilla.org/news.html">
+    <title>Over 24 localized versions of Firefox 1.0 now available</title>
+    <link>http://www.mozilla.org/news.html</link>
+    <dc:date>2004-11-22</dc:date>
+  </item>
+  <item rdf:about="http://www.mozilla.org/press/mozilla-2004-11-22.html">
+    <title>Update to German Language Version of Firefox 1.0</title>
+    <link>http://www.mozilla.org/press/mozilla-2004-11-22.html</link>
+    <dc:date>2004-11-22</dc:date>
+  </item>
+  <item rdf:about="http://www.mozilla.org/press/mozilla-2004-11-09.html">
+    <title>Firefox 1.0 is here!</title>
+    <link>http://www.mozilla.org/press/mozilla-2004-11-09.html</link>
+    <dc:date>2004-11-09</dc:date>
+  </item>
+  <item rdf:about="http://www.mozilla.org/products/thunderbird/releases/">
+    <title>Thunderbird 0.9 Now Available!</title>
+    <link>http://www.mozilla.org/products/thunderbird/releases/</link>
+    <dc:date>2004-11-03</dc:date>
+  </item>
+  <item rdf:about="http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/1.0rc1/">
+    <title>First Release Candidate</title>
+    <link>http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/1.0rc1/</link>
+    <dc:date>2004-10-27</dc:date>
+  </item>
+  <item rdf:about="http://www.prweb.com/releases/2004/10/prweb169813.php">
+    <title>New York Times Ad Campaign</title>
+    <link>http://www.prweb.com/releases/2004/10/prweb169813.php</link>
+    <dc:date>2004-10-19</dc:date>
+  </item>
+  <item rdf:about="http://www.spreadfirefox.com">
+    <title>Firefox Preview Release: 5 Million Downloads</title>
+    <link>http://www.spreadfirefox.com</link>
+    <dc:date>2004-10-17</dc:date>
+  </item>
+  <item rdf:about="http://weblogs.mozillazine.org/gerv/archives/006693.html">
+    <title>Party Time!</title>
+    <link>http://weblogs.mozillazine.org/gerv/archives/006693.html</link>
+    <dc:date>2004-10-12</dc:date>
+  </item>
+  <item rdf:about="http://www.mozilla.org/press/mozilla-2004-10-01-02.html">
+    <title>Important Security Update for Firefox Available</title>
+    <link>http://www.mozilla.org/press/mozilla-2004-10-01-02.html</link>
+    <dc:date>2004-10-01</dc:date>
+  </item>
+  <item rdf:about="http://www.mozilla.org/releases/#1.8a4">
+    <title>Mozilla Suite 1.8 Alpha 4 Available</title>
+    <link>http://www.mozilla.org/releases/#1.8a4</link>
+    <dc:date>2004-09-28</dc:date>
+  </item>
+  <item rdf:about="http://www.spreadfirefox.com/?q=node/view/875">
+    <title>1 Million Downloads in 100 Hours</title>
+    <link>http://www.spreadfirefox.com/?q=node/view/875</link>
+    <dc:date>2004-09-20</dc:date>
+  </item>
+  <item rdf:about="http://www.mozilla.org/press/mozilla-2004-09-14-02.html">
+    <title>Firefox Preview Release and Thunderbird 0.8 Available</title>
+    <link>http://www.mozilla.org/press/mozilla-2004-09-14-02.html</link>
+    <dc:date>2004-09-14</dc:date>
+  </item>
+  <item rdf:about="http://www.mozilla.org/press/mozilla-2004-09-14-01.html">
+    <title>First Security Bug Bounty Payments Awarded</title>
+    <link>http://www.mozilla.org/press/mozilla-2004-09-14-01.html</link>
+    <dc:date>2004-09-14</dc:date>
+  </item>
+</rdf:RDF>

@@ -1,0 +1,252 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[webgraphics]]></title>
+  <link><![CDATA[http://web-graphics.com/]]></link>
+  <description><![CDATA[WebGraphics is a daily compilation of hypertext design resources, links, commentary and notes.]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[]]></copyright>
+  <lastBuildDate><![CDATA[Wed, 01 Dec 2004 03:32:35 -0500]]></lastBuildDate>
+  <pubDate><![CDATA[Wed, 01 Dec 2004 05:49:11 -0500]]></pubDate>
+  <generator><![CDATA[http://www.movabletype.org/?v=3.121]]></generator>
+  <ttl><![CDATA[60]]></ttl>
+  <image>
+    <title><![CDATA[]]></title>
+    <url><![CDATA[]]></url>
+    <link><![CDATA[]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Andreas: Chris Palmieri on Japanese typography]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001462.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 24 Nov 2004 08:14:26 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001462.php]]></guid>
+    <description><![CDATA[<strong>Andreas</strong>:<p>Chris Palmieri has published two fine articles on Japanese typography over at <a href="http://www.lukew.com/ff/index.asp">Functioning Form</a>. In Chris' own words [links added]:</p>
+<blockquote><p>This two-part series offers a primer on Japanese typography for Western-trained designers. In [the] <a href="http://www.lukew.com/ff/entry.asp?111">first installment</a>, I will discuss basic typeface classification and white-space characteristics, explain some of the options and limitations of web-based Japanese typography, and make a few suggestions for creating attractive, legible type. In <a href="http://www.lukew.com/ff/entry.asp?118">Part 2</a> of this series, I will address additional type issues, including analphabetic glyphs and the role of English in Japanese design.</p></blockquote>
+<p>Certainly worth your time.</p>
+<p>A small note: as I expect the accompanying <a href="http://www.aqworks.com/articles/japanese_html_font_comparison.html">comparison chart</a> to be illegible for those without Japanese fonts installed on their system, I took <a href="http://andreas.web-graphics.com/pic/winxp-screen.png">a screenshot</a> of the top chart (Japanese WinXP SP2, FireFox 1.0, ClearType on, 96 DPI). Note that only the <code>x-large</code> fonts are antialiased&mdash;other sizes aren't... And yep, these two (four?) fonts are basically your only choice when it comes to rendering Japanese text on the web (under Windows, that is).</p>
+<p><ins><strong>Update:</strong> FF1.0 renders the chart's "normal" line all in MS Mincho. IE6 does the opposite. The 10px and 11px lines are also partially rendered incorrect. Anybody an idea?</ins></p> ]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Russ: Ten questions for Cameron Adams]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001461.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Sun, 21 Nov 2004 22:35:07 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001461.php]]></guid>
+    <description><![CDATA[<strong>Russ</strong>:<p>Cameron Adams, aka <a href="http://www.themaninblue.com/writing/">the Man in Blue</a>, talks about standards, his amazing site, design, CSS Scrabble, the Web Standards Awards, accessible forms and more:</p>
+
+<p><a href="http://webstandardsgroup.org/features/cameron-adams.cfm">Ten questions for Cameron Adams</a></p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Russ: Zeldman Video keynote]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001460.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Sun, 21 Nov 2004 10:03:39 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001460.php]]></guid>
+    <description><![CDATA[<strong>Russ</strong>:<p>Did you miss <a href="http://we04.com">WE04</a>? Well, <a href="http://zeldman.com">Jeffrey Zeldman</a> did too. A small matter of a baby got in the way. </p>
+
+<p>Unable to attend, Zeldman sent us a <a href="http://www.happycog.com/mov/">short film directed by Eric Etheridge</a>. This film is now available for all (9mb Quicktime).</p>
+
+<p>Patrick Lauke has taken the trouble to <a href="http://www.splintered.co.uk/experiments/66/">caption the video</a> as Quicktime SMIL 1.0</p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Liorean: HTML mess]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001459.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 09:11:22 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001459.php]]></guid>
+    <description><![CDATA[<strong>Liorean</strong>:<p>Due to the harddrive that held my Windows partition (among other things) dying a loud, screeching, horrible death I wont post the nice XHTML and accessibility post I had prepared for some time. Instead, I'll give you two questions, school-book style:</p>
+<p>What does, according to you, the 'text/html' media type signify and imply? How do user agents and specs differ in what they interpret it to mean?</p>
+<p>What is the reason for these <a href="http://liorean.net/sgml-goodness.html">SGML heaven</a> - <a href="http://liorean.net/samplelayout.html">Tag Soup</a> - <a href="http://liorean.net/xhtmllayout.xhtml">XHTML</a> documents, which all are valid and hold the same structure, to have such radically different treatment?</p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Russ: Web Standards Group in Wellington New Zealand]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001458.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 15 Nov 2004 18:22:48 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001458.php]]></guid>
+    <description><![CDATA[<strong>Russ</strong>:<p>Are you in the Wellington area and interested in web standards? The <a href="http://webstandardsgroup.org/go/event24.cfm">inaugural Wellington Web Standards Group meeting</a> will take place on 9 December.</p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Scotty: EDS Redesigns Using Web Standards]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001457.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 15 Nov 2004 10:15:28 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001457.php]]></guid>
+    <description><![CDATA[<strong>Scotty</strong>:<p>Tech giant <a href="http://www.eds.com" title="click to visit the EDS website">EDS</a> redesigned its site using web standards.  It even validates.  </p>
+
+<p>Since I work for said tech giant, I was able to discover some additional information concerning the improvements over the old site.  For starters, pages are fifty percent lighter and fifty percent faster to load. Additionally, browser support increased, as did accessibility. We all knew that would happen, didn't we W-G readers?</p>
+
+<p>Coupled with this standards-based redesign was a thorough overhaul of the User Interface and Information Architecture of the site.  According to studies, most visitors to the old site reported difficulty in finding what they were looking for.  EDS took this to heart and re-worked the site to contain more meaningful navigation and, dig this: sixty percent fewer pages.  Upgrades search technology aims to complete the upgrade.</p>
+
+<p>So, w-g readers, was EDS successful?  I haven't lived and breathed the site too much, yet, but I have to say, over the table-based, image-sliced predecessor, I already declare this a huge improvement.</p>
+
+<p><br />
+I work for EDS, but I won't take it personally if you decide to trash this site in the comments, as I had absolutely <strong>nothing</strong> to do with it and feel that criticism is part of learning and improving.</p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Russ: Ten questions for Roger Johansson]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001456.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 15 Nov 2004 05:20:09 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001456.php]]></guid>
+    <description><![CDATA[<strong>Russ</strong>:<p>Roger Johansson of <a href="http://www.456bereastreet.com/" title="Roger's personal website">456 Berea Street</a> talks about web standards, round corners, development mistakes and ampersands. Read more:</p>
+
+<p><a href="http://webstandardsgroup.org/features/roger-johansson.cfm">Ten questions for Roger Johansson</a></p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Liorean: More browser news]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001455.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Fri, 12 Nov 2004 11:52:49 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001455.php]]></guid>
+    <description><![CDATA[<strong>Liorean</strong>:<p>Mozilla is not the only browser developer that can produce high quality, high tech products - Opera is on the march too. Today they released the third preview of Opera 7.60 on the Windows platform, a browser that is (user-interface-wise) very like the current Opera 7.54, but has many improvements under the hood. Notable changes from 7.5x versions are new versions of the linear_b ECMAScript engine and the Presto rendering engine, support for CSS3 Speech module, XHTML+Voice1.2, XMLHttpRequest, XMLSerializer, DOMParser, DOM3 Load &amp; Save, experimental TLS support, and wmode support for plugins. This means it fixes, among other things, GMail support and handles plugins with transparent backgrounds.</p>
+<p>Actually, the updated capabilities makes this feel like a bigger update than the 7.54 to 7.60 jump might indicate. Take it for a spin and see how you like it.</p>
+<ul class="nicelist"><li><a href="http://my.opera.com/forums/showthread.php?threadid=72443">Opera Beta Testing forums announcement</a></li>
+<li><a href="http://my.opera.com/forums/showthread.php?threadid=70679">Public beta documentation of Voice</a></li>
+<li><a href="http://snapshot.opera.com/windows/">Opera for Windows - Previews and Betas</a></li>
+</ul>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Andreas: :target and conditional text display]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001454.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 10 Nov 2004 12:39:25 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001454.php]]></guid>
+    <description><![CDATA[<strong>Andreas</strong>:<p>This blog entry is a small experiment with how the <a href="http://www.w3.org/TR/2001/CR-css3-selectors-20011113/#target-pseudo"><code>:target</code> pseudo-class</a> and the <a href="http://www.w3.org/TR/2001/CR-css3-selectors-20011113/#attribute-substrings"><code>^</code> substring matching attribute selector</a> can make <strong>browsing better</strong>. For this CSS3 experiment, you'll need to open up your brand new copy of Firefox 1.0 or another <code>:target</code> and <code>^</code> aware browser.</p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Liorean: Mozilla Firefox 1.0 Released!]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001452.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 09 Nov 2004 00:00:00 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001452.php]]></guid>
+    <description><![CDATA[<strong>Liorean</strong>:<p>You all know it, but it's worth being said out loud - <strong>today marks the end of the single browser web!</strong> Mozilla Firefox, the single browser so far that has been able to take market share from Microsoft Internet Explorer for Windows, has reached 1.0 status. Downloadable from one of eight <a href="ftp://ftp.mozilla.org/pub/mozilla.org/firefox/releases/1.0/">American mirrors</a> or one of three <a href="ftp://ftp.eu.mozilla.org/pub/mozilla.org/firefox/releases/1.0/">European mirrors</a> as of today, it's perhaps the biggest event for the open source movement yet.</p>
+<p>And even more Mozilla Firefox - there are a number of third party, optimised builds out there, if you feel if's sluggish. If you have a Windows PC (x86-32/IA32 or x86-64 processor) you might want to check out <a href="http://www.moox.ws/tech/mozilla/">MOOX:Optimized Firefox &amp; Thunderbird Builds</a>. If you have a Macintosh, you might be interested in the <a href="http://homepage.mac.com/krmathis/">G4 (PPC 7450/PPC 7400) optimised Firefox builds</a> or the <a href="http://forums.mozillazine.org/viewtopic.php?t=156735">G5 (PPC 970) optimised Firefox builds</a>. More third party builds can be found at <a href="http://forums.mozillazine.org/viewforum.php?f=42">MozillaZine:Third Party/Unofficial Builds</a>.</p>
+<p>I usually talk about the new features of the releases, but today I think there's no need to. There are no major feature changes since the preview release or the release candidates.</p>
+<p>On another note, on <a href="http://kmgerich.com/" title="Technical Jiggery Pokery">Kevin Gerish's blog</a> you can read <a href="http://kmgerich.com/archive/000076.html">about:Aquafication</a> which talks about both the choice made to release the 1.0 version of Firefox on the Macintosh platform at the same time as for Linux and Windows, and the delay in aquafication of Firefox that this means.</p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Russ: Ten questions for John Allsopp]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001453.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 08 Nov 2004 06:48:05 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001453.php]]></guid>
+    <description><![CDATA[<strong>Russ</strong>:<p>John Allsopp of <a href="http://westciv.com/">Westciv</a> talks about CSS Samuari, standards, Dao, dogs, line-height and font-size inheritance. Read more:</p>
+
+<p><a href="http://webstandardsgroup.org/features/john-allsopp.cfm">Ten questions for John Allsopp</a></p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Russ: WestCiv template competition winners]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001450.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 02 Nov 2004 18:51:44 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001450.php]]></guid>
+    <description><![CDATA[<strong>Russ</strong>:<p>WestCiv have announced their <a href="http://www.westciv.com/style_master/templates/index.html">template competition winners</a> from almost 50 entries.</p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Russ: Roger Roger]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001449.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Fri, 29 Oct 2004 09:43:46 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001449.php]]></guid>
+    <description><![CDATA[<strong>Russ</strong>:<p>It seems that Roger's are taking over the world...</p>
+
+<p>First there is <a href="http://www.456bereastreet.com/about/">Roger Johansson's</a> excellent article on Accessible tables - <a href="http://www.456bereastreet.com/archive/200410/bring_on_the_tables/">Bring on the Tables</a>.</p>
+
+<p>Then there is Roger Hudson's <a href="http://www.usability.com.au/resources/forms.cfm">Accessible forms</a>, <a href="http://www.usability.com.au/resources/pdf.cfm">PDF and Accessibility</a> and <a href="http://www.usability.com.au/resources/flash.cfm">Flash and Accessibility</a>.</p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Liorean: Joining the XHTML vs HTML discussions]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001448.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 27 Oct 2004 19:14:31 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001448.php]]></guid>
+    <description><![CDATA[<strong>Liorean</strong>:<p>Starting last week, I have a rather long response to this written. After managing to write about a quarter of what I wanted to say, I realised it was already too long for a single post. So, I decided to make a series of smaller posts on it. Well, let's start with the first one...</p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Russ: A quick and dirty introduction to accessibility]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001447.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 26 Oct 2004 00:13:01 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001447.php]]></guid>
+    <description><![CDATA[<strong>Russ</strong>:<p>For those who may be interested, <a href="http://www.maxdesign.com.au/presentation/accessibility/">A quick and dirty introduction to accessibility</a> from a <a href="http://webstandardsgroup.org/go/event22.cfm">presentation last night</a> to the Melbourne branch of the <a href="http://webstandardsgroup.org/">Web Standards Group</a>.</p>]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Russ: Remote control CSS]]></title>
+    <link><![CDATA[http://web-graphics.com/mtarchive/001464.php]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 01 Dec 2004 03:32:35 -0500]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[http://web-graphics.com/mtarchive/001464.php]]></guid>
+    <description><![CDATA[<strong>Russ</strong>:<p>I received an interesting anonymous comment via Listamatic the other day:</p><blockquote><p>A little sceptical about the list as menu argument. Especially the part where you argue that it doesnt limit the designer. Of course it does. If you have anything different than a 'list'; it simply wont do. Say you have a TV Remote control that you want to make it your navigation bar. Do THAT with CSS. In some cases you just can't go without Flash or Javascript.</p></blockquote><p>As there was no way to answer the person, I wrote a quick article - <a href="http://www.maxdesign.com.au/presentation/remote/">Remote control CSS</a> - with a rough and ready <a href="http://www.maxdesign.com.au/presentation/remote/remote.htm">TV remote control example</a>.</p>
+]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

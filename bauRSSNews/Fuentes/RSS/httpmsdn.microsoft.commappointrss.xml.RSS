@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: MapPoint</title>
+    <link>http://msdn.microsoft.com/mappoint/</link>
+    <description>The latest technical information on MapPoint for developers.</description>
+    <language>en-us</language>
+    <pubDate>Thu, 11 Nov 2004 14:01:21 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Nov 2004 14:01:21 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Programming with the MapPoint Web Service Customer Data Service Download Methods</title>
+      <description>Learn how to program with the new Customer Data Service download methods to download your custom point-of-interest data from the MapPoint Web Service Customer Services Site (CSS).</description>
+      <link>http://msdn.microsoft.com/mappoint/mappointweb/mappointwstechart/default.aspx?pull=/library/en-us/dnmapnet30/html/DownloadAPI.asp</link>
+      <dc:creator>cthota</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:ProductVers">MapPoint .NET</category>
+      <msdn:product>MapPoint .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7075</guid>
+      <pubDate>Tue, 02 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MapPoint Get MSAs Add-In</title>
+      <description>Learn how to create a MapPoint add-in by using the MapPoint object model and Microsoft Visual Basic .NET. The sample add-in can be used as-is or modified to suit your business needs.</description>
+      <link>http://msdn.microsoft.com/mappoint/mappointintro/mappointtechart/default.aspx?pull=/library/en-us/dnmap04/html/MPAdd.asp</link>
+      <dc:creator>Laura Cramb</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:ProductVers">MapPoint 2004</category>
+      <msdn:product>MapPoint 2004</msdn:product>
+      <guid isPermaLink="false">Iliad_7074</guid>
+      <pubDate>Thu, 21 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Guided Tour of MapPoint Web Service and MapPoint Location Server</title>
+      <description>Learn about the key features of MapPoint Web Service and MapPoint Location Server in this scenario-based article with accompanying videos.</description>
+      <link>http://msdn.microsoft.com/mappoint/default.aspx?pull=/library/en-us/dnmapnet30/html/mapptGuidTour.asp</link>
+      <dc:creator>Derek Pierson</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">MapPoint .NET</category>
+      <msdn:product>MapPoint .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_6895</guid>
+      <pubDate>Tue, 05 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Installing and Configuring SSL Certificates for Use with MapPoint Location Server</title>
+      <description>A MapPoint Location Server installation will fail if the required SSL certificates aren't installed properly. Learn how to obtain and install certificates for both production and development deployments.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmaploc/html/MLSSecur.asp</link>
+      <dc:creator>Chandu Thota</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">MapPoint .NET</category>
+      <msdn:product>MapPoint .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_6826</guid>
+      <pubDate>Mon, 13 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASP Store Locator Sample for MapPoint Web Service</title>
+      <description>Many companies are still using older versions of ASP and cannot convert their applications to ASP.NET. In recognition of this, we created an ASP sample that works with MapPoint Web Service.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmapnet30/html/MWSLocator.asp</link>
+      <dc:creator>jcomo</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:ProductVers">MapPoint .NET</category>
+      <msdn:product>MapPoint .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_6871</guid>
+      <pubDate>Mon, 13 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MapPoint Developer Center</title>
+      <description>MapPoint Developer Center goes live.</description>
+      <link>http://msdn.microsoft.com/mappoint</link>
+      <dc:creator>MapPoint</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:ProductVers">MapPoint .NET</category>
+      <category domain="msdndomain:ProductVers">MapPoint 2002</category>
+      <category domain="msdndomain:ProductVers">MapPoint 2004</category>
+      <msdn:product>MapPoint .NET</msdn:product>
+      <msdn:product>MapPoint 2002</msdn:product>
+      <msdn:product>MapPoint 2004</msdn:product>
+      <guid isPermaLink="false">Iliad_6913</guid>
+      <pubDate>Mon, 13 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adding Keyword Search Capability to MapPoint Web Service Applications</title>
+      <description>Enhance your MapPoint Web Service applications by adding keyword search capabilities.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmapnet30/html/MWSKeyword.asp</link>
+      <dc:creator>Justin Southall</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">MapPoint .NET</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <msdn:product>MapPoint .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_6748</guid>
+      <pubDate>Fri, 23 Jul 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wrapping Text in MapPoint Web Service Pushpin Labels</title>
+      <description>Use the sample code in this article to create pushpin labels with text that wraps accross multiple lines.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmapnet30/html/MWS_Wrap.asp</link>
+      <dc:creator>Francois Joffre</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">MapPoint .NET</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <msdn:product>MapPoint .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_6749</guid>
+      <pubDate>Fri, 23 Jul 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploying MapPoint Location Server with a MapPoint Web Service Evaluation Account</title>
+      <description>Read this article for important information about configuring MapPoint Location Server if you have a MapPoint Web Service evaluation account.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmaploc/html/MLS_URLs.asp</link>
+      <dc:creator>Margaret Sherman</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">MapPoint .NET</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <msdn:product>MapPoint .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_6756</guid>
+      <pubDate>Fri, 23 Jul 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adding a Buffer Around a MapPoint Web Service Map</title>
+      <description>Learn how to add a buffer around your MapPoint Web Service maps to prevent icons from being truncated by the edge of the map.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmapnet30/html/MWS_Icons.asp</link>
+      <dc:creator>Joe D. Como</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:ProductVers">MapPoint .NET</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:technology>Web Services</msdn:technology>
+      <msdn:product>MapPoint .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_6740</guid>
+      <pubDate>Tue, 20 Jul 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

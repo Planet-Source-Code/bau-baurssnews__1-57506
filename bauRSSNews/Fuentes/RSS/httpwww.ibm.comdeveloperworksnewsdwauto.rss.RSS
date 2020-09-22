@@ -1,0 +1,70 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[IBM developerWorks Autonomic computing zone]]></title>
+  <link><![CDATA[http://www.ibm.com/developerworks/autonomic/index.html?ca=drs-a4904]]></link>
+  <description><![CDATA[The latest content from IBM developerWorks Autonomic computing zone]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[Copyright 2003 IBM Corporation.]]></copyright>
+  <lastBuildDate><![CDATA[]]></lastBuildDate>
+  <pubDate><![CDATA[Mon, 29 Nov 2004 09:30:13 -0500]]></pubDate>
+  <generator><![CDATA[]]></generator>
+  <ttl><![CDATA[]]></ttl>
+  <image>
+    <title><![CDATA[IBM developerWorks Autonomic computing zone]]></title>
+    <url><![CDATA[http://www-106.ibm.com/developerworks/i/dwlogo-small.gif]]></url>
+    <link><![CDATA[http://www.ibm.com/developerworks/autonomic/index.html?ca=drs-g4904]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Meet the experts: Ric Telford on the state of autonomic computing today]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/ac-telford/index.html?ca=drs-a4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This question and answer article features Ric Telford, Director for Autonomic Computing at IBM. developerWorks talked with Ric about the state of autonomic computing today, and the challenges of developing with, and for, next-generation autonomic systems.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[ABCs of the Autonomic Computing Toolkit: A beginner's guide]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/ac-abc2/index.html?ca=drs-a4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This article provides guidance to the first-time user of the IBM® Autonomic Computing Toolkit. A great deal of useful information is available on the Autonomic computing zone and in the user documentation provided with the Autonomic Computing Toolkit, but this article attempts to give you a framework for understanding all the pieces. Use it to streamline your first time experience with the Autonomic Computing Toolkit. This articles has been updated for Release 2 of the Toolkit.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Meet the experts: Ric Telford on the state of autonomic computing today]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/ac-telford/index.html?ca=drs-a4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This question and answer article features Ric Telford, Director for Autonomic Computing at IBM. developerWorks talked with Ric about the state of autonomic computing today, and the challenges of developing with, and for, next-generation autonomic systems.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Using the Event Catalog in the CEI]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/ac-catalog/index.html?ca=drs-a4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[In the article IBM Common Event Infrastructure, we discussed the importance of an event infrastructure shared by multiple applications in a distributed environment. The benefits of sharing a single infrastructure and adopting a single API ranged from reduced development costs to easier data exchange between applications written by different vendors. The IBM Common Event Infrastructure (CEI) uses the Common Base Event (CBE) specification as the format for the event information exchanged in the system, which lays a solid foundation for the agreement between the event sources and event consumer in the environment.This article focuses on the CEI Event Catalog, a component that builds on the foundation set by the CBE specification in order to offer a higher-level of agreement for the applications exchanging event data through CEI.]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,2507 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<NewsProject>
+  <folder>
+
+    <title><![CDATA[Computers]]></title>
+
+    <items>
+
+  <folder>
+
+    <title><![CDATA[Software]]></title>
+
+    <items>
+
+  <folder>
+
+    <title><![CDATA[Programming]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[Programmer's Heaven]]></title>
+
+    <url><![CDATA[http://www.programmersheaven.com/app/rss/Rss.aspx?Feed=LA&Version=20]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.programmersheaven.comapprssRss.aspxFeedLAVersion20.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Code project]]></title>
+
+    <url><![CDATA[http://www.codeproject.com/webservices/articlerss.aspx]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.codeproject.comwebservicesarticlerss.aspx.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Developer Fusion]]></title>
+
+    <url><![CDATA[http://www.developerfusion.com/rss/contentrss.aspx?type=articles&language=all]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.developerfusion.comrsscontentrss.aspxtypearticleslanguageall.RSS]]></localFile>
+
+  </rss>
+
+  <folder>
+
+    <title><![CDATA[IBM Developer Works]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[Home page]]></title>
+
+    <url><![CDATA[http://www-106.ibm.com/developerworks/news/dw_dwtp.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww106.ibm.comdeveloperworksnewsdwdwtp.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Autonomic computing]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_auto.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwauto.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Grid computing]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_grid.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwgrid.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Java Technology]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_java.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwjava.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Linux]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_linux.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwlinux.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Lotus]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/views/lotus/rss/articles.jsp]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksviewslotusrssarticles.jsp.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Open source projects]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_opensource.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwopensource.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Rational]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/views/rational/rss/articles.jsp]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksviewsrationalrssarticles.jsp.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Web Services]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_webservices.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwwebservices.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Wireless Technology]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_wireless.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwwireless.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[XML]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_xml.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwxml.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Technical Briefings]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_techb.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwtechb.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Technology Newsletter]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_technl.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwtechnl.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Products Newsletter]]></title>
+
+    <url><![CDATA[http://www.ibm.com/developerworks/news/dw_prodnl.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ibm.comdeveloperworksnewsdwprodnl.rss.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[DevX]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[Latest Published Articles]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/devxfeed.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingdevxfeed.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Java]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/javafeed.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingjavafeed.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[.NET]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/dotnet.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingdotnet.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[XML]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/xmlfeed.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingxmlfeed.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[DataBase]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/databasefeed.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingdatabasefeed.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Enterprise]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/enterprisefeed.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingenterprisefeed.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[C++]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/cplusfeed.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingcplusfeed.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Web Development]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/webdevfeed.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingwebdevfeed.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Wireless]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/wirelessfeed.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingwirelessfeed.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Latest Tips]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/recentTipsFeed.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingrecentTipsFeed.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Open source]]></title>
+
+    <url><![CDATA[http://services.devx.com/outgoing/openSourceFeed.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpservices.devx.comoutgoingopenSourceFeed.xml.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Only4Gurus]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[C#]]></title>
+
+    <url><![CDATA[http://www.only4gurus.com/v3/rss_cat.asp?Cat=C-Sharp]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.only4gurus.comv3rsscat.aspCatCSharp.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Games Development]]></title>
+
+    <url><![CDATA[http://www.only4gurus.com/v3/rss_cat.asp?Cat=Games%20Development]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.only4gurus.comv3rsscat.aspCatGames20Development.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[VB .NET]]></title>
+
+    <url><![CDATA[http://www.only4gurus.com/v3/rss_cat.asp?Cat=VB.Net]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.only4gurus.comv3rsscat.aspCatVB.Net.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Mobility]]></title>
+
+    <url><![CDATA[http://www.only4gurus.com/v3/rss_cat.asp?Cat=Mobility]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.only4gurus.comv3rsscat.aspCatMobility.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[.NET Data Access]]></title>
+
+    <url><![CDATA[http://www.only4gurus.com/v3/rss_cat.asp?Cat=.NET%20Data%20Access]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.only4gurus.comv3rsscat.aspCat.NET20Data20Access.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Windows Media]]></title>
+
+    <url><![CDATA[http://www.only4gurus.com/v3/rss_cat.asp?Cat=Windows%20Media]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.only4gurus.comv3rsscat.aspCatWindows20Media.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[SQL Server]]></title>
+
+    <url><![CDATA[http://www.only4gurus.com/v3/rss_cat.asp?Cat=SQL%20Server]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.only4gurus.comv3rsscat.aspCatSQL20Server.RSS]]></localFile>
+
+  </rss>
+
+  <webPage>
+
+    <title><![CDATA[Only4Gurus]]></title>
+
+    <url><![CDATA[http://www.only4gurus.com/v3/index.asp]]></url>
+
+  </webPage>
+
+    </items>
+
+  </folder>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Downloads]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[PCWorld.com - Most Popular Downloads of the Week]]></title>
+
+    <url><![CDATA[http://rss.pcworld.com/rss/downloads.rss?period=week]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httprss.pcworld.comrssdownloads.rssperiodweek.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[BetaNews.Com]]></title>
+
+    <url><![CDATA[http://www.betanews.com/mnn.php3]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.betanews.commnn.php3.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[CNET Download.com 25 Newest Windows Titles]]></title>
+
+    <url><![CDATA[http://export.cnet.com/export/download/dl-new25-windows.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpexport.cnet.comexportdownloaddlnew25windows.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Fresh Reviews from PC Magazine]]></title>
+
+    <url><![CDATA[http://rssnewsapps.ziffdavis.com/pcmag.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httprssnewsapps.ziffdavis.compcmag.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[MajorGeeks Downloads]]></title>
+
+    <url><![CDATA[http://www.majorgeeks.com/backend.php?id=120]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.majorgeeks.combackend.phpid120.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[SnapFiles (formerly WebAttack.com) latest software]]></title>
+
+    <url><![CDATA[http://www.snapfiles.com/webattack.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.snapfiles.comwebattack.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Sunbelt Software New Products]]></title>
+
+    <url><![CDATA[http://www.sunbelt-software.com/rss/added.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.sunbeltsoftware.comrssadded.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Sunbelt Software Updates]]></title>
+
+    <url><![CDATA[http://www.sunbelt-software.com/rss/updated.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.sunbeltsoftware.comrssupdated.xml.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Web Authoring]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[A List Apart: for people who make websites]]></title>
+
+    <url><![CDATA[http://www.alistapart.com/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.alistapart.comrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Brainstorms and Raves]]></title>
+
+    <url><![CDATA[http://brainstormsandraves.com/xml/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpbrainstormsandraves.comxmlrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[css Zen Garden]]></title>
+
+    <url><![CDATA[http://www.csszengarden.com/zengarden.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.csszengarden.comzengarden.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Digital Web Magazine - What's New]]></title>
+
+    <url><![CDATA[http://www.digital-web.com/new/rss.php]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.digitalweb.comnewrss.php.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[fullasagoog.com full roast blend]]></title>
+
+    <url><![CDATA[http://www.fullasagoog.com/xml/fullasagoog50.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.fullasagoog.comxmlfullasagoog50.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Jeffrey Zeldman Presents: The Daily Report]]></title>
+
+    <url><![CDATA[http://www.zeldman.com/feed/zeldman.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.zeldman.comfeedzeldman.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Latest Random JavaScript Tips]]></title>
+
+    <url><![CDATA[http://www.webreference.com/js/tips/channels/last1512.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.webreference.comjstipschannelslast1512.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[meyerweb.com]]></title>
+
+    <url><![CDATA[http://www.meyerweb.com/eric/thoughts/rss20.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.meyerweb.comericthoughtsrss20.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Mozilla Dot Org]]></title>
+
+    <url><![CDATA[http://www.mozilla.org/news.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.mozilla.orgnews.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[MozillaZine]]></title>
+
+    <url><![CDATA[http://www.mozillazine.org/contents.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.mozillazine.orgcontents.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[SIGNAL VS. NOISE]]></title>
+
+    <url><![CDATA[http://www.37signals.com/svn/index_full.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.37signals.comsvnindexfull.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[SitePoint.com]]></title>
+
+    <url><![CDATA[http://www.sitepoint.com/rss.php]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.sitepoint.comrss.php.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Sjoerd Visscher's weblog]]></title>
+
+    <url><![CDATA[http://w3future.com/weblog/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpw3future.comweblogrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[WaSP Buzz]]></title>
+
+    <url><![CDATA[http://www.webstandards.org/buzz/buzz.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.webstandards.orgbuzzbuzz.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Web Pages That Suck -- Examples of Bad Web Design]]></title>
+
+    <url><![CDATA[http://www.webpagesthatsuck.com/dailysucker/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.webpagesthatsuck.comdailysuckerrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[webgraphics]]></title>
+
+    <url><![CDATA[http://web-graphics.com/index.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwebgraphics.comindex.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[World Wide Web Consortium]]></title>
+
+    <url><![CDATA[http://www.w3.org/2000/08/w3c-synd/home.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.w3.org200008w3csyndhome.rss.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Source code]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[Developer Fusion]]></title>
+
+    <url><![CDATA[http://www.developerfusion.com/rss/contentrss.aspx?type=code&language=all]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.developerfusion.comrsscontentrss.aspxtypecodelanguageall.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Magazine]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[FTP OnLine]]></title>
+
+    <url><![CDATA[http://www.ftponline.com/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.ftponline.comrss.xml.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Companies]]></title>
+
+    <items>
+
+  <folder>
+
+    <title><![CDATA[Microsoft]]></title>
+
+    <items>
+
+  <folder>
+
+    <title><![CDATA[MSDN]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[MSDN Just Published (all recently released technical content)]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[.NET Framework]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/netframework/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comnetframeworkrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Architecture]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/architecture/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comarchitecturerss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[ASP.NET]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/asp.net/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comasp.netrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Code Samples]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/code/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comcoderss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Data Access and Storage]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/data/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comdatarss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Downloads]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/downloads/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comdownloadsrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[FrontPage]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/office/frontpage/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comofficefrontpagerss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Longhorn]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/longhorn/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comlonghornrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[MapPoint]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/mappoint/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.commappointrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Mobile and Embedded]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/mobility/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.commobilityrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[MSDN Magazine: Current Issue]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/msdnmag/rss/recent.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.commsdnmagrssrecent.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[MSDN Subscriber Downloads]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/subscriptions/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comsubscriptionsrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[MSDN TV]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/msdntv/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.commsdntvrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Office]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/office/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comofficerss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Security]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/security/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comsecurityrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Smart Client]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/smartclient/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comsmartclientrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[SQL Server]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/sql/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comsqlrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[The .NET Show]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/theshow/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comtheshowrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Visual Basic]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/vbasic/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comvbasicrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Visual C#]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/vcsharp/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comvcsharprss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Visual C++]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/visualc/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comvisualcrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Visual J#]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/vjsharp/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comvjsharprss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Visual Studio]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/vstudio/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comvstudiorss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Visual Studio 2005]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/vs2005/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comvs2005rss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Web Services]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/webservices/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comwebservicesrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Windows Embedded]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/embedded/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comembeddedrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[XML]]></title>
+
+    <url><![CDATA[http://msdn.microsoft.com/xml/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmsdn.microsoft.comxmlrss.xml.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <webPage>
+
+    <title><![CDATA[Página principal]]></title>
+
+    <url><![CDATA[http://www.microsoft.com]]></url>
+
+  </webPage>
+
+    </items>
+
+  </folder>
+
+    </items>
+
+  </folder>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[blogs]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[Boing Boing Blog]]></title>
+
+    <url><![CDATA[http://boingboing.net/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpboingboing.netrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[defective yeti]]></title>
+
+    <url><![CDATA[http://www.defectiveyeti.com/index.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.defectiveyeti.comindex.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[John Robb's Weblog]]></title>
+
+    <url><![CDATA[http://jrobb.mindplex.org/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpjrobb.mindplex.orgrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[kottke.org remainders]]></title>
+
+    <url><![CDATA[http://www.kottke.org/remainder/index.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.kottke.orgremainderindex.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[lydon News]]></title>
+
+    <url><![CDATA[http://blogs.law.harvard.edu/lydon/xml/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpblogs.law.harvard.edulydonxmlrss.xml.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Entertainment]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[ABC News: Entertainment]]></title>
+
+    <url><![CDATA[http://my.abcnews.go.com/rsspublic/entertainment_rss093.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmy.abcnews.go.comrsspublicentertainmentrss093.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Digital Theatre [dtheatre.com]]]></title>
+
+    <url><![CDATA[http://www.dtheatre.com/backend.php?xml=yes]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.dtheatre.combackend.phpxmlyes.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[digitallyOBSESSED.com DVD Reviews]]></title>
+
+    <url><![CDATA[http://www.digitallyobsessed.com/doc.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.digitallyobsessed.comdoc.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Reuters: Entertainment]]></title>
+
+    <url><![CDATA[http://www.microsite.reuters.com/rss/Entertainment]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.microsite.reuters.comrssEntertainment.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[RollingStone.com Photos]]></title>
+
+    <url><![CDATA[http://www.rollingstone.com/rssxml/photos.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.rollingstone.comrssxmlphotos.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Smart-Popcorn.com]]></title>
+
+    <url><![CDATA[http://www.smart-popcorn.com/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.smartpopcorn.comrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Variety.com]]></title>
+
+    <url><![CDATA[http://www.variety.com/rss.asp]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.variety.comrss.asp.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Yahoo! News - Entertainment]]></title>
+
+    <url><![CDATA[http://rss.news.yahoo.com/rss/entertainment]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httprss.news.yahoo.comrssentertainment.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[RollingStone.com DVD Reviews]]></title>
+
+    <url><![CDATA[http://www.rollingstone.com/rssxml/dvd_reviews.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.rollingstone.comrssxmldvdreviews.xml.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Health]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[ABC News: Living]]></title>
+
+    <url><![CDATA[http://my.abcnews.go.com/rsspublic/health_rss093.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmy.abcnews.go.comrsspublichealthrss093.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[MedicineNet Daily News]]></title>
+
+    <url><![CDATA[http://www.medicinenet.com/rss/dailyhealth.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.medicinenet.comrssdailyhealth.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[MedicineNet Senior Health General]]></title>
+
+    <url><![CDATA[http://www.medicinenet.com/rss/general/Senior_Health.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.medicinenet.comrssgeneralSeniorHealth.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Medscape Headlines]]></title>
+
+    <url><![CDATA[http://www.medscape.com/cx/rssfeeds/general.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.medscape.comcxrssfeedsgeneral.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Reuters: Health]]></title>
+
+    <url><![CDATA[http://www.microsite.reuters.com/rss/healthNews]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.microsite.reuters.comrsshealthNews.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Just for Laughs]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[Dave Barry's Blog]]></title>
+
+    <url><![CDATA[http://weblog.herald.com/column/davebarry/index.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpweblog.herald.comcolumndavebarryindex.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Yahoo! News - Oddly Enough]]></title>
+
+    <url><![CDATA[http://rss.news.yahoo.com/rss/oddlyenough]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httprss.news.yahoo.comrssoddlyenough.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Reuters: Oddly Enough]]></title>
+
+    <url><![CDATA[http://www.microsite.reuters.com/rss/oddlyEnoughNews]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.microsite.reuters.comrssoddlyEnoughNews.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[About Political Humor]]></title>
+
+    <url><![CDATA[http://z.about.com/6/g/politicalhumor/b/index.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpz.about.com6gpoliticalhumorbindex.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Funny Quotes of the Day]]></title>
+
+    <url><![CDATA[http://www.brainyquote.com/link/quotefu.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.brainyquote.comlinkquotefu.rss.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[News]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[ABC News: World]]></title>
+
+    <url><![CDATA[http://my.abcnews.go.com/rsspublic/world_rss093.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmy.abcnews.go.comrsspublicworldrss093.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[BBC News - Front Page - UK Edition]]></title>
+
+    <url><![CDATA[http://www.bbc.co.uk/syndication/feeds/news/ukfs_news/front_page/rss091.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.bbc.co.uksyndicationfeedsnewsukfsnewsfrontpagerss091.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Christian Science Monitor - Top Stories]]></title>
+
+    <url><![CDATA[http://www.csmonitor.com/rss/top.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.csmonitor.comrsstop.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Guardian Unlimited]]></title>
+
+    <url><![CDATA[http://www.guardian.co.uk/rss/1,,,00.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.guardian.co.ukrss100.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[The New York Times Home Page]]></title>
+
+    <url><![CDATA[http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.nytimes.comservicesxmlrssnytHomePage.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Smartmoney.com]]></title>
+
+    <url><![CDATA[http://www.smartmoney.com/rss/smheadlines.cfm?feed=1&amp;format=RSS091]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.smartmoney.comrsssmheadlines.cfmfeed1ampformatRSS091.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Team Amber Alert News]]></title>
+
+    <url><![CDATA[http://www.teamamberalert.net/news/backend.php]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.teamamberalert.netnewsbackend.php.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[The Motley Fool]]></title>
+
+    <url><![CDATA[http://www.fool.com/xml/foolnews_rss091.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.fool.comxmlfoolnewsrss091.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[The Village Voice Most Popular]]></title>
+
+    <url><![CDATA[http://www.villagevoice.com/most_popular_rss.php]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.villagevoice.commostpopularrss.php.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[The Wall Street Transcript]]></title>
+
+    <url><![CDATA[http://www.twst.com/mynetscape/main.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.twst.commynetscapemain.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[U.S. News & World Report]]></title>
+
+    <url><![CDATA[http://www.usnews.com/usnews/usnews.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.usnews.comusnewsusnews.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Yahoo! News - Top Stories]]></title>
+
+    <url><![CDATA[http://rss.news.yahoo.com/rss/topstories]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httprss.news.yahoo.comrsstopstories.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Reuters: Top News]]></title>
+
+    <url><![CDATA[http://www.microsite.reuters.com/rss/topNews]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.microsite.reuters.comrsstopNews.RSS]]></localFile>
+
+  </rss>
+
+  <folder>
+
+    <title><![CDATA[Español]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[IBLNews]]></title>
+
+    <url><![CDATA[http://iblnews.com/rdf.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpiblnews.comrdf.xml.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Opinion]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[Christian Science Monitor - Commentary]]></title>
+
+    <url><![CDATA[http://www.csmonitor.com/rss/commentary.rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.csmonitor.comrsscommentary.rss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Instapundit.com]]></title>
+
+    <url><![CDATA[http://www.instapundit.com/index.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.instapundit.comindex.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[The New York Times > Opinion]]></title>
+
+    <url><![CDATA[http://www.nytimes.com/services/xml/rss/nyt/Opinion.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.nytimes.comservicesxmlrssnytOpinion.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Radio Free USA]]></title>
+
+    <url><![CDATA[http://radiofreeusa.net/backend.php]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpradiofreeusa.netbackend.php.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[TalkLeft- The Politics of Crime]]></title>
+
+    <url><![CDATA[http://www.talkleft.com/index.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.talkleft.comindex.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Yahoo! News - Op/Ed]]></title>
+
+    <url><![CDATA[http://rss.news.yahoo.com/rss/oped]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httprss.news.yahoo.comrssoped.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Sports]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[ESPN.com]]></title>
+
+    <url><![CDATA[http://sports.espn.go.com/espn/rss/news]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpsports.espn.go.comespnrssnews.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[The New York Times > Sports]]></title>
+
+    <url><![CDATA[http://www.nytimes.com/services/xml/rss/nyt/Sports.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.nytimes.comservicesxmlrssnytSports.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[PR Web Sports News]]></title>
+
+    <url><![CDATA[http://www.prweb.com/xml/sports.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.prweb.comxmlsports.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Yahoo! News - Sports]]></title>
+
+    <url><![CDATA[http://rss.news.yahoo.com/rss/sports]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httprss.news.yahoo.comrsssports.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Reuters: Sports]]></title>
+
+    <url><![CDATA[http://www.microsite.reuters.com/rss/sportsNews]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.microsite.reuters.comrsssportsNews.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+  <folder>
+
+    <title><![CDATA[Technology]]></title>
+
+    <items>
+
+  <rss>
+
+    <title><![CDATA[Ars Technica]]></title>
+
+    <url><![CDATA[http://arstechnica.com/etc/rdf/ars.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httparstechnica.cometcrdfars.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[BBC News | Technology | UK Edition]]></title>
+
+    <url><![CDATA[http://www.bbc.co.uk/syndication/feeds/news/ukfs_news/technology/rss091.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.bbc.co.uksyndicationfeedsnewsukfsnewstechnologyrss091.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Clay Shirky's Essays]]></title>
+
+    <url><![CDATA[http://shirky.com/writings/rss.cg]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpshirky.comwritingsrss.cg.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Creative Commons: weblog]]></title>
+
+    <url><![CDATA[http://creativecommons.org/weblog/rss]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpcreativecommons.orgweblogrss.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Dan Gillmor's eJournal]]></title>
+
+    <url><![CDATA[http://weblog.siliconvalley.com/column/dangillmor/index.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpweblog.siliconvalley.comcolumndangillmorindex.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Extremetech]]></title>
+
+    <url><![CDATA[http://rssnewsapps.ziffdavis.com/extreme.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httprssnewsapps.ziffdavis.comextreme.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Geek News Central]]></title>
+
+    <url><![CDATA[http://www.geeknewscentral.com/index.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.geeknewscentral.comindex.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Google Blog]]></title>
+
+    <url><![CDATA[http://www.google.com/googleblog/atom.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.google.comgoogleblogatom.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[channel9]]></title>
+
+    <url><![CDATA[http://channel9.msdn.com]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpchannel9.msdn.com.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[InfoWorld: Top News]]></title>
+
+    <url><![CDATA[http://www.infoworld.com/rss/news.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.infoworld.comrssnews.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[InternetWeek]]></title>
+
+    <url><![CDATA[http://www.internetweek.com/rss/rss-all.jhtml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.internetweek.comrssrssall.jhtml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Jeremy Allaire's Radio]]></title>
+
+    <url><![CDATA[http://radio.weblogs.com/0113297/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpradio.weblogs.com0113297rss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Jon Udell: InfoWorld]]></title>
+
+    <url><![CDATA[http://weblog.infoworld.com/udell/categories/infoworld/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpweblog.infoworld.comudellcategoriesinfoworldrss.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Lessig News]]></title>
+
+    <url><![CDATA[http://lessig.org/index.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httplessig.orgindex.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Microsoft Watch from Mary Jo Foley]]></title>
+
+    <url><![CDATA[http://rssnewsapps.ziffdavis.com/msw.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httprssnewsapps.ziffdavis.commsw.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[The New York Times > Technology]]></title>
+
+    <url><![CDATA[http://www.nytimes.com/services/xml/rss/nyt/Technology.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.nytimes.comservicesxmlrssnytTechnology.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Om Malik on Broadband]]></title>
+
+    <url><![CDATA[http://gigaom.com/index.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpgigaom.comindex.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[SiliconInsider]]></title>
+
+    <url><![CDATA[http://my.abcnews.go.com/rsspublic/siliconinsider_rss093.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpmy.abcnews.go.comrsspublicsiliconinsiderrss093.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[The Doc Searls Weblog]]></title>
+
+    <url><![CDATA[http://partners.userland.com/people/docSearls.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httppartners.userland.compeopledocSearls.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[The Register]]></title>
+
+    <url><![CDATA[http://www.theregister.co.uk/tonys/slashdot.rdf]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.theregister.co.uktonysslashdot.rdf.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Tomalak's]]></title>
+
+    <url><![CDATA[Realm http://static.userland.com/tomalak/links2.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[Realmhttpstatic.userland.comtomalaklinks2.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[WinXPnews]]></title>
+
+    <url><![CDATA[http://www.winxpnews.com/rss/index.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpwww.winxpnews.comrssindex.xml.RSS]]></localFile>
+
+  </rss>
+
+  <rss>
+
+    <title><![CDATA[Joel on Software]]></title>
+
+    <url><![CDATA[http://joelonsoftware.com/rss.xml]]></url>
+
+    <user><![CDATA[]]></user>
+
+    <password><![CDATA[]]></password>
+
+    <localFile><![CDATA[httpjoelonsoftware.comrss.xml.RSS]]></localFile>
+
+  </rss>
+
+    </items>
+
+  </folder>
+
+</NewsProject>

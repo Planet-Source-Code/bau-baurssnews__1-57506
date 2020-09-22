@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: Microsoft XML Developer Center</title>
+    <link>http://msdn.microsoft.com/xml/</link>
+    <description>The latest information from the Microsoft XML Developer Center.</description>
+    <language>en-us</language>
+    <pubDate>Fri, 05 Nov 2004 14:00:31 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Nov 2004 14:00:31 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Check Out the Updated WS-Discovery Specification</title>
+      <description>This updated version of WS-Discovery incorporates customer implementation experience, a new co-author, revised security considerations, and references to the latest versions of other specifications.</description>
+      <link>http://msdn.microsoft.com/webservices/understanding/specs/default.aspx?pull=/library/en-us/dnglobspec/html/wsmetaspecindex.asp#ws-discovery</link>
+      <dc:creator>Microsoft et. al.</dc:creator>
+      <category domain="msdndomain:ContentType">Specification</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid isPermaLink="false">Iliad_7157</guid>
+      <pubDate>Thu, 28 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>XML Data Type Support in ADO.NET 2.0: Handling XML from SQL Server 2005</title>
+      <description>See how improvements to XML support in ADO.NET 2.0 and SQL Server 2005 work together to make handling XML data in your applications easier.</description>
+      <link>http://msdn.microsoft.com/data/default.aspx?pull=/library/en-us/dnadonet/html/SqlXml_ADO.asp</link>
+      <dc:creator>Bob Beauchemin</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">SQL</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">SQL Server</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Data Access</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">ADO</category>
+      <category domain="msdndomain:TechnologyVers">ADO.NET</category>
+      <category domain="msdndomain:TechnologyVers">ADO.NET 2.0</category>
+      <category domain="msdndomain:TechnologyVers">SQL Server</category>
+      <category domain="msdndomain:TechnologyVers">SQLXML</category>
+      <msdn:developmentLanguage>SQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>ADO</msdn:technology>
+      <msdn:technology>ADO.NET</msdn:technology>
+      <msdn:technology>ADO.NET 2.0</msdn:technology>
+      <msdn:technology>SQL Server</msdn:technology>
+      <msdn:technology>SQLXML</msdn:technology>
+      <msdn:product>SQL Server</msdn:product>
+      <msdn:product>SQL Server 2005</msdn:product>
+      <guid isPermaLink="false">Iliad_7156</guid>
+      <pubDate>Wed, 27 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASP.NET 2.0 Localization Features: A Fresh Approach to Localizing Web Applications</title>
+      <description>Creating global Web applications with Microsoft ASP.NET is becoming more and more important. ASP.NET 2.0 makes it even easier to provide support for multiple cultures and locales through improved runtime and tool support.</description>
+      <link>http://msdn.microsoft.com/asp.net/whidbey/default.aspx?pull=/library/en-us/dnvs05/html/ASP2local.asp</link>
+      <dc:creator>Michele Leroux Bustamante</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">ASP</category>
+      <category domain="msdndomain:DevLangVers">HTML</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">Visual Studio</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Active Server Pages</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+      <msdn:developmentLanguage>ASP</msdn:developmentLanguage>
+      <msdn:developmentLanguage>HTML</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Active Server Pages</msdn:technology>
+      <msdn:technology>ASP.NET</msdn:technology>
+      <msdn:technology>ASP.NET 2.0</msdn:technology>
+      <msdn:product>Visual Studio</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7125</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trustworthy Code: Exchange Data More Securely with XML Signatures and Encryption</title>
+      <description>Understand XML Signature and XML Encryption standards and learn how to use them with .NET for more secure data exchange.</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/11/XMLSignatures/default.aspx</link>
+      <dc:creator>Mike Downen and Shawn Farkas</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Cryptography</category>
+      <category domain="msdndomain:Subject">Security</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">.NET Security</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>.NET Security</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <guid isPermaLink="false">Iliad_7138</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intrusion Prevention: Build Security Into Your Web Services with WSE 2.0 and ISA Server 2004</title>
+      <description>Web Services Enhancements 2.0 and ISA Server 2004 help you build better Web services security</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/11/WebServiceSecurity/default.aspx</link>
+      <dc:creator>Dino Esposito</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:Subject">Security</category>
+      <category domain="msdndomain:Subject">Trustworthy Computing</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Web Services Enhancements 2.0</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Web Services Enhancements 2.0</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <guid isPermaLink="false">Iliad_7140</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Service Station: Improving Web Service Interoperability</title>
+      <description> Improving Web Service Interoperability</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/11/ServiceStation/default.aspx</link>
+      <dc:creator>Aaron Skonnard</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Interoperability</category>
+      <category domain="msdndomain:Subject">XML</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Web Services</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <guid isPermaLink="false">Iliad_7149</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comparing the Microsoft .NET Framework 1.1 Data Provider for Oracle and the Oracle Data Provider for .NET</title>
+      <description>Compare the two most common .NET data providers for Oracle and select the right one for your next development project.</description>
+      <link>http://msdn.microsoft.com/data/default.aspx?pull=/library/en-us/dnadonet/html/ODPvsMSDP.asp</link>
+      <dc:creator>Bill Hamilton</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">PL/SQL</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Data Access</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">ADO.NET</category>
+      <msdn:developmentLanguage>PL/SQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>ADO.NET</msdn:technology>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7115</guid>
+      <pubDate>Tue, 19 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Extreme XML: The XML Litmus Test</title>
+      <description>Dare Obasanjo provides some simple guidelines for determining when XML is the appropriate technology to use in a software application or architecture design.</description>
+      <link>http://msdn.microsoft.com/XML/BuildingXML/XMLColumns/default.aspx?pull=/library/en-us/dnexxml/html/xml10202004.asp</link>
+      <dc:creator>Dare Obasanjo</dc:creator>
+      <category domain="msdndomain:ContentType">Column</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">Windows</category>
+      <category domain="msdndomain:TechnologyVers">XML/XSL</category>
+      <category domain="msdndomain:TechnologyVers">XSLT</category>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>XML/XSL</msdn:technology>
+      <msdn:technology>XSLT</msdn:technology>
+      <msdn:product>Windows</msdn:product>
+      <guid isPermaLink="false">Iliad_7096</guid>
+      <pubDate>Thu, 14 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resolving the Unknown: Building Custom XmlResolvers in the .NET Framework</title>
+      <description>Create your own implementations of XmlResolver, allowing you to retrieve XML documents from alternative data sources, such as embedded assembly resources.</description>
+      <link>http://msdn.microsoft.com/XML/BuildingXML/XMLinNETFramework/default.aspx?pull=/library/en-us/dnxmlnet/html/cusxmlres.asp</link>
+      <dc:creator>mfussell</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">SQL</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2000</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005 Express Ed</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <category domain="msdndomain:Subject">XML</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">SQL Server</category>
+      <category domain="msdndomain:TechnologyVers">XML/XSL</category>
+      <msdn:developmentLanguage>SQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>SQL Server</msdn:technology>
+      <msdn:technology>XML/XSL</msdn:technology>
+      <msdn:product>SQL Server 2000</msdn:product>
+      <msdn:product>SQL Server 2005</msdn:product>
+      <msdn:product>SQL Server 2005 Express Ed</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid isPermaLink="false">Iliad_6872</guid>
+      <pubDate>Thu, 30 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moving External Data into Microsoft CRM: Lead Generation</title>
+      <description>This article describes how to collect customer provided information from a public (Internet) Web server and pass the data through a corporate firewall into the Microsoft CRM database. The customer information is inserted into the Microsoft CRM database as a new lead object.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmbscrm1_2/html/mbs_crmLdGn.asp</link>
+      <dc:creator>Peter Hecke</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">MS Customer Relationship Mgmt</category>
+      <category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+      <category domain="msdndomain:Subject">Business solutions</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">.NET Security</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>.NET Security</msdn:technology>
+      <msdn:product>MS Customer Relationship Mgmt</msdn:product>
+      <msdn:product>Visual Studio .NET 2003</msdn:product>
+      <guid isPermaLink="false">Iliad_7001</guid>
+      <pubDate>Fri, 24 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

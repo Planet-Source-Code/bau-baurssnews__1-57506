@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: Security</title>
+    <link>http://msdn.microsoft.com/security/</link>
+    <description>The latest information for developers on Security.</description>
+    <language>en-us</language>
+    <pubDate>Thu, 18 Nov 2004 23:20:10 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Nov 2004 23:20:10 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Code Secure: Browsing the Web and Reading E-mail Safely as an Administrator</title>
+      <description>Michael Howard discusses how you can run as an administrator and access Internet data safely by dropping unnecessary administrative privileges when using any tool to access the Internet.</description>
+      <link>http://msdn.microsoft.com/security/securecode/columns/default.aspx?pull=/library/en-us/dncode/html/secure11152004.asp</link>
+      <dc:creator>Michael Howard</dc:creator>
+      <category domain="msdndomain:ContentType">Column w/Code Sample</category>
+      <category domain="msdndomain:TechnologyVers">Security</category>
+      <msdn:technology>Security</msdn:technology>
+      <guid isPermaLink="false">Iliad_7201</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Managing Security Context Tokens in a Web Farm</title>
+      <description>See techniques for extending WSE 2.0 to manage the secure context token state across a farm hosting multiple instances of a service.</description>
+      <link>http://msdn.microsoft.com/webservices/default.aspx?pull=/library/en-us/dnwebsrv/html/sctinfarm.asp</link>
+      <dc:creator>Chris Keyser</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Security</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Security</msdn:technology>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid isPermaLink="false">Iliad_7188</guid>
+      <pubDate>Fri, 12 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL Server for Developers: Writing Secure Transact-SQL</title>
+      <description>Guest columnist Bart Duncan reviews the best practices to make your T-SQL code more bulletproof.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsqldev/html/sqldev_10182004.asp</link>
+      <dc:creator>Bart Duncan</dc:creator>
+      <category domain="msdndomain:ContentType">Column</category>
+      <category domain="msdndomain:DevLangVers">TSQL</category>
+      <category domain="msdndomain:ProductVers">SQL Server</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2000</category>
+      <category domain="msdndomain:TechnologyVers">Security</category>
+      <msdn:developmentLanguage>TSQL</msdn:developmentLanguage>
+      <msdn:technology>Security</msdn:technology>
+      <msdn:product>SQL Server</msdn:product>
+      <msdn:product>SQL Server 2000</msdn:product>
+      <guid isPermaLink="false">Iliad_7116</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trustworthy Code: Exchange Data More Securely with XML Signatures and Encryption</title>
+      <description>Understand XML Signature and XML Encryption standards and learn how to use them with .NET for more secure data exchange.</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/11/XMLSignatures/default.aspx</link>
+      <dc:creator>Mike Downen and Shawn Farkas</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Cryptography</category>
+      <category domain="msdndomain:Subject">Security</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">.NET Security</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>.NET Security</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <guid isPermaLink="false">Iliad_7138</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safety in Windows: Manage Access to Windows Objects with ACLs and the .NET Framework</title>
+      <description>Discover the ease with which the new library of classes in the .NET Framework 2.0 allows you to secure objects in a few steps using managed code.</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/11/AccessControlinNET/default.aspx</link>
+      <dc:creator>Mark Pustilnik</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Security</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">.NET Security</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>.NET Security</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <guid isPermaLink="false">Iliad_7139</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mitigate Security Risks by Minimizing the Code You Expose to Untrusted Users</title>
+      <description>Security expert Michael Howard discusses minimizing security risks to code through techniques such as identifying and reducing attack surface, reducing the volume of</description>
+      <link>http://msdn.microsoft.com/security/default.aspx?pull=/msdnmag/issues/04/11/attacksurface/default.aspx</link>
+      <dc:creator>Michael Howard</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:Subject">Security</category>
+      <category domain="msdndomain:TechnologyVers">.NET Security</category>
+      <msdn:technology>.NET Security</msdn:technology>
+      <guid isPermaLink="false">Iliad_7119</guid>
+      <pubDate>Tue, 19 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GDI+ 1.0 Security Update Overview</title>
+      <description>Find out about the security fixes to GDI+, and get information to help identify applications at risk, APIs that expose risk, and existing versions of GDI+ installed on your system.</description>
+      <link>http://msdn.microsoft.com/security/default.aspx?pull=/library/en-us/dnsecure/html/gdiplus10security.asp</link>
+      <dc:creator>Cyra Richardson</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Windows</category>
+      <category domain="msdndomain:ProductVers">Windows Server 2003</category>
+      <category domain="msdndomain:ProductVers">Windows XP</category>
+      <category domain="msdndomain:Subject">Security</category>
+      <category domain="msdndomain:TechnologyVers">GDI+</category>
+      <category domain="msdndomain:TechnologyVers">Security</category>
+      <msdn:technology>GDI+</msdn:technology>
+      <msdn:technology>Security</msdn:technology>
+      <msdn:product>Windows</msdn:product>
+      <msdn:product>Windows Server 2003</msdn:product>
+      <msdn:product>Windows XP</msdn:product>
+      <guid isPermaLink="false">Iliad_7034</guid>
+      <pubDate>Tue, 12 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Defend Your Apps and Critical User Info with Defensive Coding Techniques</title>
+      <description>Protect critical user info and defend servers by writing attack-resistant code.</description>
+      <link>http://msdn.microsoft.com/security/default.aspx?pull=/msdnmag/issues/04/11/applockdown/default.aspx</link>
+      <dc:creator>Kenny Kerr</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:Subject">Security</category>
+      <category domain="msdndomain:TechnologyVers">.NET Security</category>
+      <msdn:technology>.NET Security</msdn:technology>
+      <guid isPermaLink="false">Iliad_7021</guid>
+      <pubDate>Fri, 08 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Important Information on ASP.NET Vulnerability</title>
+      <description>Microsoft has posted guidance that protects against a reported vulnerability in all versions of ASP.NET that could allow a Web site visitor to view secured content by using specially crafted requests to a Web server.</description>
+      <link>http://www.microsoft.com/security/incident/aspnet.mspx</link>
+      <dc:creator>Microsoft</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:Subject">Security</category>
+      <category domain="msdndomain:TechnologyVers">.NET Security</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET</category>
+      <msdn:technology>.NET Security</msdn:technology>
+      <msdn:technology>ASP.NET</msdn:technology>
+      <guid isPermaLink="false">Iliad_7090</guid>
+      <pubDate>Fri, 08 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moving External Data into Microsoft CRM: Lead Generation</title>
+      <description>This article describes how to collect customer provided information from a public (Internet) Web server and pass the data through a corporate firewall into the Microsoft CRM database. The customer information is inserted into the Microsoft CRM database as a new lead object.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmbscrm1_2/html/mbs_crmLdGn.asp</link>
+      <dc:creator>Peter Hecke</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">MS Customer Relationship Mgmt</category>
+      <category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+      <category domain="msdndomain:Subject">Business solutions</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">.NET Security</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>.NET Security</msdn:technology>
+      <msdn:product>MS Customer Relationship Mgmt</msdn:product>
+      <msdn:product>Visual Studio .NET 2003</msdn:product>
+      <guid isPermaLink="false">Iliad_7001</guid>
+      <pubDate>Fri, 24 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2">
+<channel>
+<title>MSDN Magazine: Current Issue</title>
+<link>http://msdn.microsoft.com/msdnmag/</link>
+<description>The Microsoft Journal for Developers</description>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+<language>en-us</language>
+<ttl>1440</ttl>
+
+<item>
+<title>Tablet PC: Add Support for Digital Ink to Your Windows Applications</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/TabletPC/</link>
+<description>Check out the cool new features in Windows XP Tablet PC Edition, including a number of Ink types, and ink that's stored as ink. Here Paul Yao takes you on a tour of everything you need to know to get started.</description>
+<dc:creator>Paul Yao</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>Mobility: Optimize Your Pocket PC Development with the .NET Compact Framework</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/NETCompactFramework/</link>
+<description>The .NET Compact Framework can be used to write great code and great applications. As long as you take a few things into consideration and are willing to bend a rule or two, you can have your performance cake and eat it too. In this article the authors present some neat tricks to make life as a programmer easier when using the .NET Compact Framework. Later they discuss techniques to increase performance, and decrease both load time and memory footprints. Sample code is provided.</description>
+<dc:creator>Dave Edson and John Socha-Leialoha</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>Vrooooom: How .NET and C# Drove an Entry in the DARPA Grand Challenge</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/DARPAChallenge/</link>
+<description>Find out how the .NET Framework, a team of programmers, and a bunch of people from Carnegie Mellon University built an automated car to compete in the DARPA Grand Challenge. Along the way you get some inside tips on building an extensible real-time control architecture based on a whiteboard metaphor and implementing an accurate GPS-synchronized timer component for .NET.</description>
+<dc:creator>John Hind</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>.NET Internals: Tailor Your Application by Building a Custom Forms Designer with .NET</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/CustomFormsDesigner/</link>
+<description>The design-time architecture of Windows Forms in the .NET Framework has made development much more flexible than it had been with MFC. With Windows Forms, you can drag one of your custom controls from the toolbox and drop it onto the Visual Studio design surface and even though Windows Forms knows nothing about the control, it's able to host it and let you manipulate its properties—not possible in MFC. In this article, the author discusses what's going on under the covers as you design your forms and then walks through the creation of a bare-bones forms designer.</description>
+<dc:creator>Sayed Y. Hashimi</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>.NET Code Tuning: Make Your Apps Fly with the New Enterprise Performance Tool</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/EnterprisePerformance/</link>
+<description>Because the common language runtime (CLR) is a black box, it's pretty hard to divine what's going on when you want to track down performance problems. Microsoft will be delivering a brand new profiler, the Enterprise Performance Tool (EPT), as part of Visual Studio 2005 Team Developer Edition that's ideal for use on a production system because it offers some very lightweight means of collecting performance data. Here John Robbins takes you on a tour.</description>
+<dc:creator>John Robbins</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>Editor's Note: Going Mobile</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/EditorsNote/</link>
+<description>Editor's Note: Going Mobile</description>
+<dc:creator></dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>New Stuff: Resources for Your Developer Toolbox</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/NewStuff/</link>
+<description>New Stuff: Resources for Your Developer Toolbox</description>
+<dc:creator>Marnie Hutcheson</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>Web Q&amp;A: Windowed and Windowless Elements, Cookie Characters, and More</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/WebQA/</link>
+<description>Web Q&amp;A: Windowed and Windowless Elements, Cookie Characters, and More</description>
+<dc:creator>Edited by Nancy Michell</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>Advanced Basics: Calling All Operators</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/AdvancedBasics/</link>
+<description>Advanced Basics: Calling All Operators</description>
+<dc:creator>Ken Getz</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>Data Points: Efficient Coding With Strongly Typed DataSets</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/DataPoints/</link>
+<description>Data Points: Efficient Coding With Strongly Typed DataSets</description>
+<dc:creator>John Papa</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>Cutting Edge: Implications of Script Callbacks in ASP.NET</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/CuttingEdge/</link>
+<description>Cutting Edge: Implications of Script Callbacks in ASP.NET</description>
+<dc:creator>Dino Esposito</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>Service Station: Run ASMX Without IIS</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/ServiceStation/</link>
+<description>Service Station: Run ASMX Without IIS</description>
+<dc:creator>Aaron Skonnard</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>.NET Matters: Asynchronous HttpWebRequests, Interface Implementation, and More</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/NETMatters/</link>
+<description>.NET Matters: Asynchronous HttpWebRequests, Interface Implementation, and More</description>
+<dc:creator>Stephen Toub</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>C++ Q&amp;A: Deleting Managed Objects, Wrapping a Library, and More</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/CQA/</link>
+<description>C++ Q&amp;A: Deleting Managed Objects, Wrapping a Library, and More</description>
+<dc:creator>Paul DiLascia</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+<item>
+<title>{ End Bracket }: Around the World with Visual Basic</title>
+<link>http://msdn.microsoft.com/msdnmag/issues/04/12/EndBracket/</link>
+<description>{ End Bracket }: Around the World with Visual Basic</description>
+<dc:creator>Jay Roxe</dc:creator>
+<pubDate>Fri, 12 Nov 2004 13:49:07 GMT</pubDate>
+</item>
+
+</channel>
+</rss>

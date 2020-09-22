@@ -1,0 +1,401 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[IBM developerWorks Technology Newsletter]]></title>
+  <link><![CDATA[http://www.ibm.com/developerworks/index.html?ca=drs-t4904]]></link>
+  <description><![CDATA[The latest content from IBM developerWorks Technology Newsletter]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[Copyright 2004 IBM Corporation.]]></copyright>
+  <lastBuildDate><![CDATA[]]></lastBuildDate>
+  <pubDate><![CDATA[Mon, 29 Nov 2004 09:30:13 -0500]]></pubDate>
+  <generator><![CDATA[]]></generator>
+  <ttl><![CDATA[]]></ttl>
+  <image>
+    <title><![CDATA[IBM developerWorks Technology Newsletter]]></title>
+    <url><![CDATA[http://www-106.ibm.com/developerworks/i/dwlogo-small.gif]]></url>
+    <link><![CDATA[http://www.ibm.com/developerworks/index.html?ca=drs-t4904]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Meet the experts: Ric Telford on the state of autonomic computing today]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/ac-telford/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[developerWorks takes an afternoon to get to know Ric Telford, the director of Autonomic Computing at IBM.  Through his eyes, a relatively complex topic -- autonomic computing -- seems straightforward and simple to understand.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Semantic request and response for standardized Web 
+services]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/ws-semantic/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn about the semantic communication that is necessary when developing and using geospatial Web services. Also find out how the concept of semantic request and response will significantly standardize the development and utilization of geospatial Web services.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Reduce complexity with model-driven development, Part 4: Modeling business processes with WebSphere Business Integration Modeler V5.1]]></title>
+    <link><![CDATA[http://www-106.ibm.com/developerworks/edu/i-dw-i-modev4-i.html?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Start your solution development process by first modeling your business processes and you'll be off to a good start!  Take this tutorial to learn how to use WebSphere Business Integration Modeler to model business processes. Using the External Claims Assessor Model (ECAM), which ships with WebSphere Business Integration, you discover the advantages of business modeling. You get instructions about how to export processes from WebSphere Business Integration Modeler and import them into Rational XDE.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Enable backwards navigation through Web applications]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/wa-webflow/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Get the scoop on better backwards navigation of Web applications as the author demonstrates how Webflows maintain a server-side navigation history, and can even clean the HTTP sessions.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Inside memory management]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/l-memory/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Yes, you know how to use malloc() and free(), but have you considered some of the tradeoffs implicit in these mechanisms and what you might stand to gain by using a custom allocator? Get a grip on the basics of how memory management works, then move on to writing a malloc() replacement that illustrates the principles involved. Finally, you'll take a look under the hood of semi-automated and automated techniques, including reference counting and garbage collection.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Developing an On Demand Workplace, Part 12:  Enable and customize employee self-service with Bowstreet Portlet Factory and PeopleSoft]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/i-workplace12/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[In this tenth article in the series about developing an On Demand Workplace, the IBM On Demand Solution Center team shows you how to use Bowstreet Portlet Factory for WebSphere to develop a portlet that provides a view into a PeopleSoft HR application. Bowstreet Portlet Factory for WebSphere is a rapid application development platform for WebSphere Portal.  In this article, you get an overview of Bowstreet Portlet Factory features and a demonstration of a real-world implementation.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Roaming charges: ZigBee goes to work]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/wi-roam28/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Wi-Max, Wi-Pan, Wireless USB. It's this kind of talk that's causing excitement, but what are we really going to do with it? What are their real world applications, and how will they have to improve to carry out their intended purposes? Let's talk about that.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Dual booting Linux and AIX]]></title>
+    <link><![CDATA[http://www-106.ibm.com/developerworks/linux/library/l-pow-dualboot.html?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[There may be times when you find it necessary to develop in both the Linux and AIX operating environments. This article describes dual booting Linux and AIX on the same IBM eServer pSeries (including eServer p5), eServer i5, or eServer OpenPower server.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Don't forget about memory]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/j-memusage/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Even though the Java runtime handles the bulk of memory management, keeping a vigilant eye on your programs' memory usage is still crucial to optimizing machine performance and spotting memory leaks. Numerous tools are available for monitoring memory usage in Windows. But each has its own advantages and disadvantages and its own particular slant -- often without defining clearly what it measures. The authors clear up a few common misconceptions about memory usage and demystify some of the many available tools, offering guidance on when and how to use them.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Integrate COM and Java components]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/j-intbridge/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Interoperability issues have long made integration of COM and Java components a daunting task. Now, the Development Tool for Java-COM Bridge, available from IBM alphaWorks, eases that burden and also provides an evolutionary approach to migrating applications from COM to the Java platform. IBM Rational's Cheng-Yee Lin, Thomas Houser, and Peter Parapounsky, creators of the bridging technology, explain its basics and present a sample application that leverages its capabilities.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Analyze your applications visually: 
+Using Visual Trace within WebSphere Studio to extend runtime analysis]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/i-dw-r-extendruntime-i.html?S_TACT=104AHW57&S_CMP=TNL?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn how to use IBM Rational Visual Trace to perform runtime analysis of applications by capturing a trace of the application and displaying it through a trace sequence diagram. IBM Rational Visual Trace can help you understand the code underlying your application by providing a visual model of how the application runs. It can also help you debug code and generate sequence diagrams from your trace sequence diagram.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Introduction to XML Events]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/x-events/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn the fundamentals of XML Events. Author Micah Dubinko gives an overview of how  XML Events came about, what it's useful for, and how it works. A number of markup technologies involve attaching behaviors to specific parts of a document. XML Events is a W3C Recommendation that allows declarative attachment of a behavior -- which can be a predefined bundle of actions defined in XML or a more general call to a scripting language -- to a specific element.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Geographically dispersed grid, Part 1: Aligning computation and data]]></title>
+    <link><![CDATA[http://www-106.ibm.com/developerworks/library/gr-gdg1/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[When your grid is spread across sites--or continents--what's the best way to manage data and computation components of grid jobs? The author investigates the challenges we all face, in this 4-part series.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Wireless messaging with JXTA, Part 1]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/wi-jxta/?ca=drs-t4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Juxtapose J2ME with Java Message Service to run on J2EE servers -- you'll be expertly integrating thin clients into Java messaging applications. This first of a two-part series illustrates two scenarios and their basic architecture.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Meet the experts: Ric Telford on the state of autonomic computing today]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/ac-telford/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[developerWorks takes an afternoon to get to know Ric Telford, the director of Autonomic Computing at IBM.  Through his eyes, a relatively complex topic -- autonomic computing -- seems straightforward and simple to understand.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Semantic request and response for standardized Web 
+services]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/ws-semantic/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn about the semantic communication that is necessary when developing and using geospatial Web services. Also find out how the concept of semantic request and response will significantly standardize the development and utilization of geospatial Web services.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Reduce complexity with model-driven development, Part 4: Modeling business processes with WebSphere Business Integration Modeler V5.1]]></title>
+    <link><![CDATA[http://www-106.ibm.com/developerworks/edu/i-dw-i-modev4-i.html?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Start your solution development process by first modeling your business processes and you'll be off to a good start!  Take this tutorial to learn how to use WebSphere Business Integration Modeler to model business processes. Using the External Claims Assessor Model (ECAM), which ships with WebSphere Business Integration, you discover the advantages of business modeling. You get instructions about how to export processes from WebSphere Business Integration Modeler and import them into Rational XDE.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Enable backwards navigation through Web applications]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/wa-webflow/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Get the scoop on better backwards navigation of Web applications as the author demonstrates how Webflows maintain a server-side navigation history, and can even clean the HTTP sessions.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Inside memory management]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/l-memory/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Yes, you know how to use malloc() and free(), but have you considered some of the tradeoffs implicit in these mechanisms and what you might stand to gain by using a custom allocator? Get a grip on the basics of how memory management works, then move on to writing a malloc() replacement that illustrates the principles involved. Finally, you'll take a look under the hood of semi-automated and automated techniques, including reference counting and garbage collection.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Developing an On Demand Workplace, Part 12:  Enable and customize employee self-service with Bowstreet Portlet Factory and PeopleSoft]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/i-workplace12/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[In this tenth article in the series about developing an On Demand Workplace, the IBM On Demand Solution Center team shows you how to use Bowstreet Portlet Factory for WebSphere to develop a portlet that provides a view into a PeopleSoft HR application. Bowstreet Portlet Factory for WebSphere is a rapid application development platform for WebSphere Portal.  In this article, you get an overview of Bowstreet Portlet Factory features and a demonstration of a real-world implementation.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Access federated data sources:
+Modeling OLAP cubes through the DB2 Information Integrator and DB2 Cube Views]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/i-dw-db2-iicv-i.html?S_TACT=104AHW57&S_CMP=TNL?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Business intelligence regularly requires the integration of heterogeneous data from different sources (relational databases and non-relational sources like XML documents or spreadsheets). In this tutorial, you'll first learn how to set up a federated database with heterogeneous data. Then, you will model and optimize an OLAP cube with federated sources using DB2 Information Integrator and DB2 Cube Views.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Roaming charges: ZigBee goes to work]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/wi-roam28/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Wi-Max, Wi-Pan, Wireless USB. It's this kind of talk that's causing excitement, but what are we really going to do with it? What are their real world applications, and how will they have to improve to carry out their intended purposes? Let's talk about that.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Dual booting Linux and AIX]]></title>
+    <link><![CDATA[http://www-106.ibm.com/developerworks/linux/library/l-pow-dualboot.html?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[There may be times when you find it necessary to develop in both the Linux and AIX operating environments. This article describes dual booting Linux and AIX on the same IBM eServer pSeries (including eServer p5), eServer i5, or eServer OpenPower server.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Don't forget about memory]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/j-memusage/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Even though the Java runtime handles the bulk of memory management, keeping a vigilant eye on your programs' memory usage is still crucial to optimizing machine performance and spotting memory leaks. Numerous tools are available for monitoring memory usage in Windows. But each has its own advantages and disadvantages and its own particular slant -- often without defining clearly what it measures. The authors clear up a few common misconceptions about memory usage and demystify some of the many available tools, offering guidance on when and how to use them.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Integrate COM and Java components]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/j-intbridge/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Interoperability issues have long made integration of COM and Java components a daunting task. Now, the Development Tool for Java-COM Bridge, available from IBM alphaWorks, eases that burden and also provides an evolutionary approach to migrating applications from COM to the Java platform. IBM Rational's Cheng-Yee Lin, Thomas Houser, and Peter Parapounsky, creators of the bridging technology, explain its basics and present a sample application that leverages its capabilities.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Customize Lotus Workplace:  Using the Workplace Builder]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/i-dw-ls-wrkpblder-i.html?S_TACT=104AHW57&S_CMP=TNL?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[See the powerful features of Workplace Builder, the editing and customization tool that comes with Lotus Workplace Team Collaboration. Workplace Builder allows you to assemble applications built from Lotus Workplace collaborative components and forms. This tutorial covers how to use Workplace Builder for creating and working with Lotus Workplace templates. It also covers customization, forms, roles, and page layout options.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Analyze your applications visually: 
+Using Visual Trace within WebSphere Studio to extend runtime analysis]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/i-dw-r-extendruntime-i.html?S_TACT=104AHW57&S_CMP=TNL&ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn how to use IBM Rational Visual Trace to perform runtime analysis of applications by capturing a trace of the application and displaying it through a trace sequence diagram. IBM Rational Visual Trace can help you understand the code underlying your application by providing a visual model of how the application runs. It can also help you debug code and generate sequence diagrams from your trace sequence diagram.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[PowerPC 750GX/FX evaluation kit]]></title>
+    <link><![CDATA[http://www-106.ibm.com/developerworks/power/ppc750gxfx/?S_TACT=104AHX13&S_CMP=DWPA&ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[A PowerPC download package to delight software and hardware engineers alike!
+The PowerPC 750GX/FX  evaluation kit incudes everything you need to get started (except the board -- we haven't found a way to make those downloadable yet =). Download includes evaluation board specifications and schematics, an application note on building a Free Software GNU toolchain for cross-compilation and development, as well as software to get you started: the IBM Embedded PowerPC Operating System (EPOS),  IBM PowerPC Initialization Boot Software
+(PIBS -- with source), application development libraries and tools, and sample application programs are provided.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Introduction to XML Events]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/x-events/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn the fundamentals of XML Events. Author Micah Dubinko gives an overview of how  XML Events came about, what it's useful for, and how it works. A number of markup technologies involve attaching behaviors to specific parts of a document. XML Events is a W3C Recommendation that allows declarative attachment of a behavior -- which can be a predefined bundle of actions defined in XML or a more general call to a scripting language -- to a specific element.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Geographically dispersed grid, Part 1: Aligning computation and data]]></title>
+    <link><![CDATA[http://www-106.ibm.com/developerworks/library/gr-gdg1/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[When your grid is spread across sites--or continents--what's the best way to manage data and computation components of grid jobs? The author investigates the challenges we all face, in this 4-part series.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Wireless messaging with JXTA, Part 1]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/wi-jxta/?ca=drs-t4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Juxtapose J2ME with Java Message Service to run on J2EE servers -- you'll be expertly integrating thin clients into Java messaging applications. This first of a two-part series illustrates two scenarios and their basic architecture.]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,375 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[IBM developerWorks Product Newsletter]]></title>
+  <link><![CDATA[http://www.ibm.com/developerworks/ibm/index.html?ca=drs-p4904]]></link>
+  <description><![CDATA[The latest content from IBM developerWorks Product Newsletter]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[Copyright 2003 IBM Corporation.]]></copyright>
+  <lastBuildDate><![CDATA[]]></lastBuildDate>
+  <pubDate><![CDATA[Mon, 29 Nov 2004 09:30:13 -0500]]></pubDate>
+  <generator><![CDATA[]]></generator>
+  <ttl><![CDATA[]]></ttl>
+  <image>
+    <title><![CDATA[IBM developerWorks Product Newsletter]]></title>
+    <url><![CDATA[http://www.ibm.com/developerworks/i/dwlogo-small.gif]]></url>
+    <link><![CDATA[http://www.ibm.com/developerworks/ibm/index.html?ca=drs-p4904]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Build Web-Based Reports for Business Analysis with DB2 Alphablox and DB2 Information Integrator]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/db2/library/techarticle/dm-0411saracco/?ca=drs-p4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn how Alphablox technology can be coupled with DB2 Information Integrator to create Web-enabled business analysis applications that provide a unified view of disparate data within an enterprise.  This article will provide configuration tips, coding examples, and development guidelines to address this issue. It will also explore the business benefits of pairing these two products.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[DB2 Information Integrator planning and sizing]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/db2/library/techarticle/dm-0411purnell/?ca=drs-p4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This article discusses hardware and network planning for three major uses of DB2 Information Integrator: Online and batch applications that read, update, or read/update non-DB2 data, data analysis and reporting applications that access DB2 and/or non-DB2 
+data, and federated data replication (DB2 to non-DB2; non-DB2 to DB2).]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Develop .NET compact framework apps using DB2 Everyplace Sync Client]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/dm-dw-dm-0411leung-i/?ca=drs-p4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This tutorial demonstrates the DB2 Everyplace Sync Client with an interesting application for nurses using PDAs.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Dual booting Linux and AIX]]></title>
+    <link><![CDATA[http://www-106.ibm.com/developerworks/linux/library/l-pow-dualboot.html?ca=drs-p4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[There may be times when you find it necessary to develop in both the Linux and AIX operating environments. This article describes dual booting Linux and AIX on the same IBM eServer pSeries (including eServer p5), eServer i5, or eServer OpenPower server.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Using Notes/Domino SMTP with a DMZ, Part 2]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/lotus/library/smtp-dmz2/?ca=drs-p4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[We conclude our two-part article series about setting up a DMZ to help protect your company's resources with a look at several different scenarios for hosting Domino servers in the DMZ to control inbound and outbound SMTP mail traffic.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Tip: Get database agent status with one click!]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/lotus/library/agent-status/?ca=drs-p4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This tip describes three ways in which you can create an action button that lists the agents in the current database and the agent status, including the day and time that the agent was last run. Code examples and a download sample are available with this tip.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Reduce complexity with model-driven development, Part 4:  Modeling business processes with WebSphere Business Integration Modeler V5.1]]></title>
+    <link><![CDATA[http://www-106.ibm.com/developerworks/edu/i-dw-i-modev4-i.html?ca=drs-p4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Start your solution development process by first modeling your business processes and you'll be off to a good start!  Take this tutorial to learn how to use WebSphere Business Integration Modeler to model business processes. Using the External Claims Assessor Model (ECAM), which ships with WebSphere Business Integration, you discover the advantages of business modeling. You get instructions 
+about how to export processes from WebSphere Business Integration Modeler and import them into Rational XDE.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Developing an On Demand Workplace, Part 12:  Enable and customize employee self-service with Bowstreet Portlet Factory and PeopleSoft]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/i-workplace12/?ca=drs-p4704]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[In this tenth article in the series about developing an On Demand Workplace, the IBM On Demand Solution Center team shows you how to use Bowstreet Portlet Factory for WebSphere to develop a portlet that provides a view into a PeopleSoft HR application. Bowstreet Portlet Factory for WebSphere is a rapid application development platform for WebSphere Portal.  In this article, you get an overview 
+of Bowstreet Portlet Factory features and a demonstration of a real-world implementation.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Build Web-Based Reports for Business Analysis with DB2 Alphablox and DB2 Information Integrator]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/db2/library/techarticle/dm-0411saracco/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn how Alphablox technology can be coupled with DB2 Information Integrator to create Web-enabled business analysis applications that provide a unified view of disparate data within an enterprise.  This article will provide configuration tips, coding examples, and development guidelines to address this issue. It will also explore the business benefits of pairing these two products.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[DB2 Information Integrator planning and sizing]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/db2/library/techarticle/dm-0411purnell/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This article discusses hardware and network planning for three major uses of DB2 Information Integrator: Online and batch applications that read, update, or read/update non-DB2 data, data analysis and reporting applications that access DB2 and/or non-DB2 data, and federated data replication (DB2 to non-DB2; non-DB2 to DB2).]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Develop .NET compact framework apps using DB2 Everyplace Sync Client]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/dm-dw-dm-0411leung-i/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This tutorial demonstrates the DB2 Everyplace Sync Client with an interesting application for nurses using PDAs.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Dual booting Linux and AIX]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/linux/library/l-pow-dualboot.html?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[There may be times when you find it necessary to develop in both the Linux and AIX operating environments. This article describes dual booting Linux and AIX on the same IBM eServer pSeries (including eServer p5), eServer i5, or eServer OpenPower server.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Using Notes/Domino SMTP with a DMZ, Part 2]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/lotus/library/smtp-dmz2/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[We conclude our two-part article series about setting up a DMZ to help protect your company's resources with a look at several different scenarios for hosting Domino servers in the DMZ to control inbound and outbound SMTP mail traffic.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Tip: Get database agent status with one click!]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/lotus/library/agent-status/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This tip describes three ways in which you can create an action button that lists the agents in the current database and the agent status, including the day and time that the agent was last run. Code examples and a download sample are available with this tip.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Reduce complexity with model-driven development, Part 4:  Modeling business processes with WebSphere Business Integration Modeler V5.1]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/i-dw-i-modev4-i.html?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Start your solution development process by first modeling your business processes and you'll be off to a good start!  Take this tutorial to learn how to use WebSphere Business Integration Modeler to model business processes. Using the External Claims Assessor Model (ECAM), which ships with WebSphere Business Integration, you discover the advantages of business modeling. You get instructions 
+about how to export processes from WebSphere Business Integration Modeler and import them into Rational XDE.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Developing an On Demand Workplace, Part 12:  Enable and customize employee self-service with Bowstreet Portlet Factory and PeopleSoft]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/library/i-workplace12/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[In this tenth article in the series about developing an On Demand Workplace, the IBM On Demand Solution Center team shows you how to use Bowstreet Portlet Factory for WebSphere to develop a portlet that provides a view into a PeopleSoft HR application. Bowstreet Portlet Factory for WebSphere is a rapid application development platform for WebSphere Portal.  In this article, you get an overview 
+of Bowstreet Portlet Factory features and a demonstration of a real-world implementation.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[November issue of The Rational Edge]]></title>
+    <link><![CDATA[http://www-128.ibm.com/developerworks/rational/rationaledge/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This month,  this excellent online Rational magazine covers many different aspects of the IBM Rational strategy, from the philosophy behind the Rational design and construction tools, to a view of  the tools themselves in a continuing buyer's guide series.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[The value of modeling]]></title>
+    <link><![CDATA[http://www-128.ibm.com/developerworks/rational/library/04/r-3196/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Take a look at the value of modeling in the context of software development.This piece examines the basics of what motivates the practice of modeling software and explains the benefits and values that this practice can offer.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[WebSphere Portal V5.1 delivers the value of on demand business]]></title>
+    <link><![CDATA[http://www.ibm.com/software/swnews/swnews.nsf//n/jmae66bk29?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Tim Thatcher, IBM Lotus Director of Workplace and Portal Products, explains why WebSphere Portal is now leading the portal market, and how V5.1 delivers new on-demand capabilities, including business process integration, dynamic page assembly, and virtual portals, that can lower the cost of dynamically delivering the right information to the right people.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Extending WebSphere Portal to a mobile audience]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/websphere/library/techarticles/0411_burke/0411_burke.html?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This article describes WebSphere Everyplace Mobile Portal, and shows you how its features can satisfy your mobile device requirements. The article focuses on XML Device-Independent Markup Extensions (XDIME) and the integration of Multi-Channel Server (MCS) into WebSphere Portal.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Integrating Lotus Workplace and Domino LDAP using IBM Tivoli Directory Integrator]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/lotus/library/article/lwp-msad/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Managing multiple corporate directories can be a lot easier with IBM Tivoli Directory Integrator. This article explains how we used Tivoli Directory Integrator to maintain multiple LDAP directories in an integrated Lotus Workplace and Domino environment.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Integrating WebSphere BI Server components to form a single BI environment]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/websphere/library/techarticles/0411_jones/0411_jones.html?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn how to integrate the three components of WebSphere Business Integration Server (WebSphere Business Integration Message Broker, WebSphere InterChange Server, WebSphere MQ Workflow) to form a single business integration environment. There are several possible mechanisms for integration of these components, depending on project requirements and the preference of the implementer. This paper describes one of these mechanisms.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Make autonomic computing a reality with IBM Tivoli]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/autonomic/library/ac-itito/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This article describes how the IBM Tivoli Provisioning Manager and IBM Tivoli Intelligent Orchestrator can provide the autonomic computing capabilities needed to get you to On Demand.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Download: IBM PowerPC 750GX-750FX Evaluation Kit]]></title>
+    <link><![CDATA[http://www-128.ibm.com/developerworks/power/ppc750gxfx/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[The IBM PowerPC 750GX-750FX Evaluation Kit software includes the IBM PowerPC Initialization Boot Software (PIBS) resident in the flash memory on the board, PIBS source code, the IBM Embedded PowerPC Operating System (EPOS), sample application programs, and application development libraries and tools. Documentation includes board and software technical specifications, evaluation board schematics, and an application note that describes step-by-step instructions on how to obtain and build GNU software development tools for use with the evaluation kit software.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Domino Access for Microsoft Office and the Domino Migration Tool]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/lotus/library/damo/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[If you are considering a migration from Microsoft Exchange to Lotus Domino, see how Domino Access to Microsoft Outlook and the Domino Migation Tool can help make the transition easier for you and for your users. This article guides you step-by-step through the process for user and mail migration.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Jumpstart your Lotus Workplace 2.0.1 installation, Part 1]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/lotus/library/lwp-install1/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Getting ready to install Lotus Workplace 2.0.1? If so, this two-part article series will help you prepare. In part 1, we start with a basic overview of Lotus Workplace installation, then discuss installing and configuring DB2, the first component in the process.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[High performance SQL]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/db2/library/techarticle/dm-0411rielau/ ?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Advanced SQL that helps DB2 UDB shatter TPC-C benchmark records can bring starring performance to your own database.  Find out how.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Develop database Web pages on Linux with DB2 and WebSphere Studio Application Developer]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/db2/library/techarticle/dm-0411czap/?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Get ready for rapid app development of Web pages that access a DB2 database on Linux.  Kevin Czap steps you through the process.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Access federated data sources: Modeling OLAP cubes through DB2 Information Integrator and DB2 Cube Views]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/i-dw-db2-iicv-i.html?S_TACT=104AMW11&S_CMP=***?ca=drs-p4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn how to integrate heterogeneous data in a business intelligence application, using DB2 Information Integrator and DB2 Cube Views.]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

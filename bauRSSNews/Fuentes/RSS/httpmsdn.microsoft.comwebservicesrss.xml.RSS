@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: Web Services</title>
+    <link>http://msdn.microsoft.com/webservices/</link>
+    <description>The latest information for developers on Web Services.</description>
+    <language>en-us</language>
+    <pubDate>Mon, 08 Nov 2004 17:34:04 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Nov 2004 17:34:04 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Updated Specifications on Web Services Transactions</title>
+      <description>Customer feedback has driven new updates to WS-AtomicTransaction, WS-BusinessActivity, and WS-Coordination.  Learn about additional support for two-way initialization, security composition, and more.</description>
+      <link>http://msdn.microsoft.com/webservices/default.aspx?pull=/library/en-us/dnglobspec/html/wsatspecindex.asp#wsatspecs</link>
+      <dc:creator>Karen Stash</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid isPermaLink="false">Iliad_7186</guid>
+      <pubDate>Mon, 08 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>An Introduction to the Web Services Architecture and Its Specifications</title>
+      <description>Get an introduction to the Web services architecture. This white paper describes the design principles underlying the architecture and foundational technologies for Web services.</description>
+      <link>http://msdn.microsoft.com/webservices/default.aspx?pull=/library/en-us/dnwebsrv/html/introwsa.asp</link>
+      <dc:creator>Felipe Cabrera, Chris Kurt</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid isPermaLink="false">Iliad_6912</guid>
+      <pubDate>Thu, 28 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Check Out the Updated WS-Discovery Specification</title>
+      <description>This updated version of WS-Discovery incorporates customer implementation experience, a new co-author, revised security considerations, and references to the latest versions of other specifications.</description>
+      <link>http://msdn.microsoft.com/webservices/understanding/specs/default.aspx?pull=/library/en-us/dnglobspec/html/wsmetaspecindex.asp#ws-discovery</link>
+      <dc:creator>Microsoft et. al.</dc:creator>
+      <category domain="msdndomain:ContentType">Specification</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid isPermaLink="false">Iliad_7157</guid>
+      <pubDate>Thu, 28 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Service Station: Improving Web Service Interoperability</title>
+      <description> Improving Web Service Interoperability</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/11/ServiceStation/default.aspx</link>
+      <dc:creator>Aaron Skonnard</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Interoperability</category>
+      <category domain="msdndomain:Subject">XML</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Web Services</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <guid isPermaLink="false">Iliad_7149</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The .NET Show: Connected Systems</title>
+      <description>In this episode, we talk with Don Box and Doug Purdy about how today's networking infrastructure can be utilized in order to create a Connected System environment, and why this is important. Later, Eric Schmidt and Richard Turner walk us through several coding demonstrations which illustrate how this can be implemented and utilized.</description>
+      <link>http://msdn.microsoft.com/theshow/episode046/default.asp</link>
+      <dc:creator>Robert Hess</dc:creator>
+      <category domain="msdndomain:ContentType">.NET Show</category>
+      <category domain="msdndomain:Subject">Networking</category>
+      <category domain="msdndomain:Subject">XML</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET</category>
+      <category domain="msdndomain:TechnologyVers">Smart Client</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:technology>ASP.NET</msdn:technology>
+      <msdn:technology>Smart Client</msdn:technology>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid isPermaLink="false">Iliad_7099</guid>
+      <pubDate>Tue, 12 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Management Specifications Index Page</title>
+      <description>A key distributed application area is the management of systems and devices. Web services offer a strong foundation for building robust and interoperable systems management solutions.</description>
+      <link>http://msdn.microsoft.com/webservices/understanding/specs/default.aspx?pull=/library/en-us/dnglobspec/html/wsmgmtspecindex.asp</link>
+      <dc:creator>John Justice</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid isPermaLink="false">Iliad_7064</guid>
+      <pubDate>Fri, 08 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web Services for Management (WS-Management)</title>
+      <description>This specification describes a general SOAP-based protocol for managing systems such as PCs, servers, devices, Web services and other applications, and other manageable entities.</description>
+      <link>http://msdn.microsoft.com/webservices/understanding/specs/default.aspx?pull=/library/en-us/dnglobspec/html/ws-management.asp</link>
+      <dc:creator>Microsoft et al</dc:creator>
+      <category domain="msdndomain:ContentType">Specification</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid isPermaLink="false">Iliad_7065</guid>
+      <pubDate>Fri, 08 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WS-Management Reshaping the Concept of Distributed Management</title>
+      <description>Designed to scale from small footprint controllers to enterprise class servers while maintaining security, WS-Management will help to create a common way of surfacing management-related operations and events within connected systems.</description>
+      <link>http://msdn.microsoft.com/webservices/default.aspx?pull=/library/en-us/dnglobspec/html/wsmgmtspecindex.asp#ws-management</link>
+      <dc:creator>John Justice</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:Subject">Standards specifications</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid isPermaLink="false">Iliad_7066</guid>
+      <pubDate>Fri, 08 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web Services Interoperability Guidance (WSIG): BEA WebLogic 8.1 SP3 (8.1.3</title>
+      <description>Get recommendations for achieving interoperability between Web services created using Microsoft .NET Framework 1.1 and BEA WebLogic 8.1.3.</description>
+      <link>http://msdn.microsoft.com/architecture/default.aspx?pull=/library/en-us/dnbda/html/WSInteropRecsBEA.asp</link>
+      <dc:creator>Simon Guest</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:Subject">Architecture</category>
+      <category domain="msdndomain:Subject">Interoperability</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <category domain="msdndomain:TechnologyVers">Web Services Enhancements 2.0</category>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Web Services</msdn:technology>
+      <msdn:technology>Web Services Enhancements 2.0</msdn:technology>
+      <guid isPermaLink="false">Iliad_6999</guid>
+      <pubDate>Thu, 30 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visit the New Web Services Interoperability Home</title>
+      <description>Check out the resources on the new Web Services Interoperability and Integration page to ensure your Web services applications will work across different platforms and toolsets.</description>
+      <link>http://msdn.microsoft.com/webservices/building/interop/</link>
+      <dc:creator>Microsoft</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:Subject">Architecture</category>
+      <category domain="msdndomain:Subject">Interoperability</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>.NET Framework 2.0</msdn:technology>
+      <msdn:technology>Web Services</msdn:technology>
+      <guid isPermaLink="false">Iliad_7041</guid>
+      <pubDate>Thu, 30 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

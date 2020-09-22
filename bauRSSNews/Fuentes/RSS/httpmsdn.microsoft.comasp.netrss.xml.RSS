@@ -1,0 +1,142 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[MSDN: ASP.NET]]></title>
+  <link><![CDATA[http://msdn.microsoft.com/asp.net/]]></link>
+  <description><![CDATA[Recently Published ASP.NET Content]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[]]></copyright>
+  <lastBuildDate><![CDATA[Thu, 11 Nov 2004 14:00:29 GMT]]></lastBuildDate>
+  <pubDate><![CDATA[Thu, 11 Nov 2004 14:00:29 GMT]]></pubDate>
+  <generator><![CDATA[MSDN RSS Service 1.0.1756.17695]]></generator>
+  <ttl><![CDATA[1440]]></ttl>
+  <image>
+    <title><![CDATA[]]></title>
+    <url><![CDATA[]]></url>
+    <link><![CDATA[]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Nothin' But ASP.NET: Use Cache, Save Cash]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnaspnet/html/asp11022004.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 02 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[ASP.NET 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7165]]></guid>
+    <description><![CDATA[Learn how to use database cache invalidation in ASP.NET 1.1 with a similar technique as the one used by ASP.NET 2.0.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Working with the ASP.NET 2.0 ObjectDataSource Control]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/asp.net/whidbey/default.aspx?pull=/library/en-us/dnvs05/html/asp2objectdatasource.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 28 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[ASP.NET 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7155]]></guid>
+    <description><![CDATA[Learn how to use the ObjectDataSource control to build a proper multi-tier Web application with the ASP.NET 2.0 Framework.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Using HTTP Modules and Handlers to Create Pluggable ASP.NET Components]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/elmah.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 25 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[ASP.NET]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7032]]></guid>
+    <description><![CDATA[Scott Mitchell and Atif Aziz show how to use HTTP modules and handlers to add error logging to your ASP.NET applications.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Introducing the ASP.NET 2.0 Web Parts Framework]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/asp.net/whidbey/default.aspx?pull=/library/en-us/dnvs05/html/webparts.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 20 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[ASP.NET 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7092]]></guid>
+    <description><![CDATA[Web Parts provide you with the infrastructure for creating customizable Web applications. When you build a Web site with Web Parts, the Web site can be easily customized by either the administrator of the Web site or the individual users of the Web site. Web Parts are all about flexibility.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[ASP.NET 2.0 Localization Features: A Fresh Approach to Localizing Web Applications]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/asp.net/whidbey/default.aspx?pull=/library/en-us/dnvs05/html/ASP2local.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 20 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[ASP.NET 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7125]]></guid>
+    <description><![CDATA[Creating global Web applications with Microsoft ASP.NET is becoming more and more important. ASP.NET 2.0 makes it even easier to provide support for multiple cultures and locales through improved runtime and tool support.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Dynamic Creation of Validation Controls]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/asp.net/using/building/webcontrols/default.aspx?pull=/library/en-us/dnaspp/html/aspdatastructures.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 20 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[ASP.NET]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7127]]></guid>
+    <description><![CDATA[Use an XML configuration file to control the dynamic creation of ASP.NET validation controls that are automatically applied to user input controls.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[A DetailsView Control for ASP.NET 1.x]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/asp.net/using/building/webcontrols/default.aspx?pull=/library/en-us/dnaspp/html/detailsview.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 12 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[ASP.NET]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7093]]></guid>
+    <description><![CDATA[Experience ASP.NET 2.0-like ease of development when building master/details views with ASP.NET 1.x with Dino Esposito's custom control.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[The .NET Show: Connected Systems]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/theshow/episode046/default.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 12 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[Web Services]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7099]]></guid>
+    <description><![CDATA[In this episode, we talk with Don Box and Doug Purdy about how today's networking infrastructure can be utilized in order to create a Connected System environment, and why this is important. Later, Eric Schmidt and Richard Turner walk us through several coding demonstrations which illustrate how this can be implemented and utilized.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Take Action on ASP.NET Vulnerability]]></title>
+    <link><![CDATA[http://www.microsoft.com/security/incident/aspnet.mspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 06 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[ASP.NET 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7061]]></guid>
+    <description><![CDATA[Protect against a vulnerability in all versions of ASP.NET, which could allow a Web site visitor to view secured content by using specially crafted requests to a Web server.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Take Action on ASP.NET Vulnerability]]></title>
+    <link><![CDATA[http://www.microsoft.com/security/incident/aspnet.mspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 06 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[ASP.NET 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7061]]></guid>
+    <description><![CDATA[Protect against a vulnerability in all versions of ASP.NET, which could allow a Web site visitor to view secured content by using specially crafted requests to a Web server.]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>
