@@ -1,0 +1,154 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[DevX: Latest Wireless Content]]></title>
+  <link><![CDATA[http://www.devx.com]]></link>
+  <description><![CDATA[Latest DevX Content]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[Copyright 2002 DevX]]></copyright>
+  <lastBuildDate><![CDATA[Wed, 01 Dec 2004 01:09:00 PST]]></lastBuildDate>
+  <pubDate><![CDATA[]]></pubDate>
+  <generator><![CDATA[]]></generator>
+  <ttl><![CDATA[]]></ttl>
+  <image>
+    <title><![CDATA[DevX]]></title>
+    <url><![CDATA[http://services.devx.com/outgoing/devxwire.gif]]></url>
+    <link><![CDATA[http://www.DevX.com]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Mobile-enable Your Existing Web Apps with ASP.NET 2.0]]></title>
+    <link><![CDATA[http://www.devx.com/wireless/Article/22552?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[sanjay@wirelessstrategist.com (Sanjay Shetty)]]></author>
+    <pubDate><![CDATA[Wed, 24 Nov 2004 17:01:52 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Besides adding a multitude of new features and more than 30+ new controls, Microsoft also made every control in ASP.NET 2.0 mobile aware. Learn how to leverage these new mobile capabilities and what bugs to avoid while mobile-enabling your Web-based applications.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Connecting a Smartphone 2003 Application to a Remoting Infrastructure]]></title>
+    <link><![CDATA[http://www.devx.com/dotnet/Article/22460?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[pubs2004@cdonner.com (Christian Donner)]]></author>
+    <pubDate><![CDATA[Fri, 12 Nov 2004 15:43:47 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Despite the fact that remoting is not currently supported in .NET Compact Framework applications running on the Smartphone 2003 platform, by using a third-party object request broker (ORB) you can interact with remote objects.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Build Better Mobile UIs with a New Brew Framework, Part II]]></title>
+    <link><![CDATA[http://www.devx.com/wireless/Article/22349?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[kf6gpe@arrl.net (Ray  Rischpater)]]></author>
+    <pubDate><![CDATA[Wed, 03 Nov 2004 13:57:48 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Build on what you learned in Part I of this series, and learn how to create multi-screen user interfaces, manage applications using forms, and work with the model-view-controller paradigm in BREW.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Test Ink, Test Ink, 1-2-3]]></title>
+    <link><![CDATA[http://www.devx.com/TabletPC/Article/22290?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[(Larry O'Brien) editorial@devx.com]]></author>
+    <pubDate><![CDATA[Thu, 28 Oct 2004 12:44:19 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Testing ink-based applications can be easy using NUnit--once you get the hang of it, that is...]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Shout from the Hilltops with the J2ME Wireless Messaging API]]></title>
+    <link><![CDATA[http://www.devx.com/wireless/Article/22266?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[dhemphill@mn.rr.com (David Hemphill)]]></author>
+    <pubDate><![CDATA[Tue, 26 Oct 2004 12:50:48 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Text messaging rapidly surfaced as the killer app of the wireless space. Find out how to integrate text messaging into your J2ME applications using the Wireless Messaging APIs.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Wireless Data Shot: Security and the Enterprise]]></title>
+    <link><![CDATA[http://www.devx.com/wireless/Article/22160?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[editorial@devx.com]]></author>
+    <pubDate><![CDATA[Thu, 14 Oct 2004 14:08:27 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[What is the main barrier to wireless security adoption? What kinds of wireless security would other developers be most likely to use? What is being used in the enterprise? Find out how your colleagues answered these questions in a recent survey by Evans Data Corp.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Build Better Mobile UIs with a New Brew Framework]]></title>
+    <link><![CDATA[http://www.devx.com/wireless/Article/21982?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[kf6gpe@arrl.net (Ray  Rischpater)]]></author>
+    <pubDate><![CDATA[Wed, 29 Sep 2004 18:21:54 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Qualcomm's new Brew UI Framework brings user themes, form management, a rich new pool of UI controls, and a model-view-controller architecture to the Brew platform. This article demonstrates how to make use of these new features with a sample app designed to track the money that changes hands at the local Starbucks.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Map J2ME Applications to Content Types with JSR-211 (CHAPI)]]></title>
+    <link><![CDATA[http://www.devx.com/wireless/Article/21958?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[herval@sollipsis.com (Herval Freire)]]></author>
+    <pubDate><![CDATA[Wed, 15 Sep 2004 13:04:31 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[If you've been frustrated when trying to write J2ME apps that communicate with other applications, help is at hand. This brand new J2ME API improves the way mobile devices handle content.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Open the Mobile Gateway with SMS and MMS Messaging]]></title>
+    <link><![CDATA[http://www.devx.com/wireless/Article/21882?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[scripting@rediffmail.com (Premshree Pillai)]]></author>
+    <pubDate><![CDATA[Thu, 02 Sep 2004 15:35:52 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[If you've ever used your mobile device to check your Yahoo! Mail or check the news, you've used a Short Messaging Service (SMS). This article takes you through the inner-workings of these near-ubiquitous services, finally demonstrating how to SMS-enable your weblog.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Master Networking in J2ME for Well-connected Mobile Apps]]></title>
+    <link><![CDATA[http://www.devx.com/wireless/Article/21871?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[dhemphill@mn.rr.com (David Hemphill)]]></author>
+    <pubDate><![CDATA[Wed, 01 Sep 2004 17:13:04 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[J2ME supports a Generic Connection Framework that provides a variety of standard network connectivity options. Find out how to take advantage of J2ME networking in your applications.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[CoDe Talks: Q&A with Steve Ballmer]]></title>
+    <link><![CDATA[http://www.devx.com/codemag/Article/22605?trk=DXRSS_WIFI]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[megger@eps-software.com (Markus Egger)]]></author>
+    <pubDate><![CDATA[Tue, 30 Nov 2004 19:13:40 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[From offshoring and open source to the Tablet PC and the promise of Longhorn, it's always enlightening to hear a few candid remarks about the state of the industry from the CEO of Microsoft. Steve Ballmer spoke to CoDe Magazine Publisher, Markus Egger via email about these subjects and several others.]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,178 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[DevX: Latest Published Articles]]></title>
+  <link><![CDATA[http://www.devx.com]]></link>
+  <description><![CDATA[Latest DevX Content]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[Copyright 2002 DevX]]></copyright>
+  <lastBuildDate><![CDATA[Wed, 01 Dec 2004 01:08:51 PST]]></lastBuildDate>
+  <pubDate><![CDATA[]]></pubDate>
+  <generator><![CDATA[]]></generator>
+  <ttl><![CDATA[]]></ttl>
+  <image>
+    <title><![CDATA[DevX]]></title>
+    <url><![CDATA[http://services.devx.com/outgoing/devxwire.gif]]></url>
+    <link><![CDATA[http://www.DevX.com]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Mobile-enable Your Existing Web Apps with ASP.NET 2.0]]></title>
+    <link><![CDATA[http://www.devx.com/wireless/Article/22552?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[sanjay@wirelessstrategist.com (Sanjay Shetty)]]></author>
+    <pubDate><![CDATA[Wed, 24 Nov 2004 17:01:52 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Besides adding a multitude of new features and more than 30+ new controls, Microsoft also made every control in ASP.NET 2.0 mobile aware. Learn how to leverage these new mobile capabilities and what bugs to avoid while mobile-enabling your Web-based applications.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Walking on Cloud 9.0 of Visual FoxPro]]></title>
+    <link><![CDATA[http://www.devx.com/codemag/Article/22393?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[editorial@devx.com]]></author>
+    <pubDate><![CDATA[Wed, 24 Nov 2004 00:00:00 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[The Visual FoxPro team at Microsoft is enthused to announce Visual FoxPro 9.0. Find out what their goals were and how they achieved them. ]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Use XMLBeans to Manage Multi-version XML]]></title>
+    <link><![CDATA[http://www.devx.com/xml/Article/22553?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[dsraghu@hotmail.com (Raghu Donepudi)]]></author>
+    <pubDate><![CDATA[Tue, 23 Nov 2004 21:29:23 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[XML version management can be a real pain point in integrated Web services applications. Learn how to handle it with XMLBeans.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Build Your Own Messaging Application in Java with jYMSG]]></title>
+    <link><![CDATA[http://www.devx.com/Java/Article/22546?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[kbhogal@us.ibm.com (Kulvir Singh Bhogal)]]></author>
+    <pubDate><![CDATA[Tue, 23 Nov 2004 19:20:19 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This new Java API provides you all the necessary functionality to build your own messaging application in conjunction with Yahoo's instant messaging and chat software. ]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Leverage JNLP and SOAP for Java Thick-client Development]]></title>
+    <link><![CDATA[http://www.devx.com/Java/Article/22537?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[tl082@yahoo.com (Allan Peda)]]></author>
+    <pubDate><![CDATA[Mon, 22 Nov 2004 15:24:04 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Although Java never quite lived up to its early promise of thick-client computing on the Web, intranets can benefit from the capabilities the JNLP protocol affords&mdash;especially when combined with the SOAP protocol.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Tracking and Resuming Large File Downloads in ASP.NET]]></title>
+    <link><![CDATA[http://www.devx.com/dotnet/Article/22533?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[alex@schaaf.com (Alexander Schaaf)]]></author>
+    <pubDate><![CDATA[Mon, 22 Nov 2004 10:54:45 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[It's notoriously difficult to deal with large file downloads in Web applications, so for most sites, woe betide users if their download gets interrupted. But it doesn't have to be that way; you can make your ASP.NET applications capable of serving resumable large-file downloads. While you're at it, you can track the download progress so you can handle dynamically created files&#151;and you can get all this without old-fashioned ISAPI DLLs and without unmanaged C++ code.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Extending the Visual FoxPro 9 Reporting System]]></title>
+    <link><![CDATA[http://www.devx.com/codemag/Article/22394?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[dhennig@stonefield.com (Doug Hennig)]]></author>
+    <pubDate><![CDATA[Mon, 22 Nov 2004 00:00:00 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[In this article, you'll learn about Visual FoxPro 9's report listener concept, how it receives events as a report runs, and how you can create your own listeners to provide different types of output in addition to print and preview.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[How InfiniPath Makes Its AMD High-Performance Clusters So Fast]]></title>
+    <link><![CDATA[http://www.devx.com/amd/Article/22534?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[zeichick@camdenassociates.com (Alan Zeichick)]]></author>
+    <pubDate><![CDATA[Fri, 19 Nov 2004 15:40:16 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Purpose-built to leverage the AMD Opteron processor's HyperTransport architecture, the new InfiniBand-based cluster interconnect from PathScale should improve HPC networking by an order of magnitude. Alan Zeichick explains how InfiniPath works.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[TierDeveloper 4.0 Enterprise Edition Review]]></title>
+    <link><![CDATA[http://www.devx.com/dotnet/Article/22526?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[alexhildyard@hotmail.com (Alex Hildyard)]]></author>
+    <pubDate><![CDATA[Fri, 19 Nov 2004 10:43:29 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[TierDeveloper 4.0 provides robust and intelligent O/R mapping capabilities, but its application-generation features fall short of the mark.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[COM Interop: Making .NET and VFP Talk to Each Other]]></title>
+    <link><![CDATA[http://www.devx.com/codemag/Article/22404?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[claudio@eps-software.com (Claudio Lassala)]]></author>
+    <pubDate><![CDATA[Fri, 19 Nov 2004 00:00:00 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Whether you use a COM component from .NET or a .NET component from a COM-enabled environment (such as VFP), COM Interop is the mechanism that allows for such interoperability.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[CoDe Talks: Q&A with Steve Ballmer]]></title>
+    <link><![CDATA[http://www.devx.com/codemag/Article/22605?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[megger@eps-software.com (Markus Egger)]]></author>
+    <pubDate><![CDATA[Tue, 30 Nov 2004 19:13:40 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[From offshoring and open source to the Tablet PC and the promise of Longhorn, it's always enlightening to hear a few candid remarks about the state of the industry from the CEO of Microsoft. Steve Ballmer spoke to CoDe Magazine Publisher, Markus Egger via email about these subjects and several others.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Understanding and Using .NET Partial Classes]]></title>
+    <link><![CDATA[http://www.devx.com/dotnet/Article/22603?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[wei_meng_lee@hotmail.com (Wei-Meng Lee)]]></author>
+    <pubDate><![CDATA[Tue, 30 Nov 2004 18:00:57 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn how to use partial classes for your .NET applications to improve code readability and maintainability.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Solaris 10: One Source Tree, Three Platforms]]></title>
+    <link><![CDATA[http://www.devx.com/amd/Article/22593?trk=DXRSS_LATEST]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[zeichick@camdenassociates.com (Alan Zeichick)]]></author>
+    <pubDate><![CDATA[Mon, 29 Nov 2004 17:31:37 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Sun's operating system upgrade offers compelling reasons for adoption, including full compatibility with 64-bit x86, new dynamic tracing of deployed applications in production environments, new developer tools, secure containers and a new pricing model that's competitive with Red Hat Windows. Alan Zeichick shares the highlights from Sun's Solaris 10 launch event.]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

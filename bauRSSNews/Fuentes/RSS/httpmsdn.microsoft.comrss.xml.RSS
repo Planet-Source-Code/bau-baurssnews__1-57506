@@ -1,0 +1,502 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[MSDN Just Published]]></title>
+  <link><![CDATA[http://msdn.microsoft.com/]]></link>
+  <description><![CDATA[Keep current with all the new technical articles, columns, specifications, and resources published on the Microsoft Developer Network (MSDN).]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[]]></copyright>
+  <lastBuildDate><![CDATA[Wed, 24 Nov 2004 22:11:49 GMT]]></lastBuildDate>
+  <pubDate><![CDATA[Wed, 24 Nov 2004 22:11:49 GMT]]></pubDate>
+  <generator><![CDATA[MSDN RSS Service 1.0.1756.17695]]></generator>
+  <ttl><![CDATA[1440]]></ttl>
+  <image>
+    <title><![CDATA[]]></title>
+    <url><![CDATA[]]></url>
+    <link><![CDATA[]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[.NET Rocks! - Juval Löwy on .NET 2.0]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/dotnetrocks/]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 04 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7183]]></guid>
+    <description><![CDATA[Juval Löwy joins Carl, Rory, and the gang this week for a romp through .NET 2.0 in all its glory.]]></description>
+    <status>Read</status>
+</item>
+<item>
+    <title><![CDATA[Wonders of Windows Forms: Custom Data Binding]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/vcsharp/using/columns/wonders/default.aspx?pull=/library/en-us/dnforms/html/winforms11162004.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 22 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Windows Forms]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7191]]></guid>
+    <description><![CDATA[Michael Weinhardt explores two techniques for turning a single custom type into a genuine list data source using the new data-binding workhorse, the DataConnector.]]></description>
+    <status>Deleted</status>
+</item>
+<item>
+    <title><![CDATA[MSDN TV: Software Factories - Assembling Applications Using Models, Patterns, Frameworks and Tools]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20041118SoftFact/manifest.xml]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 22 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Visual Studio 2005 Team System]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7236]]></guid>
+    <description><![CDATA[Learn about Software Factories - a rapid and flexible way to build systems using domain-specific tools, methods and content.]]></description>
+    <status>Read</status>
+</item>
+<item>
+    <title><![CDATA[.NET Rocks! - Juval Löwy on .NET 2.0]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/dotnetrocks/]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 04 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7183]]></guid>
+    <description><![CDATA[Juval Löwy joins Carl, Rory, and the gang this week for a romp through .NET 2.0 in all its glory.]]></description>
+    <status>Read</status>
+</item>
+<item>
+    <title><![CDATA[Tracing Data Access]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/data/default.aspx?pull=/library/en-us/dnadonet/html/tracingdataaccess.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Fri, 19 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Data Access]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7202]]></guid>
+    <description><![CDATA[Apply the tracing functionality in ADO.NET 2.0 to track down bugs and bottlenecks in your applications.]]></description>
+    <status>Read</status>
+</item>
+<item>
+    <title><![CDATA[Tutorial: Creating an Ad Hoc Report Application with Reporting Services]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql2k/html/AdHocRepSr.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Fri, 19 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7207]]></guid>
+    <description><![CDATA[New to .NET programming or Reporting Services? Get step-by-step instruction on creating a .NET application to create and publish reports using the Reporting Services API.]]></description>
+    <status>Read</status>
+</item>
+<item>
+    <title><![CDATA[New Stuff: Resources for Your Developer Toolbox]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/07/NewStuff/]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7079]]></guid>
+    <description><![CDATA[Products, add-ons and books to make your development life easier]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Code Secure: Browsing the Web and Reading E-mail Safely as an Administrator]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/security/securecode/columns/default.aspx?pull=/library/en-us/dncode/html/secure11152004.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Security]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7201]]></guid>
+    <description><![CDATA[Michael Howard discusses how you can run as an administrator and access Internet data safely by dropping unnecessary administrative privileges when using any tool to access the Internet.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Mobility: Optimize Your Pocket PC Development with the .NET Compact Framework]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/NETCompactFramework/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Win32 API]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7211]]></guid>
+    <description><![CDATA[Learn tricks and techniques to increase performance and decrease load time and memory footprints when building applications in the .NET Compact Framework.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Vrooooom: How .NET and C# Drove an Entry in the DARPA Grand Challenge]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/DARPAChallenge/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7212]]></guid>
+    <description><![CDATA[How .NET and C# Drove an Entry in the DARPA Grand Challenge]]></description>
+    <status>Read</status>
+</item>
+<item>
+    <title><![CDATA[.NET Internals: Tailor Your Application by Building a Custom Forms Designer with .NET]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/CustomFormsDesigner/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7213]]></guid>
+    <description><![CDATA[Tailor Your Application by Building a Custom Forms Designer with .NET]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[.NET Code Tuning: Make Your Apps Fly with the New Enterprise Performance Tool]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/EnterprisePerformance/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7214]]></guid>
+    <description><![CDATA[Make Your Apps Fly with the New Enterprise Performance Tool]]></description>
+    <status>Read</status>
+</item>
+<item>
+    <title><![CDATA[Web Q&A: Windowed and Windowless Elements, Cookie Characters, and More]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/WebQA/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[IIS (Internet Information Svc)]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7218]]></guid>
+    <description><![CDATA[Windowed and Windowless Elements, Cookie Characters, and More]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Advanced Basics: Calling All Operators]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/AdvancedBasics/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7219]]></guid>
+    <description><![CDATA[Calling All Operators]]></description>
+    <status>Read</status>
+</item>
+<item>
+    <title><![CDATA[Data Points: Efficient Coding With Strongly Typed DataSets]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/DataPoints/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[ADO.NET]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7220]]></guid>
+    <description><![CDATA[Efficient Coding With Strongly Typed DataSets]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Service Station: Run ASMX Without IIS]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/ServiceStation/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7222]]></guid>
+    <description><![CDATA[Service Station: Run ASMX Without IIS]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[.NET Matters: Asynchronous HttpWebRequests, Interface Implementation, and More]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/NETMatters/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[COM]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7223]]></guid>
+    <description><![CDATA[Asynchronous HttpWebRequests, Interface Implementation, and More]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[C++ Q&A: Deleting Managed Objects, Wrapping a Library, and More]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/CQA/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7224]]></guid>
+    <description><![CDATA[Deleting Managed Objects, Wrapping a Library, and More]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Building a Professional Stock Allocation System Using Visual Studio Tools for Office, Version 2003]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_vsto2003_ta/html/odc_VSTStockAllocation2003.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 17 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Visual Studio Tools for Office]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7051]]></guid>
+    <description><![CDATA[Learn how to work more efficiently by merging the rich user experience provided by Office 2003 with the enterprise-level development tools provided by Visual Studio 2003 and the .NET Framework 1.1.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Programming Publisher 2003 Made Easy: Lesson 5]]></title>
+    <link><![CDATA[http://www.msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_pb2003_ta/html/OfficePublisherMadeEasyFive.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 17 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[MS Office Publisher 2003]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7179]]></guid>
+    <description><![CDATA[In this last installment of the series, Andrew May discusses how to use the a method's return type, as well as how to use Visual Basic Help to get the information you need to write your macros.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Hosting a Native Windows Control within a Microsoft .NET Compact Framework Forms Control]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetcomp/html/HostingANativeWindowsControl.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 17 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Windows Forms]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7182]]></guid>
+    <description><![CDATA[Learn how to use a native Windows control in a custom .NET Compact Framework control to support two-way communication so events can be raised following user interaction.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Games Programming with Cheese: Part Four]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/library/?url=/library/en-us/dnsmtphn2k3/html/agameapplication.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 16 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Windows Forms]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7200]]></guid>
+    <description><![CDATA[Learn how to deploy a game on a Smartphone device using the .NET Compact Framework and Visual Studio 2003.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Smart Clients Defined]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/smartclient/understanding/definition/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 16 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Windows Forms]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7203]]></guid>
+    <description><![CDATA[Discover the key attributes of smart clients: an evolutionary step over rich client and web client applications, capturing the benefits of both and then adding to them.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Welcome to the MSDN Smart Client Developer Center: Rebooted]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/smartclient/community/edletters/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 16 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Windows Forms]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7204]]></guid>
+    <description><![CDATA[Jonathan Wells and Chris Sells introduce the new and improved Smart Client Developer Center: its goals, what's new and how to take the best advantage of this budding resource.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Migrating eVB Forms to Visual Basic .NET]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/library/?url=/library/en-us/dnppcgen/html/migrating_evb_forms.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 15 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Smartphone 2003]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7199]]></guid>
+    <description><![CDATA[Learn how to port the GUI part of an eMbedded Visual Basic application to .NET Compact Framework, using Visual Basic .NET.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Using CLR Integration in SQL Server 2005]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql90/html/sqlclrguidance.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Fri, 12 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7169]]></guid>
+    <description><![CDATA[Compare CLR-based programming models with SQL Server models such as Transact SQL and extended stored procedures. Get tips on how to choose a model, code samples, and more.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Managing Security Context Tokens in a Web Farm]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/webservices/default.aspx?pull=/library/en-us/dnwebsrv/html/sctinfarm.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Fri, 12 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Web Services]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7188]]></guid>
+    <description><![CDATA[See techniques for extending WSE 2.0 to manage the secure context token state across a farm hosting multiple instances of a service.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Help Integration Tool for Visual Studio 2005 Beta Products]]></title>
+    <link><![CDATA[https://secure.safaribooksonline.com/?mode=promo&promocode=vshi2005&portal=msdn]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 11 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_251]]></guid>
+    <description><![CDATA[Safari?s Visual Studio Help Integration (VSHI) tool lets you search across Safari?s online repository of over 2000 technical titles to find exactly the example or code fragment you need to answer the question at hand. Register today to download the free Safari VSHI trial version and gain full access to Safari?s e-reference library for 30 days at no charge.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Creating an Estimate Solution Using Visual Studio Tools for Office, Version 2005]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_vsto2005_ta/html/odc_vstoEstimateSampleSolution.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 10 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Visual Studio Tools for Office]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7049]]></guid>
+    <description><![CDATA[Learn about a basic order entry system that uses Excel 2003 for data entry, calculation, and charting capabilities, and Word 2003 for the generation of a report.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Enhancing Office 2003 Research Services with Graphics and Fancy Fonts]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/dno2k3ta/html/odc_rsFancyFonts.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 10 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Microsoft Office 2003]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7110]]></guid>
+    <description><![CDATA[Angela Wong demonstrates how to jazz up a Microsoft Office 2003 research service by displaying results using graphics and special fonts.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Using Visual C++ Toolkit 2003 from the Command Prompt]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/visualc/default.aspx?pull=/library/en-us/dv_vstechart/html/vctoolkitcmd.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 10 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7193]]></guid>
+    <description><![CDATA[Brian Johnson describes how to use the Microsoft Visual C++ compiler that ships with the Visual C++ Toolkit 2003 from the command line. This article is for beginners who've never used a command line compiler before.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[.NET Rocks! - Juval Löwy on .NET 2.0]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/dotnetrocks/]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 04 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7183]]></guid>
+    <description><![CDATA[Juval Löwy joins Carl, Rory, and the gang this week for a romp through .NET 2.0 in all its glory.]]></description>
+    <status>Read</status>
+</item>
+<item>
+    <title><![CDATA[Get Embedded: Updating Devices in the Field by Using Enhanced Write Filter and Device Update Agent]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/library/?url=/library/en-us/dnembedded/html/embedded11082004.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 10 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Windows XP Embedded]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7195]]></guid>
+    <description><![CDATA[Learn how to update an embedded image in the field that is running Enhanced Write Filter and Device Update Agent.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Updated Specifications on Web Services Transactions]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/webservices/default.aspx?pull=/library/en-us/dnglobspec/html/wsatspecindex.asp#wsatspecs]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 08 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Web Services]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7186]]></guid>
+    <description><![CDATA[Customer feedback has driven new updates to WS-AtomicTransaction, WS-BusinessActivity, and WS-Coordination.  Learn about additional support for two-way initialization, security composition, and more.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Critical Updates for Windows, Exchange, Office]]></title>
+    <link><![CDATA[http://www.microsoft.com/technet/security/bulletin/ms04-oct.mspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 08 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Windows]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7187]]></guid>
+    <description><![CDATA[Read the Microsoft security update for October 2004, which addresses newly discovered issues in Windows, Exchange, and Office.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[New DataSet Features in ADO.NET 2.0]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/data/default.aspx?pull=/library/en-us/dnadonet/html/datasetenhance.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Fri, 05 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[ADO.NET 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7181]]></guid>
+    <description><![CDATA[Get performance enhancements and improved functionality in the .NET Framework 2.0 DataSet class, and in the closely related DataTable and DataView classes.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[.NET in the Real World: Code Generators with .NET]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/vstudio/using/columns/realworld/default.aspx?pull=/library/en-us/dnreal/html/realworld11022004.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 04 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7170]]></guid>
+    <description><![CDATA[You're already using code generators whether you know it or not; might as well make the most of them. Pierre Couzy shows you how.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Developing by Tablet PC Software Using the Windows XP Tablet PC Edition 2005 Recognition Pack]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dntablet/html/TabPC05RcPk.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 04 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Windows XP Tablet PC Edition]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7171]]></guid>
+    <description><![CDATA[Learn to develop applications that use handwriting recognizers for Microsoft Windows XP Tablet PC Edition without a Tablet PC.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[.NET Rocks! - Juval Löwy on .NET 2.0]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/dotnetrocks/]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 04 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7183]]></guid>
+    <description><![CDATA[Juval Löwy joins Carl, Rory, and the gang this week for a romp through .NET 2.0 in all its glory.]]></description>
+    <status>Read</status>
+</item>
+<item>
+    <title><![CDATA[.NET Rocks! - Juval Löwy on .NET 2.0]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/dotnetrocks/]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 04 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7183]]></guid>
+    <description><![CDATA[Juval Löwy joins Carl, Rory, and the gang this week for a romp through .NET 2.0 in all its glory.]]></description>
+    <status>Read</status>
+</item>
+</channel>
+</rss>

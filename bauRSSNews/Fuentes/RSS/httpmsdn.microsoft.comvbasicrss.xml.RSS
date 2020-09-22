@@ -1,0 +1,178 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[MSDN: Visual Basic]]></title>
+  <link><![CDATA[http://msdn.microsoft.com/vbasic/]]></link>
+  <description><![CDATA[Recently Published Visual Basic Content]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[]]></copyright>
+  <lastBuildDate><![CDATA[Sat, 20 Nov 2004 14:00:22 GMT]]></lastBuildDate>
+  <pubDate><![CDATA[Sat, 20 Nov 2004 14:00:22 GMT]]></pubDate>
+  <generator><![CDATA[MSDN RSS Service 1.0.1756.17695]]></generator>
+  <ttl><![CDATA[1440]]></ttl>
+  <image>
+    <title><![CDATA[]]></title>
+    <url><![CDATA[]]></url>
+    <link><![CDATA[]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Using CLR Integration in SQL Server 2005]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql90/html/sqlclrguidance.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Fri, 12 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7169]]></guid>
+    <description><![CDATA[Compare CLR-based programming models with SQL Server models such as Transact SQL and extended stored procedures. Get tips on how to choose a model, code samples, and more.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[.NET Rocks! - Kate Gregory]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/dotnetrocks/]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Wed, 10 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[Visual Studio Tools for Office]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7194]]></guid>
+    <description><![CDATA[Kate Gregory talks to Carl about the new C++, why she prefers Visual Basic .NET over C#, Visual Studio Tools for Office, OOP, Sockets, and merry old England!]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[New DataSet Features in ADO.NET 2.0]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/data/default.aspx?pull=/library/en-us/dnadonet/html/datasetenhance.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Fri, 05 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[ADO.NET 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7181]]></guid>
+    <description><![CDATA[Get performance enhancements and improved functionality in the .NET Framework 2.0 DataSet class, and in the closely related DataTable and DataView classes.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[.NET in the Real World: Code Generators with .NET]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/vstudio/using/columns/realworld/default.aspx?pull=/library/en-us/dnreal/html/realworld11022004.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 04 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7170]]></guid>
+    <description><![CDATA[You're already using code generators whether you know it or not; might as well make the most of them. Pierre Couzy shows you how.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Visual Basic Developer: Database Developer Corner: Passing Data via Web Services]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnhcvb04/html/vb04i7.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 01 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7160]]></guid>
+    <description><![CDATA[Visual Basic columnist Carl Ganz shows you how to pass structured data such as DataSets and custom objects to and from Web Services and also provides some performance tips.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Visual Studio .NET Developer: Coding for Concurrency in ADO.NET]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/vstudio/default.aspx?pull=/library/en-us/dnhcvs04/html/vs04i1.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Mon, 01 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[ADO.NET]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7161]]></guid>
+    <description><![CDATA[Visual Studio writer Rick Dobson shows you how optimistic concurrency works and how to make your applications more robust in high-scalability environments.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Working with the ASP.NET 2.0 ObjectDataSource Control]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/asp.net/whidbey/default.aspx?pull=/library/en-us/dnvs05/html/asp2objectdatasource.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 28 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[ASP.NET 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7155]]></guid>
+    <description><![CDATA[Learn how to use the ObjectDataSource control to build a proper multi-tier Web application with the ASP.NET 2.0 Framework.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Using My.Settings in Visual Basic 2005]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnvs05/html/vbmysettings.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 26 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7126]]></guid>
+    <description><![CDATA[Learn how the My.Settings class has made storing application and user settings much simpler in Visual Basic 2005.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Language Enhancements in Visual Basic 2005]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnvs05/html/LanguageEnhancements.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Tue, 26 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[Windows]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7145]]></guid>
+    <description><![CDATA[Learn about the new features in Visual Basic 2005, including XML comments, generics, Global keyword, partial types, My, and more.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[MSDN TV: Drag Once Databinding for Client Apps]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20041021VSTUDIOSL/manifest.xml]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 21 Oct 2004 07:00:00 GMT]]></pubDate>
+    <category><![CDATA[Windows Forms]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7131]]></guid>
+    <description><![CDATA[Visual Studio 2005 introduces a new set of features to quickly build data-bound applications. In this episode, Steve Lasker demonstrates the Drag Once Databinding features, including some enhancements since Beta 1.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Tutorial: Creating an Ad Hoc Report Application with Reporting Services]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql2k/html/AdHocRepSr.asp]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Fri, 19 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7207]]></guid>
+    <description><![CDATA[New to .NET programming or Reporting Services? Get step-by-step instruction on creating a .NET application to create and publish reports using the Reporting Services API.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[New Stuff: Resources for Your Developer Toolbox]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/07/NewStuff/]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework 2.0]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7079]]></guid>
+    <description><![CDATA[Products, add-ons and books to make your development life easier]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Advanced Basics: Calling All Operators]]></title>
+    <link><![CDATA[http://msdn.microsoft.com/msdnmag/issues/04/12/AdvancedBasics/default.aspx]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 08:00:00 GMT]]></pubDate>
+    <category><![CDATA[.NET Framework]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[Iliad_7219]]></guid>
+    <description><![CDATA[Calling All Operators]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

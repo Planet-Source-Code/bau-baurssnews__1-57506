@@ -1,0 +1,202 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[DevX: Recent Tips Feed]]></title>
+  <link><![CDATA[http://www.devx.com]]></link>
+  <description><![CDATA[Latest DevX Content]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[Copyright 2002 DevX]]></copyright>
+  <lastBuildDate><![CDATA[Wed, 01 Dec 2004 01:09:01 PST]]></lastBuildDate>
+  <pubDate><![CDATA[]]></pubDate>
+  <generator><![CDATA[]]></generator>
+  <ttl><![CDATA[]]></ttl>
+  <image>
+    <title><![CDATA[DevX]]></title>
+    <url><![CDATA[http://services.devx.com/outgoing/devxwire.gif]]></url>
+    <link><![CDATA[http://www.DevX.com]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Shutdown/Restart Windows Without Long API Calls]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22532?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Jamin Wong A-13-3a, Aman Puri  editorial@devx.com]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 19:04:56 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This tip tells you how you can shutdown or restart Windows with one line of code, avoiding those long API calls.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[How to Determine the Item Selected from a Property Grid Drop-down List]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22531?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Vladimir Shaposhnik set37@go.com]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 18:49:48 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[In Visual Studio, when you select an item on a form you're building, the Property Grid appears and lets you set various properties (e.g. background color, width, height, text color, etc.) from a two-column table. This tip shows how to know which item a user selects from the drop-down list.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Favor the Function Object to the Function Pointer in STL Algorithms]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22530?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Saurabh Ramya saurabhramya@yahoo.com]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 17:32:10 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Many of the STL algorithms have two versions, with one version taking one less parameter than what the second version takes. Learn the difference between the function pointer and the function object and why one is more effective than the other.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[A Better Way to Validate a Node Checkbox in a Treeview]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22529?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Eric van emrvblokland@planet.nl]]></author>
+    <pubDate><![CDATA[Thu, 18 Nov 2004 15:48:33 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This tip provides a workaround for validating a noce checkbox in a treeview.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Persist Java Objects in a File and Retrieve Them Later]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22523?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Amit Tuli amittuli@yahoo.com]]></author>
+    <pubDate><![CDATA[Wed, 17 Nov 2004 20:46:48 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This tip explains how to persist a Java object in a file which can be retrieved back later.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Registering ActiveX Files]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22402?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Ita Taka takaita@gmail.com]]></author>
+    <pubDate><![CDATA[Mon, 08 Nov 2004 19:17:46 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Find out an easy way to register ActiveX files.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Generate HTML Reports from Scheduled SQL Server Maintenance Activities]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22401?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Parthasarathy Mandayam mcp111@hotmail.com]]></author>
+    <pubDate><![CDATA[Mon, 08 Nov 2004 19:01:02 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn how to use the SQLMAINT application to automatically generate a user-friendly, Web-based report of uitlity activities.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Set Two Items of a Property Grid from the Drop-down List]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22399?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Vladimir Shaposhnik set37@go.com]]></author>
+    <pubDate><![CDATA[Mon, 08 Nov 2004 18:46:58 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[The example in this tip demonstrates the technique for setting two items of a property grid from the drop-down list]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Read Time Zone Names Stored in the Registry]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22398?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Dinesh  Asanka dineshasanka@yahoo.com]]></author>
+    <pubDate><![CDATA[Mon, 08 Nov 2004 18:28:44 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[The following code reads the time zone names stored in the registry and places those names in a combobox.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Create a Taxonomy in UDDI Using UDDI4J]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22397?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Sujata  De sujata.de@hp.com]]></author>
+    <pubDate><![CDATA[Mon, 08 Nov 2004 17:33:07 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn how to create a tModel taxonomy in UDDI for WSDL specifications using UDDI4J.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Find the nth Maximum and Minimum Values in a Given Column]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22607?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Sridhar MS editorial@devx.com]]></author>
+    <pubDate><![CDATA[Tue, 30 Nov 2004 18:42:31 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This SQL code retrieves the nth Maximum and nth Minimum values in the column specified in <COLUMNNAME> from the table <TABLENAME>.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Partially Optional Function Parameters in VBScript 5.0+]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22606?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Parthasarathy Mandayam mcp111@hotmail.com]]></author>
+    <pubDate><![CDATA[Tue, 30 Nov 2004 18:14:54 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Did you know that VBScript doesn't require you to provide all of a function's parameters when you call it? Learn how to use this feature with this tip.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Use the "Service Locator" Design Pattern with the J2EE Architechture]]></title>
+    <link><![CDATA[http://www.devx.com/DevX/Tip/22604?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Mouli Chandra write2mouli@yahoo.com]]></author>
+    <pubDate><![CDATA[Tue, 30 Nov 2004 17:36:40 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[xxxxx]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Using STL Binders]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22597?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Saurabh Ramya saurabhramya@yahoo.com]]></author>
+    <pubDate><![CDATA[Mon, 29 Nov 2004 17:34:34 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Learn how to use STL binders to use binary function objects as unary function objects in many STL algorithms which need them.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Use java.util.Observable to Monitor Object State changes]]></title>
+    <link><![CDATA[http://www.devx.com/tips/Tip/22592?trk=DXRSS_recentTips]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[Amit Tuli amittuli@yahoo.com]]></author>
+    <pubDate><![CDATA[Mon, 29 Nov 2004 16:50:26 PST]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Use the class java.util.Observable to monitor Java objects for any change in their states.]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

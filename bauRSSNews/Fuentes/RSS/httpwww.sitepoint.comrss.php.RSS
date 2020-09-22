@@ -1,0 +1,238 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[SitePoint.com]]></title>
+  <link><![CDATA[http://www.sitepoint.com/]]></link>
+  <description><![CDATA[With a vast variety of web design tutorials and articles coupled with a vibrant and well informed community, SitePoint is the natural place to go to grow your online business.]]></description>
+  <language><![CDATA[]]></language>
+  <copyright><![CDATA[]]></copyright>
+  <lastBuildDate><![CDATA[]]></lastBuildDate>
+  <pubDate><![CDATA[]]></pubDate>
+  <generator><![CDATA[]]></generator>
+  <ttl><![CDATA[]]></ttl>
+  <image>
+    <title><![CDATA[SitePoint.com]]></title>
+    <url><![CDATA[http://www.sitepoint.com/images/sitepoint-logo.gif]]></url>
+    <link><![CDATA[http://www.sitepoint.com/]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[The CSS Anthology: 101 Essential Tips, Tricks and Hacks, Chapter 3 - CSS and Images]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/css-anthology-tips-tricks-3]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Combine CSS and images to create powerful visual effects. Chapter 3 of The CSS Anthology: 101 Essential Tips, Tricks and Hacks explains how you can use CSS with images to create great effects, incuding background images and positioning text with images.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Interview - Zack Urlocker of MySQL]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/interview-zack-urlocker-mysql]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[MySQL is the database solution of choice for countless sites around the world. How did MySQL get so big? Who's behind it? How is the product developed? And what's in store for future releases? Zack Urlocker, Vice President for Marketing at MySQL, reveals all in this detailed interview...]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Introducing Java 5]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/introducing-java-5]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Java 5 marks a major step forward for this capable technology. There's a lot to take in, so don't go it alone! Andy's done the legwork for you in this handy introduction, which steps through all the new functionality in theory - and in practice!]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[The CSS Anthology: 101 Essential Tips, Tricks and Hacks, Chapter 2 - Text Styling and Other Basics]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/css-anthology-tips-tricks-2]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Style and format text in your documents, and learn the finer points of font sizing, colors, and the removal of annoying extra white space around page elements with Chapter 2 of The CSS Anthology: 101 Essential Tips, Tricks and Hacks. Hone your style and boost your skills -- Rachel shows you how.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Secret Benefits of Search Engine Optimisation: Increased Usability]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/increased-usability]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[A better search ranking - and improved usability - are not mutually exclusive tasks. In fact, optimise your site for search engines and you can automatically enhance your usability. Here, Trenton identifies the tips, and explains how and why they work.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Build a WebDav-Enabled Intranet With eZ publish]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/build-intranet-ez-publish]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Every organization needs to communicate internally, and an intranet is a great tool for the job. In this hands-on tute, Bard shows how easy it is to install, configure, and build an intranet - including the administration system and user interface - using the latest release of eZ publish.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[The CSS Anthology: 101 Essential Tips, Tricks and Hacks, Chapter 1 - Getting Started with CSS]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/css-anthology-tips-tricks-1]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[In this, the first chapter from The CSS Anthology: 101 Essential Tips, Tricks and Hacks, Rachel provides a fast primer for those who want to brush up their CSS skills before they embark on the finer points of text styling, image manipulation, navigation and more.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Swift 3D 4.0 - The Web Designer's True Hope]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/swift-3d-review]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Take a 3D scene and translate it into a smooth, low-fat, Flash-ready 2D file. Impossible? Improbable? Not with Swift 3D 4.0 from Electric Rain. As Alex explains, this well-priced tool is packed with valuable functionality that will let you create professional animations easily.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[How To Code HTML Email Newsletters]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/code-html-email-newsletters]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Browser idiosyncracies, spam registers, and various mail clients are just some of the pitfalls that must be faced by email marketers. Make sure your HTML email gets through with Tim's essential how-to.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Hardening Apache - A Conversation with the Author]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/hardening-apache]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[The lack of decent Apache security titles prompted Tony Mobily to pen Hardening Apache, the new, definitive reference on the subject. Here, Blane talks with Tony about the technology, the book, and the future...]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Build A Simple Style Switcher in CSS]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/css-simple-style-switcher]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Allow users to see your site the way they want! With CSS and your favourite server-side language, you can build a functional, cross-browser compatible style switcher that improves accessibility and the user experience overall. Laurence shows how it's done.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Use Amazon Web Services in ASP.NET]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/amazon-web-services-asp-net]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Amazon Web Services can push fresh content to your site, and help you make some cash in the process. Use ASP.NET with the Amazon Web Service to query the company's catalogue and return results to your site -- Philip's practical tutorial shows how.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[The Four Essentials of Modern Web Design]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/essentials-modern-web-design]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Web Essentials 04, a 2-day conference held in Sydney, Australia, invited speakers such as Dave Shea, Douglas Bowman and Russ Weakley to explore the four key pillars of Web design. Jason was on-site, and provides a snapshop summary in this review.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Create XP-style Icons Using Illustrator or Freehand]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/create-xp-style-icons]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Cool XP-style icons are within your capabilities! Corrie creates vector graphics to replicate XP icons - and design her own - in the last of her 3-part series on vector graphics.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[JSP Quick-Start Guide for Windows]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/quick-start-guide-windows]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Looking to get started with JSP? Use Kev's detailed guide to set up and try out a JSP-capable server under Windows. Newly updated for use with Tomcat 5.0.28 and Apache 2.0.52!]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[The CSS Anthology: 101 Essential Tips, Tricks and Hacks, Chapter 4 - Navigation]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/css-anthology-tips-tricks-4]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Build navigation, CSS-style! Rachael discusses CSS replacements for image-based navigation, and CSS tab navigation. She combines background images with CSS text to create attractive and accessible menus, and uses lists to structure navigation in an accessible way.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Win Back Top Listing! Protect Your Business Identity in the Search Engines]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/win-back-top-listing]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Defamatory comments about your company can sometimes out-rank your own site in search results. Make sure the results for a search on your company name list information that you endorse -- Dave explains how.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[From Independent Contractor to Business Owner: How to Take the Leap]]></title>
+    <link><![CDATA[http://www.sitepoint.com/article/become-a-business-owner]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[Countless freelancers want to build their businesses into bigger organizations, but don't know where to start. Andrew's step-by-step guide to taking the leap towards sustainable business provides the answers.]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

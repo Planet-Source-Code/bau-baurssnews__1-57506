@@ -1,0 +1,46 @@
+<?xml version='1.0'  encoding='iso-8859-1' ?>
+ <!-- generator='bauRSSNews/1.0.0' -->
+ <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>
+<channel>
+  <title><![CDATA[IBM developerWorks Open source projects]]></title>
+  <link><![CDATA[http://www.ibm.com/developerworks/oss/index.html?ca=drs-o4904]]></link>
+  <description><![CDATA[The latest content from IBM developerWorks Open source projects]]></description>
+  <language><![CDATA[en-us]]></language>
+  <copyright><![CDATA[Copyright 2003 IBM Corporation.]]></copyright>
+  <lastBuildDate><![CDATA[]]></lastBuildDate>
+  <pubDate><![CDATA[Mon, 29 Nov 2004 09:30:13 -0500]]></pubDate>
+  <generator><![CDATA[]]></generator>
+  <ttl><![CDATA[]]></ttl>
+  <image>
+    <title><![CDATA[IBM developerWorks Open source projects]]></title>
+    <url><![CDATA[http://www-106.ibm.com/developerworks/i/dwlogo-small.gif]]></url>
+    <link><![CDATA[http://www.ibm.com/developerworks/oss/index.html?ca=drs-o4904]]></link>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+  </image>
+<item>
+    <title><![CDATA[Build a Web service using the Eclipse Web Tools Platform]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/os-dw-os-wtpservice-i.html?ca=drs-o4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This tutorial shows how to build a Web service using the Eclipse Web Tools Platform. The Web service interacts with a Cloudscape (Apache Derby) database and is deployed to Apache Tomcat.]]></description>
+    <status>New</status>
+</item>
+<item>
+    <title><![CDATA[Build a Web-based client with the Eclipse Web Tools Platform]]></title>
+    <link><![CDATA[http://www.ibm.com/developerworks/edu/os-dw-os-wtpclient-i.html?ca=drs-o4904]]></link>
+    <comments><![CDATA[]]></comments>
+    <author><![CDATA[]]></author>
+    <pubDate><![CDATA[]]></pubDate>
+    <category><![CDATA[]]></category>
+    <subject><![CDATA[]]></subject>
+    <guid isPermaLink='false'><![CDATA[]]></guid>
+    <description><![CDATA[This tutorial shows how to build a complete Web-based auction client application using the Eclipse Web Tools Platform. The auction client accesses a Cloudscape (Apache Derby) database that houses auction stock, as well as a remote auction Web service.]]></description>
+    <status>New</status>
+</item>
+</channel>
+</rss>

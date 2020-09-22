@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>Recently Posted MSDN TV Episodes</title>
+    <link>http://msdn.microsoft.com/msdntv/</link>
+    <description>The latest MSDN TV episodes for developers.</description>
+    <language>en-us</language>
+    <pubDate>Sat, 20 Nov 2004 14:00:28 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Nov 2004 14:00:28 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>MSDN TV: Software Factories - Assembling Applications Using Models, Patterns, Frameworks and Tools</title>
+      <description>Learn about Software Factories - a rapid and flexible way to build systems using domain-specific tools, methods and content.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20041118SoftFact/manifest.xml</link>
+      <dc:creator>Keith Short and Jack Greenfield</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:Subject">Architecture</category>
+      <category domain="msdndomain:Subject">Patterns</category>
+      <category domain="msdndomain:TechnologyVers">Visual Studio 2005 Team System</category>
+      <msdn:technology>Visual Studio 2005 Team System</msdn:technology>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <guid isPermaLink="false">Iliad_7236</guid>
+      <pubDate>Fri, 19 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: Writing Managed Code for SQL Server 2005 Using Visual Studio 2005</title>
+      <description>SQL Server 2005 allows users to write managed code that runs on the server. Visual Studio 2005 makes it easy to build stored procedures, functions, triggers, data types and aggregates in managed code. Milind Lele shows how to create, deploy, and debug a user defined data type (UDT) in Visual Basic.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20041104SQLServerML/manifest.xml</link>
+      <dc:creator>Milind Lele</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:TechnologyVers">Common Language Runtime (CLR)</category>
+      <msdn:technology>Common Language Runtime (CLR)</msdn:technology>
+      <msdn:product>SQL Server 2005</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <guid isPermaLink="false">Iliad_7185</guid>
+      <pubDate>Thu, 04 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: Drag Once Databinding for Client Apps</title>
+      <description>Visual Studio 2005 introduces a new set of features to quickly build data-bound applications. In this episode, Steve Lasker demonstrates the Drag Once Databinding features, including some enhancements since Beta 1.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20041021VSTUDIOSL/manifest.xml</link>
+      <dc:creator>Steve Lasker</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:TechnologyVers">Windows Forms</category>
+      <msdn:technology>Windows Forms</msdn:technology>
+      <msdn:product>Visual Basic</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <guid isPermaLink="false">Iliad_7131</guid>
+      <pubDate>Thu, 21 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: Advanced Orchestration Concepts in BizTalk Server 2004 - Convoy Processing</title>
+      <description>Erik Leaseburg demonstrates an advanced BizTalk orchestration design pattern called Convoys (more formally known as concurrent or sequential correlated receives).</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20041014BizTalkEL/manifest.xml</link>
+      <dc:creator>Erik Leaseburg</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">BizTalk Server 2004</category>
+      <category domain="msdndomain:Subject">Business solutions</category>
+      <msdn:product>BizTalk Server 2004</msdn:product>
+      <guid isPermaLink="false">Iliad_7107</guid>
+      <pubDate>Thu, 14 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: .NET Smart Client Applications</title>
+      <description>Hear Tim and Shawn discuss the buzz around the .NET Smart Client Application Revolution. They discuss what a smart client application is by defining its attributes, business &amp; ROI impacts, and Tim shows some powerful tools and technologies that are used to build them.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040930SmartClientTH/manifest.xml</link>
+      <dc:creator>Tim Huckaby</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">Visual Basic .NET</category>
+      <category domain="msdndomain:ProductVers">Visual Studio Tools for Office</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Smart Client</category>
+      <category domain="msdndomain:TechnologyVers">Windows Forms</category>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Smart Client</msdn:technology>
+      <msdn:technology>Windows Forms</msdn:technology>
+      <msdn:product>Visual Basic .NET</msdn:product>
+      <msdn:product>Visual Studio Tools for Office</msdn:product>
+      <guid isPermaLink="false">Iliad_7040</guid>
+      <pubDate>Thu, 30 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: Introducing Visual Basic Express</title>
+      <description>Watch Jay Roxe show how the streamlined IDE of Visual Basic Express makes development approachable to novice developers but still allows the power of the Windows Forms designers and Visual Basic language.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040923VBASICJR/manifest.xml</link>
+      <dc:creator>Jay Roxe</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">Visual Basic 2005 Express Ed</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005 Express Ed</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework 2.0</msdn:technology>
+      <msdn:product>Visual Basic</msdn:product>
+      <msdn:product>Visual Basic 2005 Express Ed</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <msdn:product>Visual Studio 2005 Express Ed</msdn:product>
+      <guid isPermaLink="false">Iliad_7014</guid>
+      <pubDate>Thu, 23 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: New Visual Studio Tools Features for Web Developers</title>
+      <description>Watch Brian Goldfarb demo some of the new tools enhancements to both the design editor and code editor, which include validation, IntelliSense improvements, source code preservation, and more.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040916VSTUDIOBG/manifest.xml</link>
+      <dc:creator>Brian Goldfarb</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:ProductVers">Visual Web Developer 2005 Exp</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+      <msdn:technology>ASP.NET 2.0</msdn:technology>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <msdn:product>Visual Web Developer 2005 Exp</msdn:product>
+      <guid isPermaLink="false">Iliad_6985</guid>
+      <pubDate>Thu, 16 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: Using Managed Resources</title>
+      <description>Ahmed Abou-Taleb and Brian Grunkemeyer show you how to work with managed resources using the .NET Framework resources model and describe new resources features in the next version of Visual Studio.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040826netaa/manifest.xml</link>
+      <dc:creator>Ahmed Abou-Taleb</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Common Language Runtime (CLR)</category>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Common Language Runtime (CLR)</msdn:technology>
+      <msdn:product>Visual Studio .NET 2003</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <guid isPermaLink="false">Iliad_6904</guid>
+      <pubDate>Thu, 26 Aug 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: Interview with Steve McConnell</title>
+      <description>Watch Shawn Morrissey from MSDN talk with Steve McConnell, author of Code Complete, about updates in the recently published second version, software process, agile development, and more.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040819CodeSM/manifest.xml</link>
+      <dc:creator>Steve McConnell</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Development</category>
+      <category domain="msdndomain:Subject">Development tools</category>
+      <category domain="msdndomain:Subject">Processes</category>
+      <guid isPermaLink="false">Iliad_6880</guid>
+      <pubDate>Thu, 19 Aug 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: WSE 2.0 Adapter for BizTalk Server 2004</title>
+      <description>Watch Scott Woodgate show how to use the latest secure Web Services technology with BizTalk Server 2004. Both consume a secure Web Service and expose a business process as a secure Web Service.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040812biztalksw/manifest.xml</link>
+      <dc:creator>Scott Woodgate</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">BizTalk Server 2004</category>
+      <category domain="msdndomain:Subject">Web services</category>
+      <category domain="msdndomain:TechnologyVers">Web Services</category>
+      <category domain="msdndomain:TechnologyVers">Web Services Enhancements 2.0</category>
+      <msdn:technology>Web Services</msdn:technology>
+      <msdn:technology>Web Services Enhancements 2.0</msdn:technology>
+      <msdn:product>BizTalk Server 2004</msdn:product>
+      <guid isPermaLink="false">Iliad_6850</guid>
+      <pubDate>Thu, 12 Aug 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

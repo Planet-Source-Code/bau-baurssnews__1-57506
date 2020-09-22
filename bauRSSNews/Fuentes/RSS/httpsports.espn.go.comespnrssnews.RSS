@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" 	xmlns:dc="http://purl.org/dc/elements/1.1/"	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"	xmlns:admin="http://webns.net/mvcb/"	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+	<title>ESPN.com</title>
+	<link>http://espn.go.com/</link>	<description>Latest news from ESPN.com</description>
+	<language>en-us</language>
+	<lastBuildDate>Wed, 1 Dec 2004 03:52:59 PST</lastBuildDate>
+	<docs>http://backend.userland.com/rss</docs>
+	<managingEditor>webmaster@espn.go.com</managingEditor>
+ <image> 
+     <url>http://ak-sports.espn.go.com/f/1917/8668/6H/espn.go.com/i/tvlistings/tv_espn_original.gif</url>
+	<title>ESPN logo</title>
+	<link>http://espn.go.com</link>
+	<width>84</width>
+	<height>34</height>
+ </image> 
+ <ttl>30</ttl> 
+	<dc:rights>Copyright 2004</dc:rights>
+	<admin:generatorAgent rdf:resource="http://espn.go.com/rss/?v=0.9beta"/>
+	<admin:errorReportsTo rdf:resource="mailto:customer.service@espn.go.com"/>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<item rdf:about="http://sports.espn.go.com/chat/sportsnation/story?page=041129ncfawards&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[Story]]></dc:creator>
+<title><![CDATA[Vote: College Football Awards]]></title>
+<description><![CDATA[Vote: College Football Awards<br /><br /> by Story]]></description>
+<pubDate>Tue, 30 Nov 2004 12:59:48 PST</pubDate>
+<guid>http://sports.espn.go.com/chat/sportsnation/story?page=041129ncfawards&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/chat/sportsnation/story?page=041129ncfawards&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/nfl/news/story?id=1934933&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[ESPN.com news services]]></dc:creator>
+<title><![CDATA[Butch Davis out as coach of Browns]]></title>
+<description><![CDATA[Coordinator Robiskie gets interim nod<br /><br /> by ESPN.com news services]]></description>
+<pubDate>Tue, 30 Nov 2004 20:34:55 PST</pubDate>
+<guid>http://sports.espn.go.com/nfl/news/story?id=1934933&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/nfl/news/story?id=1934933&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/nfl/news/story?id=1934933&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[ESPN.com news services]]></dc:creator>
+<title><![CDATA[Butch Davis out as coach of Browns]]></title>
+<description><![CDATA[Coordinator Robiskie gets interim nod<br /><br /> by ESPN.com news services]]></description>
+<pubDate>Tue, 30 Nov 2004 20:34:55 PST</pubDate>
+<guid>http://sports.espn.go.com/nfl/news/story?id=1934933&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/nfl/news/story?id=1934933&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/nba/news/story?id=1935140&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[Associated Press]]></dc:creator>
+<title><![CDATA[Prosecutor: Pacers players to be charged]]></title>
+<description><![CDATA[Players may face assault and battery charges<br /><br /> by Associated Press]]></description>
+<pubDate>Tue, 30 Nov 2004 22:19:48 PST</pubDate>
+<guid>http://sports.espn.go.com/nba/news/story?id=1935140&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/nba/news/story?id=1935140&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/nba/recap?gameId=241130006&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[Recap]]></dc:creator>
+<title><![CDATA[Spurs foil Johnson's coaching debut with Mavs]]></title>
+<description><![CDATA[Mavs overtaken by Spurs' fourth-quarter rally<br /><br /> by Recap]]></description>
+<pubDate>Wed, 1 Dec 2004 00:07:07 PST</pubDate>
+<guid>http://sports.espn.go.com/nba/recap?gameId=241130006&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/nba/recap?gameId=241130006&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/mlb/news/story?id=1934787&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[ESPN.com news services]]></dc:creator>
+<title><![CDATA[Reports: Mets offer Pedro $38M guaranteed]]></title>
+<description><![CDATA[Red Sox now must decide: Salary arbitration?<br /><br /> by ESPN.com news services]]></description>
+<pubDate>Tue, 30 Nov 2004 21:08:50 PST</pubDate>
+<guid>http://sports.espn.go.com/mlb/news/story?id=1934787&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/mlb/news/story?id=1934787&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/ncf/news/story?id=1935080&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[ESPN.com news services]]></dc:creator>
+<title><![CDATA[Bowl roundup: Gators feeling Peachy?]]></title>
+<description><![CDATA[Peach Bowl eyes Gators<br /><br /> by ESPN.com news services]]></description>
+<pubDate>Tue, 30 Nov 2004 16:46:01 PST</pubDate>
+<guid>http://sports.espn.go.com/ncf/news/story?id=1935080&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/ncf/news/story?id=1935080&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/ncf/news/story?id=1935444&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[ESPN.com news services]]></dc:creator>
+<title><![CDATA[USC guru Chow says Stanford hasn't called]]></title>
+<description><![CDATA[Chow's name always comes up<br /><br /> by ESPN.com news services]]></description>
+<pubDate>Tue, 30 Nov 2004 17:19:19 PST</pubDate>
+<guid>http://sports.espn.go.com/ncf/news/story?id=1935444&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/ncf/news/story?id=1935444&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/espn/news/story?id=1935157&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[ESPN.com news services]]></dc:creator>
+<title><![CDATA[Ebersol crash probe looks at ice, other factors]]></title>
+<description><![CDATA[De-icing not sole focus; voice recorder found<br /><br /> by ESPN.com news services]]></description>
+<pubDate>Tue, 30 Nov 2004 19:39:17 PST</pubDate>
+<guid>http://sports.espn.go.com/espn/news/story?id=1935157&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/espn/news/story?id=1935157&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/espn/page3/story?page=jeopardy/041130&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[Associated Press]]></dc:creator>
+<title><![CDATA[Page 3: 'Jeopardy' streak is over]]></title>
+<description><![CDATA[Who is the inimitable Ken Jennings?<br /><br /> by Associated Press]]></description>
+<pubDate>Tue, 30 Nov 2004 20:23:23 PST</pubDate>
+<guid>http://sports.espn.go.com/espn/page3/story?page=jeopardy/041130&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/espn/page3/story?page=jeopardy/041130&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/nba/news/story?id=1935461&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[Associated Press]]></dc:creator>
+<title><![CDATA[Stern issues security guidelines for NBA arenas]]></title>
+<description><![CDATA[New arena security guidelines to take effect<br /><br /> by Associated Press]]></description>
+<pubDate>Tue, 30 Nov 2004 21:59:38 PST</pubDate>
+<guid>http://sports.espn.go.com/nba/news/story?id=1935461&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/nba/news/story?id=1935461&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/nfl/news/story?id=1935403&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[Associated Press]]></dc:creator>
+<title><![CDATA[Back to Vinny: Parcells tabs Testaverde as QB]]></title>
+<description><![CDATA[Tuna: 'Best chance to win' is Vinny<br /><br /> by Associated Press]]></description>
+<pubDate>Tue, 30 Nov 2004 15:21:28 PST</pubDate>
+<guid>http://sports.espn.go.com/nfl/news/story?id=1935403&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/nfl/news/story?id=1935403&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/mlb/news/story?id=1935356&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[Associated Press]]></dc:creator>
+<title><![CDATA[D.C. Council caps new ballpark cost at $630M]]></title>
+<description><![CDATA[New location will be needed if overbudget<br /><br /> by Associated Press]]></description>
+<pubDate>Tue, 30 Nov 2004 17:30:25 PST</pubDate>
+<guid>http://sports.espn.go.com/mlb/news/story?id=1935356&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/mlb/news/story?id=1935356&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/nba/news/story?id=1934554&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[Associated Press]]></dc:creator>
+<title><![CDATA[Kirilenko put on injured list; Jazz tap Humphries]]></title>
+<description><![CDATA[All-Star forward's sprained knee needs rest<br /><br /> by Associated Press]]></description>
+<pubDate>Tue, 30 Nov 2004 19:08:23 PST</pubDate>
+<guid>http://sports.espn.go.com/nba/news/story?id=1934554&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/nba/news/story?id=1934554&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/oly/news/story?id=1934983&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[Associated Press]]></dc:creator>
+<title><![CDATA[Cycling team fires Hamilton after positive tests]]></title>
+<description><![CDATA[Hamilton third Phonak member dismissed for doping<br /><br /> by Associated Press]]></description>
+<pubDate>Tue, 30 Nov 2004 12:54:54 PST</pubDate>
+<guid>http://sports.espn.go.com/oly/news/story?id=1934983&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/oly/news/story?id=1934983&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://soccernet.espn.go.com/headlinenews?id=317966&amp;cc=5901&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[External]]></dc:creator>
+<title><![CDATA[Trinidad up next as U.S. vies for World Cup bid]]></title>
+<description><![CDATA[ <br /><br /> by External]]></description>
+<pubDate>Tue, 30 Nov 2004 11:45:14 PST</pubDate>
+<guid>http://soccernet.espn.go.com/headlinenews?id=317966&amp;cc=5901&amp;CMP=OTC-DT9705204233</guid>
+<link>http://soccernet.espn.go.com/headlinenews?id=317966&amp;cc=5901&amp;CMP=OTC-DT9705204233</link>
+</item>
+<item rdf:about="http://sports.espn.go.com/mlb/news/story?id=1934399&amp;CMP=OTC-DT9705204233">
+<dc:creator><![CDATA[Associated Press]]></dc:creator>
+<title><![CDATA[Boggs, Strawberry headline Hall ballot]]></title>
+<description><![CDATA[McGee also among first-timers on ballot<br /><br /> by Associated Press]]></description>
+<pubDate>Tue, 30 Nov 2004 08:20:28 PST</pubDate>
+<guid>http://sports.espn.go.com/mlb/news/story?id=1934399&amp;CMP=OTC-DT9705204233</guid>
+<link>http://sports.espn.go.com/mlb/news/story?id=1934399&amp;CMP=OTC-DT9705204233</link>
+</item>
+</channel></rss>

@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: FrontPage</title>
+    <link>http://msdn.microsoft.com/office/frontpage/</link>
+    <description>The latest technical information on Microsoft FrontPage for developers.</description>
+    <language>en-us</language>
+    <pubDate>Sat, 09 Oct 2004 13:01:11 GMT</pubDate>
+    <lastBuildDate>Sat, 09 Oct 2004 13:01:11 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1742.22984</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Working with HTML Using the FrontPage 2003 Object Model</title>
+      <description>Learn how to use the FrontPage 2003 Visual Basic for Applications object model to programmatically add or modify the HTML in a Web page.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpWorkingWithHTMLProgrammatically.asp</link>
+      <dc:creator>Lisa Wollin</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">HTML</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+      <msdn:developmentLanguage>HTML</msdn:developmentLanguage>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office FrontPage 2003</msdn:product>
+      <guid>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpWorkingWithHTMLProgrammatically.asp</guid>
+      <pubDate>Tue, 28 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Changing the Location Attribute for the ParameterBindings Element of the Data View Web Part in FrontPage 2003</title>
+      <description>Your data is in Windows SharePoint Services, your page is in FrontPage 2003, and you want to create a custom view of your data. Impossible? No! Read this article to learn how to create that view by using a lesser-known capability of the Data View Web Part.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpParameterBinding.asp</link>
+      <dc:creator>Lisa Wollin</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+      <category domain="msdndomain:TechnologyVers">Web Parts</category>
+      <msdn:technology>Web Parts</msdn:technology>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office FrontPage 2003</msdn:product>
+      <guid>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpParameterBinding.asp</guid>
+      <pubDate>Mon, 13 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Creating Managed FrontPage 2003 Add-ins in C#</title>
+      <description>Leverage the power of the Microsoft .NET Framework to create managed add-ins for FrontPage 2003. Lisa Wollin not only explains what you need to know but also provides form and code files that you can use as the basis for your own FrontPage add-ins.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpManagedFrontPageAddIns.asp</link>
+      <dc:creator>Lisa Wollin</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+      <category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office FrontPage 2003</msdn:product>
+      <msdn:product>Visual Studio .NET 2003</msdn:product>
+      <guid>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpManagedFrontPageAddIns.asp</guid>
+      <pubDate>Wed, 04 Aug 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introduction to Web Technologies for FrontPage Users</title>
+      <description>Intimidated by the alphabet soup of Web technologies? ASP.NET, CGI, CSS, ECMA, PHP, XSLT—the list goes on and on. Lisa Wollin sorts, explains, and provides you with the resources you need to make sense of the world of Web development.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpGettingStartedWithWebDev.asp</link>
+      <dc:creator>Lisa Wollin</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+      <category domain="msdndomain:TechnologyVers">Web</category>
+      <msdn:technology>Web</msdn:technology>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office FrontPage 2003</msdn:product>
+      <guid>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpGettingStartedWithWebDev.asp</guid>
+      <pubDate>Tue, 29 Jun 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office FrontPage 2003 Inside Out: Companion CD Content: Sending Custom E-Mail</title>
+      <description>Jim Buyens, author of the Microsoft Press book Microsoft Office FrontPage 2003 Inside Out, shows you how to harness the power of ASP and ASP.NET to create exactly the e-mail format you need. It's easier than you think.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_bk/html/odc_fpSendingCustomEMail.asp</link>
+      <dc:creator>Jim Buyens</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+      <category domain="msdndomain:TechnologyVers">email</category>
+      <msdn:technology>email</msdn:technology>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office FrontPage 2003</msdn:product>
+      <guid>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_bk/html/odc_fpSendingCustomEMail.asp</guid>
+      <pubDate>Wed, 09 Jun 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Automating Repetitive Tasks in FrontPage 2003</title>
+      <description>Tired of repeatedly performing the same task in FrontPage? Learn everything you need to create your own macros in this new article from Lisa Wollin.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpAutomatingRepetitiveTasks.asp</link>
+      <dc:creator>Lisa Wollin</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office FrontPage 2003</msdn:product>
+      <guid>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpAutomatingRepetitiveTasks.asp</guid>
+      <pubDate>Wed, 02 Jun 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office FrontPage 2003 (Page Object Model) VBA Language Reference</title>
+      <description>The VBA Language Reference for Microsoft FrontPage 2003 (Page Object Model), containing new objects, methods, properties, and more, is now available in the MSDN Library.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vbafpd11/html/fdmscNewObjects.asp</link>
+      <dc:creator>Microsoft</dc:creator>
+      <category domain="msdndomain:ContentType">Large Docset</category>
+      <category domain="msdndomain:DevLangVers">VBA</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+      <category domain="msdndomain:ProductVers">VBA</category>
+      <msdn:developmentLanguage>VBA</msdn:developmentLanguage>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office FrontPage 2003</msdn:product>
+      <msdn:product>VBA</msdn:product>
+      <guid>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vbafpd11/html/fdmscNewObjects.asp</guid>
+      <pubDate>Tue, 01 Jun 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office FrontPage 2003 (Web Object Model) VBA Language Reference</title>
+      <description>The VBA Language Reference for Microsoft FrontPage 2003 (Web Object Model), containing new objects, methods, properties, and more, is now available in the MSDN Library.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vbafpw11/html/fptocOMMap.asp</link>
+      <dc:creator>Microsoft</dc:creator>
+      <category domain="msdndomain:ContentType">Large Docset</category>
+      <category domain="msdndomain:DevLangVers">VBA</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+      <category domain="msdndomain:ProductVers">VBA</category>
+      <msdn:developmentLanguage>VBA</msdn:developmentLanguage>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office FrontPage 2003</msdn:product>
+      <msdn:product>VBA</msdn:product>
+      <guid>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vbafpw11/html/fptocOMMap.asp</guid>
+      <pubDate>Tue, 01 Jun 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Customizing Code Snippets in FrontPage 2003</title>
+      <description>Tired of typing that code again and again? Learn the easy way to create and use custom code snippet files in FrontPage 2003. Then discover how to extend the code snippet feature in any way you want.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpCustomizingSnippets.asp</link>
+      <dc:creator>Lisa Wollin</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office FrontPage 2003</msdn:product>
+      <guid>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpCustomizingSnippets.asp</guid>
+      <pubDate>Wed, 19 May 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Working with HTML DOCTYPE Declarations in FrontPage</title>
+      <description>Discover exactly what those mysterious DOCTYPE declarations really do and then put them to use in your own Web pages.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpWorkingWithDocType.asp</link>
+      <dc:creator>Lisa Wollin</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+      <category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+      <msdn:product>Microsoft Office 2003</msdn:product>
+      <msdn:product>MS Office FrontPage 2003</msdn:product>
+      <guid>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/odc_fpWorkingWithDocType.asp</guid>
+      <pubDate>Wed, 12 May 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

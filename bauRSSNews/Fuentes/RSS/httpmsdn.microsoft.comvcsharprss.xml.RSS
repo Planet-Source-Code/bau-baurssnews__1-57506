@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: Visual C#</title>
+    <link>http://msdn.microsoft.com/vcsharp/</link>
+    <language>en-us</language>
+    <pubDate>Fri, 08 Oct 2004 13:00:18 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Oct 2004 13:00:18 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1741.24049</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Creating Web Application Themes in ASP.NET 2.0</title>
+      <description>Learn to use cascading style sheets and images with themes in ASP.NET 2.0, and how you can dynamically load themes at run time.</description>
+      <link>http://msdn.microsoft.com/asp.net/whidbey/default.aspx?pull=/library/en-us/dnvs05/html/themes.asp</link>
+      <dc:creator>Stephen Walther</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">BASIC</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Web development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+      <msdn:developmentLanguage>BASIC</msdn:developmentLanguage>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:technology>ASP.NET 2.0</msdn:technology>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <guid>http://msdn.microsoft.com/asp.net/whidbey/default.aspx?pull=/library/en-us/dnvs05/html/themes.asp</guid>
+      <pubDate>Wed, 06 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Take Action on ASP.NET Vulnerability</title>
+      <description>Protect against a vulnerability in all versions of ASP.NET, which could allow a Web site visitor to view secured content by using specially crafted requests to a Web server.</description>
+      <link>http://www.microsoft.com/security/incident/aspnet.mspx</link>
+      <dc:creator>Microsoft</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:DevLangVers">BASIC</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:ProductVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">Visual Basic.NET</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+      <msdn:developmentLanguage>BASIC</msdn:developmentLanguage>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:technology>ASP.NET</msdn:technology>
+      <msdn:technology>ASP.NET 2.0</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <msdn:product>Visual Basic</msdn:product>
+      <msdn:product>Visual Basic.NET</msdn:product>
+      <guid>http://www.microsoft.com/security/incident/aspnet.mspx</guid>
+      <pubDate>Wed, 06 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Digital Ink Signatures - Concepts and Technologies</title>
+      <description>White paper about how to design and implement Tablet PC applications that efficiently utilize digital ink signatures for identity validation.</description>
+      <link>http://msdn.microsoft.com/mobility/default.aspx?pull=/library/en-us/dntablet/html/tbconinksig.asp</link>
+      <dc:creator>Leszynski Group, Inc</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:ProductVers">Windows</category>
+      <category domain="msdndomain:ProductVers">Windows XP Tablet PC Edition</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:product>Windows</msdn:product>
+      <msdn:product>Windows XP Tablet PC Edition</msdn:product>
+      <guid>http://msdn.microsoft.com/mobility/default.aspx?pull=/library/en-us/dntablet/html/tbconinksig.asp</guid>
+      <pubDate>Mon, 04 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adding a Custom Application to Microsoft CRM: Account Team Management</title>
+      <description>This article describes how to build and integrate a custom Web application into the Microsoft CRM Web client. Using the demonstrated techniques, a Microsoft CRM developer can build a Web application that adds new capabilities to the Microsoft CRM Web client.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmbscrm1_2/html/mbs_crmCAAT.asp</link>
+      <dc:creator>Peter Hecke</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:ProductVers">MS Customer Relationship Mgmt</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Business solutions</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:product>MS Customer Relationship Mgmt</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmbscrm1_2/html/mbs_crmCAAT.asp</guid>
+      <pubDate>Fri, 24 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moving External Data into Microsoft CRM: Lead Generation</title>
+      <description>This article describes how to collect customer provided information from a public (Internet) Web server and pass the data through a corporate firewall into the Microsoft CRM database. The customer information is inserted into the Microsoft CRM database as a new lead object.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmbscrm1_2/html/mbs_crmLdGn.asp</link>
+      <dc:creator>Peter Hecke</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">MS Customer Relationship Mgmt</category>
+      <category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+      <category domain="msdndomain:Subject">Business solutions</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <category domain="msdndomain:TechnologyVers">.NET Security</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:technology>.NET Security</msdn:technology>
+      <msdn:product>MS Customer Relationship Mgmt</msdn:product>
+      <msdn:product>Visual Studio .NET 2003</msdn:product>
+      <guid>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmbscrm1_2/html/mbs_crmLdGn.asp</guid>
+      <pubDate>Fri, 24 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Talking With Navision: Say hello to Navision and Expect Navision To Be Polite</title>
+      <description>Navision is perceived by many as a closed application, in the sense that integrating the ERP with other technologies is not possible. The main purpose of this article is to show a way through this concern.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnav/html/TkNavision.asp</link>
+      <dc:creator>Manuel Oliveira</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:DevLangVers">XML</category>
+      <category domain="msdndomain:ProductVers">Excel</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">Business solutions</category>
+      <category domain="msdndomain:TechnologyVers">Automation</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:developmentLanguage>XML</msdn:developmentLanguage>
+      <msdn:technology>Automation</msdn:technology>
+      <msdn:product>Excel</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnav/html/TkNavision.asp</guid>
+      <pubDate>Mon, 20 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Debugger Visualizer Using Visual Studio 2005 Beta 1</title>
+      <description>Learn how to build a visualizer to customize the display of data when you are debugging managed code.</description>
+      <link>http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dnvs05/html/SimpleVisualizerCreation.asp</link>
+      <dc:creator>Scott Nonnenberg</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:ProductVers">Visual C# 8.0</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:ProductVers">Windows</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <category domain="msdndomain:TechnologyVers">Debugging and Error Handling</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:technology>Debugging and Error Handling</msdn:technology>
+      <msdn:product>Visual C# 8.0</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <msdn:product>Windows</msdn:product>
+      <guid>http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dnvs05/html/SimpleVisualizerCreation.asp</guid>
+      <pubDate>Thu, 16 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bootstrapper: Use the Visual Studio 2005 Bootstrapper to Kick-Start Your Installation</title>
+      <description>Find out what the Boostrapper can do for you</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/10/Bootstrapper/default.aspx</link>
+      <dc:creator>Sean Draine</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">Visual Studio</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:product>Visual Studio</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <guid>http://msdn.microsoft.com/msdnmag/issues/04/10/Bootstrapper/default.aspx</guid>
+      <pubDate>Wed, 15 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET Internals: Examine Running Processes Using Both Managed and Unmanaged Code</title>
+      <description>Get the goods on your running processes</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/10/NETProcessBrowser/default.aspx</link>
+      <dc:creator>Christophe Nasarre</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid>http://msdn.microsoft.com/msdnmag/issues/04/10/NETProcessBrowser/default.aspx</guid>
+      <pubDate>Wed, 15 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASP.NET 2.0: Speed Up Your Site with the Improved View State in ASP.NET 2.0</title>
+      <description>View state in ASP.NET 2.0 has lots to offer!</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/10/ViewState/default.aspx</link>
+      <dc:creator>Fritz Onion</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">ASP</category>
+      <category domain="msdndomain:DevLangVers">CSharp</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:TechnologyVers">.NET Frameworks</category>
+      <category domain="msdndomain:TechnologyVers">Active Server Pages</category>
+      <category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+      <msdn:developmentLanguage>ASP</msdn:developmentLanguage>
+      <msdn:developmentLanguage>CSharp</msdn:developmentLanguage>
+      <msdn:technology>.NET Frameworks</msdn:technology>
+      <msdn:technology>Active Server Pages</msdn:technology>
+      <msdn:technology>ASP.NET 2.0</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <guid>http://msdn.microsoft.com/msdnmag/issues/04/10/ViewState/default.aspx</guid>
+      <pubDate>Wed, 15 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

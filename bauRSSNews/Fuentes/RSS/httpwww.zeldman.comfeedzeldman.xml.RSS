@@ -1,0 +1,56 @@
+<?xml  version="1.0"?> 
+<rss version="2.0"> 
+
+<channel> 
+
+<title>Jeffrey Zeldman Presents: The Daily Report</title> 
+<description>Web design news, info, and insights since 1995. CSS layout, XHTML, usability, accessibility. Designing with web standards. ISSN #1534-0309.</description> 
+<link>http://www.zeldman.com/</link>
+
+<item> 
+<title>ALA 189</title> 
+<description>Invasion of the Body Switchers.</description> 
+<link>http://www.zeldman.com/daily/1104c.shtml</link> 
+</item>
+
+<item> 
+<title>Suck it up</title> 
+<description>A personal note from the author.</description> 
+<link>http://www.zeldman.com/daily/1104c.shtml#suck</link> 
+</item>
+
+<item> 
+<title>Spam wars, nothing but spam wars</title> 
+<description>What to give the aunt or uncle who has everything else.</description> 
+<link>http://www.zeldman.com/daily/1104c.shtml#spamwars</link> 
+</item>
+
+<item> 
+<title>Crawling from the wreckage</title> 
+<description>The bitch is back. And not just back, but back with stuff. Zeldman video and interview. Non-Flash slides via Couloir and Clagnut. Goto Guides for good little web girls and boys.</description> 
+<link>http://www.zeldman.com/daily/1104b.shtml</link> 
+</item>
+
+
+<item> 
+<title>That New Parent Smell</title> 
+<description>Photo phunnies.</description> 
+<link>http://www.zeldman.com/abc/</link> 
+</item>
+
+<item> 
+<title>I confess</title> 
+<description>She is young, wild, and incoherent...</description> 
+<link>http://www.zeldman.com/daily/1004a.shtml</link> 
+</item>
+
+<item> 
+<title>You light up my iLife</title> 
+<description>Book review. Strongly recommended.</description> 
+<link>http://www.zeldman.com/daily/0904d.shtml</link> 
+</item>
+
+
+
+</channel> 
+</rss> 

@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: Mobility and Embedded</title>
+    <link>http://msdn.microsoft.com/mobility/</link>
+    <description>The latest technical information on mobile and embedded technologies for developers.</description>
+    <language>en-us</language>
+    <pubDate>Thu, 25 Nov 2004 14:00:24 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Nov 2004 14:00:24 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Mobility: Optimize Your Pocket PC Development with the .NET Compact Framework</title>
+      <description>Learn tricks and techniques to increase performance and decrease load time and memory footprints when building applications in the .NET Compact Framework.</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/NETCompactFramework/default.aspx</link>
+      <dc:creator>Dave Edson and John Socha-Leialoha</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:TechnologyVers">.NET Compact Framework</category>
+      <category domain="msdndomain:TechnologyVers">Win32 API</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:technology>.NET Compact Framework</msdn:technology>
+      <msdn:technology>Win32 API</msdn:technology>
+      <guid isPermaLink="false">Iliad_7211</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vrooooom: How .NET and C# Drove an Entry in the DARPA Grand Challenge</title>
+      <description>How .NET and C# Drove an Entry in the DARPA Grand Challenge</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/DARPAChallenge/default.aspx</link>
+      <dc:creator>John Hind</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:ProductVers">Windows XP</category>
+      <category domain="msdndomain:TechnologyVers">.NET Compact Framework</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:technology>.NET Compact Framework</msdn:technology>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>Windows XP</msdn:product>
+      <guid isPermaLink="false">Iliad_7212</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hosting a Native Windows Control within a Microsoft .NET Compact Framework Forms Control</title>
+      <description>Learn how to use a native Windows control in a custom .NET Compact Framework control to support two-way communication so events can be raised following user interaction.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetcomp/html/HostingANativeWindowsControl.asp</link>
+      <dc:creator>Peter Foot</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:ProductVers">Visual Studio Tools for Office</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">Mobility</category>
+      <category domain="msdndomain:TechnologyVers">.NET Compact Framework</category>
+      <category domain="msdndomain:TechnologyVers">Smart Client</category>
+      <category domain="msdndomain:TechnologyVers">Windows Forms</category>
+      <msdn:technology>.NET Compact Framework</msdn:technology>
+      <msdn:technology>Smart Client</msdn:technology>
+      <msdn:technology>Windows Forms</msdn:technology>
+      <msdn:product>Visual Studio Tools for Office</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7182</guid>
+      <pubDate>Wed, 17 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Games Programming with Cheese: Part Four</title>
+      <description>Learn how to deploy a game on a Smartphone device using the .NET Compact Framework and Visual Studio 2003.</description>
+      <link>http://msdn.microsoft.com/library/?url=/library/en-us/dnsmtphn2k3/html/agameapplication.asp</link>
+      <dc:creator>Rob Miles</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:ProductVers">Visual Studio Tools for Office</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">Mobility</category>
+      <category domain="msdndomain:TechnologyVers">.NET Compact Framework</category>
+      <category domain="msdndomain:TechnologyVers">Pocket PC</category>
+      <category domain="msdndomain:TechnologyVers">Pocket PC 2003</category>
+      <category domain="msdndomain:TechnologyVers">Smart Client</category>
+      <category domain="msdndomain:TechnologyVers">Smartphone</category>
+      <category domain="msdndomain:TechnologyVers">Smartphone 2003</category>
+      <category domain="msdndomain:TechnologyVers">Windows Forms</category>
+      <msdn:technology>.NET Compact Framework</msdn:technology>
+      <msdn:technology>Pocket PC</msdn:technology>
+      <msdn:technology>Pocket PC 2003</msdn:technology>
+      <msdn:technology>Smart Client</msdn:technology>
+      <msdn:technology>Smartphone</msdn:technology>
+      <msdn:technology>Smartphone 2003</msdn:technology>
+      <msdn:technology>Windows Forms</msdn:technology>
+      <msdn:product>Visual Studio Tools for Office</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7200</guid>
+      <pubDate>Tue, 16 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smart Clients Defined</title>
+      <description>Discover the key attributes of smart clients: an evolutionary step over rich client and web client applications, capturing the benefits of both and then adding to them.</description>
+      <link>http://msdn.microsoft.com/smartclient/understanding/definition/default.aspx</link>
+      <dc:creator>jwells</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:ProductVers">Visual Studio Tools for Office</category>
+      <category domain="msdndomain:Subject">Mobility</category>
+      <category domain="msdndomain:TechnologyVers">.NET Compact Framework</category>
+      <category domain="msdndomain:TechnologyVers">Smart Client</category>
+      <category domain="msdndomain:TechnologyVers">Windows Forms</category>
+      <msdn:technology>.NET Compact Framework</msdn:technology>
+      <msdn:technology>Smart Client</msdn:technology>
+      <msdn:technology>Windows Forms</msdn:technology>
+      <msdn:product>Visual Studio Tools for Office</msdn:product>
+      <guid isPermaLink="false">Iliad_7203</guid>
+      <pubDate>Tue, 16 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Welcome to the MSDN Smart Client Developer Center: Rebooted</title>
+      <description>Jonathan Wells and Chris Sells introduce the new and improved Smart Client Developer Center: its goals, what's new and how to take the best advantage of this budding resource.</description>
+      <link>http://msdn.microsoft.com/smartclient/community/edletters/default.aspx</link>
+      <dc:creator>csells, jwells</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:ProductVers">Visual Studio Tools for Office</category>
+      <category domain="msdndomain:Subject">Mobility</category>
+      <category domain="msdndomain:TechnologyVers">.NET Compact Framework</category>
+      <category domain="msdndomain:TechnologyVers">Smart Client</category>
+      <category domain="msdndomain:TechnologyVers">Windows Forms</category>
+      <msdn:technology>.NET Compact Framework</msdn:technology>
+      <msdn:technology>Smart Client</msdn:technology>
+      <msdn:technology>Windows Forms</msdn:technology>
+      <msdn:product>Visual Studio Tools for Office</msdn:product>
+      <guid isPermaLink="false">Iliad_7204</guid>
+      <pubDate>Tue, 16 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Migrating eVB Forms to Visual Basic .NET</title>
+      <description>Learn how to port the GUI part of an eMbedded Visual Basic application to .NET Compact Framework, using Visual Basic .NET.</description>
+      <link>http://msdn.microsoft.com/library/?url=/library/en-us/dnppcgen/html/migrating_evb_forms.asp</link>
+      <dc:creator>Pete Vickers</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">embedded Visual Basic</category>
+      <category domain="msdndomain:Subject">Mobility</category>
+      <category domain="msdndomain:TechnologyVers">.NET Compact Framework</category>
+      <category domain="msdndomain:TechnologyVers">Pocket PC</category>
+      <category domain="msdndomain:TechnologyVers">Pocket PC 2003</category>
+      <category domain="msdndomain:TechnologyVers">Smartphone</category>
+      <category domain="msdndomain:TechnologyVers">Smartphone 2003</category>
+      <msdn:developmentLanguage>embedded Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Compact Framework</msdn:technology>
+      <msdn:technology>Pocket PC</msdn:technology>
+      <msdn:technology>Pocket PC 2003</msdn:technology>
+      <msdn:technology>Smartphone</msdn:technology>
+      <msdn:technology>Smartphone 2003</msdn:technology>
+      <guid isPermaLink="false">Iliad_7199</guid>
+      <pubDate>Mon, 15 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Embedded: Updating Devices in the Field by Using Enhanced Write Filter and Device Update Agent</title>
+      <description>Learn how to update an embedded image in the field that is running Enhanced Write Filter and Device Update Agent.</description>
+      <link>http://msdn.microsoft.com/library/?url=/library/en-us/dnembedded/html/embedded11082004.asp</link>
+      <dc:creator>Aaron Stebner</dc:creator>
+      <category domain="msdndomain:ContentType">Column</category>
+      <category domain="msdndomain:ProductVers">Windows XP Embedded</category>
+      <msdn:product>Windows XP Embedded</msdn:product>
+      <guid isPermaLink="false">Iliad_7195</guid>
+      <pubDate>Wed, 10 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Receiving SMS Messages Inside a Managed Application</title>
+      <description>Learn how to get SMS messages in a managed application without the SMS message appearing in the Inbox, and without showing a bubble notification when the SMS message arrives.</description>
+      <link>http://msdn.microsoft.com/mobility/default.aspx?pull=/library/en-us/dnnetcomp/html/ReceivingSMSMessages.asp</link>
+      <dc:creator>PTS Software</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">embedded Visual Basic</category>
+      <category domain="msdndomain:DevLangVers">embedded Visual C++</category>
+      <category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:ProductVers">Windows CE</category>
+      <category domain="msdndomain:ProductVers">Windows CE .NET</category>
+      <category domain="msdndomain:ProductVers">Windows XP Embedded</category>
+      <category domain="msdndomain:Subject">Mobility</category>
+      <category domain="msdndomain:TechnologyVers">.NET Compact Framework</category>
+      <category domain="msdndomain:TechnologyVers">Mobile Device Development</category>
+      <category domain="msdndomain:TechnologyVers">MS Mobile Internet Toolkit</category>
+      <category domain="msdndomain:TechnologyVers">Pocket PC</category>
+      <category domain="msdndomain:TechnologyVers">Pocket PC 2000</category>
+      <category domain="msdndomain:TechnologyVers">Pocket PC 2002</category>
+      <category domain="msdndomain:TechnologyVers">Pocket PC 2003</category>
+      <category domain="msdndomain:TechnologyVers">Smartphone</category>
+      <category domain="msdndomain:TechnologyVers">Smartphone 2003</category>
+      <msdn:developmentLanguage>embedded Visual Basic</msdn:developmentLanguage>
+      <msdn:developmentLanguage>embedded Visual C++</msdn:developmentLanguage>
+      <msdn:technology>.NET Compact Framework</msdn:technology>
+      <msdn:technology>Mobile Device Development</msdn:technology>
+      <msdn:technology>MS Mobile Internet Toolkit</msdn:technology>
+      <msdn:technology>Pocket PC</msdn:technology>
+      <msdn:technology>Pocket PC 2000</msdn:technology>
+      <msdn:technology>Pocket PC 2002</msdn:technology>
+      <msdn:technology>Pocket PC 2003</msdn:technology>
+      <msdn:technology>Smartphone</msdn:technology>
+      <msdn:technology>Smartphone 2003</msdn:technology>
+      <msdn:product>Visual Studio .NET 2003</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <msdn:product>Windows CE</msdn:product>
+      <msdn:product>Windows CE .NET</msdn:product>
+      <msdn:product>Windows XP Embedded</msdn:product>
+      <guid isPermaLink="false">Iliad_7062</guid>
+      <pubDate>Wed, 06 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Download the Windows XP Embedded with SP2 Technology Preview</title>
+      <description>Build a more secure device experience and get more device update options when you take advantage of embedded-specific enhancements and componentization of the Windows XP Embedded with SP2 release.</description>
+      <link>http://msdn.microsoft.com/embedded/getstart/prodoverview/future/techpreview/xptechpreview/default.aspx</link>
+      <dc:creator>Ravi Gopal</dc:creator>
+      <category domain="msdndomain:ContentType">Link only</category>
+      <category domain="msdndomain:ProductVers">Windows XP Embedded</category>
+      <msdn:product>Windows XP Embedded</msdn:product>
+      <guid isPermaLink="false">Iliad_7069</guid>
+      <pubDate>Wed, 06 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

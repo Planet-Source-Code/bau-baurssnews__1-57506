@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: Visual C++</title>
+    <link>http://msdn.microsoft.com/visualc/</link>
+    <description>The latest information for developers on Visual C++.</description>
+    <language>en-us</language>
+    <pubDate>Fri, 19 Nov 2004 14:00:13 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Nov 2004 14:00:13 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>C++ Q&amp;A: Deleting Managed Objects, Wrapping a Library, and More</title>
+      <description>Deleting Managed Objects, Wrapping a Library, and More</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/CQA/default.aspx</link>
+      <dc:creator>Paul DiLascia</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C++</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>C++</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <guid isPermaLink="false">Iliad_7224</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using CLR Integration in SQL Server 2005</title>
+      <description>Compare CLR-based programming models with SQL Server models such as Transact SQL and extended stored procedures. Get tips on how to choose a model, code samples, and more.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql90/html/sqlclrguidance.asp</link>
+      <dc:creator>Balaji Rathakrishnan et al</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">TSQL</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005</category>
+      <category domain="msdndomain:ProductVers">Visual Basic .NET</category>
+      <category domain="msdndomain:ProductVers">Visual C# 2005</category>
+      <category domain="msdndomain:ProductVers">Visual C++ .NET</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+      <msdn:developmentLanguage>TSQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework 2.0</msdn:technology>
+      <msdn:product>SQL Server 2005</msdn:product>
+      <msdn:product>Visual Basic .NET</msdn:product>
+      <msdn:product>Visual C# 2005</msdn:product>
+      <msdn:product>Visual C++ .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7169</guid>
+      <pubDate>Fri, 12 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Visual C++ Toolkit 2003 from the Command Prompt</title>
+      <description>Brian Johnson describes how to use the Microsoft Visual C++ compiler that ships with the Visual C++ Toolkit 2003 from the command line. This article is for beginners who've never used a command line compiler before.</description>
+      <link>http://msdn.microsoft.com/visualc/default.aspx?pull=/library/en-us/dv_vstechart/html/vctoolkitcmd.asp</link>
+      <dc:creator>brianjo</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">C++</category>
+      <category domain="msdndomain:ProductVers">Visual C++ 7.0</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>C++</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>Visual C++ 7.0</msdn:product>
+      <guid isPermaLink="false">Iliad_7193</guid>
+      <pubDate>Wed, 10 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>App Lockdown: Defend Your Apps and Critical User Info with Defensive Coding Techniques</title>
+      <description>Protect all your sensitive data to avert disaster.</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/11/AppLockdown/default.aspx</link>
+      <dc:creator>Kenny Kerr</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:DevLangVers">C++</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:Subject">Security</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">COM</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:developmentLanguage>C++</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>COM</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <guid isPermaLink="false">Iliad_7133</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ Q&amp;A: Calling Virtual Functions, Persisting View State, POD Type</title>
+      <description>Calling Virtual Functions, Persisting View State, POD Type</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/11/CQA/default.aspx</link>
+      <dc:creator>Paul DiLascia</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C#</category>
+      <category domain="msdndomain:DevLangVers">C++</category>
+      <category domain="msdndomain:ProductVers">C#</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>C#</msdn:developmentLanguage>
+      <msdn:developmentLanguage>C++</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>C#</msdn:product>
+      <guid isPermaLink="false">Iliad_7151</guid>
+      <pubDate>Wed, 20 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Creating Karaoke, Windows Media Player Style</title>
+      <description>Discover how to write a Microsoft Windows Media Player Audio DSP plug-in that can remove primary vocals from audio files.</description>
+      <link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwmt/html/wmpplugin.asp</link>
+      <dc:creator>Stephen Toub</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C++</category>
+      <category domain="msdndomain:Subject">Audio and video</category>
+      <category domain="msdndomain:TechnologyVers">Windows Media Technologies</category>
+      <msdn:developmentLanguage>C++</msdn:developmentLanguage>
+      <msdn:technology>Windows Media Technologies</msdn:technology>
+      <guid isPermaLink="false">Iliad_7091</guid>
+      <pubDate>Fri, 08 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moving to .NET and WinFX: a Roadmap for C/C++ Applications</title>
+      <description>Understand how to move your C/C++ apps to the .NET Framework without leaving behind your investment in existing code.</description>
+      <link>http://msdn.microsoft.com/visualc/default.aspx?pull=/library/en-us/dnvs05/html/movNETWFX.asp</link>
+      <dc:creator>Kate Gregory</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">C++</category>
+      <category domain="msdndomain:ProductVers">Visual C++</category>
+      <category domain="msdndomain:ProductVers">Visual C++ .NET</category>
+      <category domain="msdndomain:ProductVers">Visual C++ 8.0</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">Common Language Runtime (CLR)</category>
+      <category domain="msdndomain:TechnologyVers">Managed Extensions for C++</category>
+      <msdn:developmentLanguage>C++</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>Common Language Runtime (CLR)</msdn:technology>
+      <msdn:technology>Managed Extensions for C++</msdn:technology>
+      <msdn:product>Visual C++</msdn:product>
+      <msdn:product>Visual C++ .NET</msdn:product>
+      <msdn:product>Visual C++ 8.0</msdn:product>
+      <guid isPermaLink="false">Iliad_7067</guid>
+      <pubDate>Thu, 07 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Baker's Dozen: Thirteen Things You Should Know Before Porting Your Visual C++ .NET Programs to Visual Studio 2005</title>
+      <description>Stan Lippman discusses thirteen things you need to know before porting your Visual C++ .NET programs to Visual Studio 2005.</description>
+      <link>http://msdn.microsoft.com/visualc/default.aspx?pull=/library/en-us/dnvs05/html/BakerDozen.asp</link>
+      <dc:creator>Stanley B. Lippman</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">C++</category>
+      <category domain="msdndomain:ProductVers">Visual C++</category>
+      <category domain="msdndomain:ProductVers">Visual C++ .NET</category>
+      <category domain="msdndomain:ProductVers">Visual C++ 8.0</category>
+      <category domain="msdndomain:ProductVers">Visual Studio</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>C++</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>Visual C++</msdn:product>
+      <msdn:product>Visual C++ .NET</msdn:product>
+      <msdn:product>Visual C++ 8.0</msdn:product>
+      <msdn:product>Visual Studio</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7039</guid>
+      <pubDate>Thu, 30 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ Q&amp;A: Create Client Windows, Drag and Drop Between Listboxes</title>
+      <description> Create Client Windows, Drag and Drop Between Listboxes</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/10/CQA/default.aspx</link>
+      <dc:creator>Paul DiLascia</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:DevLangVers">C++</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>C++</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <guid isPermaLink="false">Iliad_7088</guid>
+      <pubDate>Wed, 15 Sep 2004 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Translation Guide: Moving Your Programs from Managed Extensions for C++ to C++/CLI</title>
+      <description>Leverage C++/CLI, a dynamic programming paradigm extension to the ISO-C++ standard language, with this translation guide that maps V1 language features to V2.</description>
+      <link>http://msdn.microsoft.com/visualc/default.aspx?pull=/library/en-us/dnvs05/html/TransGuide.asp</link>
+      <dc:creator>Stan Lippman</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">C</category>
+      <category domain="msdndomain:DevLangVers">C++</category>
+      <category domain="msdndomain:ProductVers">Visual C++</category>
+      <category domain="msdndomain:ProductVers">Visual C++ .NET</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:TechnologyVers">Managed Extensions for C++</category>
+      <msdn:developmentLanguage>C</msdn:developmentLanguage>
+      <msdn:developmentLanguage>C++</msdn:developmentLanguage>
+      <msdn:technology>Managed Extensions for C++</msdn:technology>
+      <msdn:product>Visual C++</msdn:product>
+      <msdn:product>Visual C++ .NET</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <guid isPermaLink="false">Iliad_6885</guid>
+      <pubDate>Fri, 20 Aug 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rsspretty.xsl' version='1.0'?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+  <channel>
+    <title>MSDN: Data Access and Storage</title>
+    <link>http://msdn.microsoft.com/data/</link>
+    <description>The latest technical information on Data Access and Storage for developers.</description>
+    <language>en-us</language>
+    <pubDate>Sat, 20 Nov 2004 14:01:00 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Nov 2004 14:01:00 GMT</lastBuildDate>
+    <generator>MSDN RSS Service 1.0.1756.17695</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>Tracing Data Access</title>
+      <description>Apply the tracing functionality in ADO.NET 2.0 to track down bugs and bottlenecks in your applications.</description>
+      <link>http://msdn.microsoft.com/data/default.aspx?pull=/library/en-us/dnadonet/html/tracingdataaccess.asp</link>
+      <dc:creator>Bob Beauchemin</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+      <category domain="msdndomain:TechnologyVers">ADO.NET 2.0</category>
+      <category domain="msdndomain:TechnologyVers">Data Access</category>
+      <msdn:technology>.NET Framework 2.0</msdn:technology>
+      <msdn:technology>ADO.NET 2.0</msdn:technology>
+      <msdn:technology>Data Access</msdn:technology>
+      <guid isPermaLink="false">Iliad_7202</guid>
+      <pubDate>Fri, 19 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tutorial: Creating an Ad Hoc Report Application with Reporting Services</title>
+      <description>New to .NET programming or Reporting Services? Get step-by-step instruction on creating a .NET application to create and publish reports using the Reporting Services API.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql2k/html/AdHocRepSr.asp</link>
+      <dc:creator>Kathrine Lord</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">HTML</category>
+      <category domain="msdndomain:DevLangVers">SQL</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2000</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">.NET development</category>
+      <category domain="msdndomain:Subject">Enterprise development</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <msdn:developmentLanguage>HTML</msdn:developmentLanguage>
+      <msdn:developmentLanguage>SQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:product>SQL Server 2000</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7207</guid>
+      <pubDate>Fri, 19 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data Points: Efficient Coding With Strongly Typed DataSets</title>
+      <description>Efficient Coding With Strongly Typed DataSets</description>
+      <link>http://msdn.microsoft.com/msdnmag/issues/04/12/DataPoints/default.aspx</link>
+      <dc:creator>John Papa</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">ADO</category>
+      <category domain="msdndomain:TechnologyVers">ADO.NET</category>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>ADO</msdn:technology>
+      <msdn:technology>ADO.NET</msdn:technology>
+      <guid isPermaLink="false">Iliad_7220</guid>
+      <pubDate>Thu, 18 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using CLR Integration in SQL Server 2005</title>
+      <description>Compare CLR-based programming models with SQL Server models such as Transact SQL and extended stored procedures. Get tips on how to choose a model, code samples, and more.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql90/html/sqlclrguidance.asp</link>
+      <dc:creator>Balaji Rathakrishnan et al</dc:creator>
+      <category domain="msdndomain:ContentType">Technical Article</category>
+      <category domain="msdndomain:DevLangVers">TSQL</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005</category>
+      <category domain="msdndomain:ProductVers">Visual Basic .NET</category>
+      <category domain="msdndomain:ProductVers">Visual C# 2005</category>
+      <category domain="msdndomain:ProductVers">Visual C++ .NET</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+      <msdn:developmentLanguage>TSQL</msdn:developmentLanguage>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework 2.0</msdn:technology>
+      <msdn:product>SQL Server 2005</msdn:product>
+      <msdn:product>Visual Basic .NET</msdn:product>
+      <msdn:product>Visual C# 2005</msdn:product>
+      <msdn:product>Visual C++ .NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7169</guid>
+      <pubDate>Fri, 12 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSDN TV: Writing Managed Code for SQL Server 2005 Using Visual Studio 2005</title>
+      <description>SQL Server 2005 allows users to write managed code that runs on the server. Visual Studio 2005 makes it easy to build stored procedures, functions, triggers, data types and aggregates in managed code. Milind Lele shows how to create, deploy, and debug a user defined data type (UDT) in Visual Basic.</description>
+      <link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20041104SQLServerML/manifest.xml</link>
+      <dc:creator>Milind Lele</dc:creator>
+      <category domain="msdndomain:ContentType">MSDN TV</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2005</category>
+      <category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+      <category domain="msdndomain:TechnologyVers">Common Language Runtime (CLR)</category>
+      <msdn:technology>Common Language Runtime (CLR)</msdn:technology>
+      <msdn:product>SQL Server 2005</msdn:product>
+      <msdn:product>Visual Studio 2005</msdn:product>
+      <guid isPermaLink="false">Iliad_7185</guid>
+      <pubDate>Thu, 04 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>FoxTalk: Extending the VFP 9 IDE with MENUHIT and MENUCONTEXT</title>
+      <description>In this article from September's FoxTalk, Doug Hennig shows you how to customize the VFP 9 IDE in ways you never thought possible.</description>
+      <link>http://msdn.microsoft.com/vfoxpro/default.aspx?pull=/library/en-us/dnfoxtk04/html/ft04i5.asp</link>
+      <dc:creator>Doug Hennig</dc:creator>
+      <category domain="msdndomain:ContentType">Periodicals</category>
+      <category domain="msdndomain:ProductVers">Visual FoxPro</category>
+      <msdn:product>Visual FoxPro</msdn:product>
+      <guid isPermaLink="false">Iliad_7153</guid>
+      <pubDate>Mon, 01 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smart Access: Sending E-mail with Access</title>
+      <description>Smart Access columnist Rick Dobson explores using the robust database management features of Access to develop e-mail solutions for managing business relationships.</description>
+      <link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/dnsmart04/html/sa04i6.asp</link>
+      <dc:creator>Rick Dobson</dc:creator>
+      <category domain="msdndomain:ContentType">Periodicals</category>
+      <category domain="msdndomain:ProductVers">Access</category>
+      <category domain="msdndomain:ProductVers">Microsoft Access 2003</category>
+      <msdn:product>Access</msdn:product>
+      <msdn:product>Microsoft Access 2003</msdn:product>
+      <guid isPermaLink="false">Iliad_7154</guid>
+      <pubDate>Mon, 01 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL Server Professional: Testing, 1, 2, 3... Testing... Check?</title>
+      <description>SQL Server Professional magazine writer S. A. Miller shows how unit tests can help make testing easier and better, along with an open source testing framework called TSQLUnit.</description>
+      <link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsqlpro04/html/sp04i1.asp</link>
+      <dc:creator>S. A. Miller</dc:creator>
+      <category domain="msdndomain:ContentType">Periodicals</category>
+      <category domain="msdndomain:DevLangVers">TSQL</category>
+      <category domain="msdndomain:ProductVers">SQL Server 2000</category>
+      <category domain="msdndomain:TechnologyVers">SQL Server</category>
+      <category domain="msdndomain:TechnologyVers">SQL Server Development Tools</category>
+      <msdn:developmentLanguage>TSQL</msdn:developmentLanguage>
+      <msdn:technology>SQL Server</msdn:technology>
+      <msdn:technology>SQL Server Development Tools</msdn:technology>
+      <msdn:product>SQL Server 2000</msdn:product>
+      <guid isPermaLink="false">Iliad_7159</guid>
+      <pubDate>Mon, 01 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio .NET Developer: Coding for Concurrency in ADO.NET</title>
+      <description>Visual Studio writer Rick Dobson shows you how optimistic concurrency works and how to make your applications more robust in high-scalability environments.</description>
+      <link>http://msdn.microsoft.com/vstudio/default.aspx?pull=/library/en-us/dnhcvs04/html/vs04i1.asp</link>
+      <dc:creator>Rick Dobson</dc:creator>
+      <category domain="msdndomain:ContentType">Periodicals</category>
+      <category domain="msdndomain:DevLangVers">Visual Basic</category>
+      <category domain="msdndomain:ProductVers">Visual Basic .NET</category>
+      <category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+      <category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+      <category domain="msdndomain:Subject">Data Access</category>
+      <category domain="msdndomain:TechnologyVers">.NET Framework</category>
+      <category domain="msdndomain:TechnologyVers">ADO.NET</category>
+      <msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+      <msdn:technology>.NET Framework</msdn:technology>
+      <msdn:technology>ADO.NET</msdn:technology>
+      <msdn:product>Visual Basic .NET</msdn:product>
+      <msdn:product>Visual Studio .NET 2003</msdn:product>
+      <msdn:product>Visual Studio.NET</msdn:product>
+      <guid isPermaLink="false">Iliad_7161</guid>
+      <pubDate>Mon, 01 Nov 2004 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Support Tools Available For Stress Testing &amp; Performance Analysis</title>
+      <description>This download provides two main tools used by the Microsoft SQL Server Product Support teams, Read80Trace and OSTRESS.</description>
+      <link>http://www.microsoft.com/downloads/details.aspx?familyid=5691ab53-893a-4aaf-b4a6-9a8bb9669a8b&amp;displaylang=en</link>
+      <dc:creator>Microsoft</dc:creator>
+      <category domain="msdndomain:ContentType">Download</category>
+      <category domain="msdndomain:ProductVers">SQL Server</category>
+      <category domain="msdndomain:Subject">Performance</category>
+      <msdn:product>SQL Server</msdn:product>
+      <guid isPermaLink="false">Iliad_7232</guid>
+      <pubDate>Fri, 29 Oct 2004 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
